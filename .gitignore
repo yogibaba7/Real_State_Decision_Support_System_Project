@@ -1,0 +1,55 @@
+# ----------------------------
+# Virtual Environment
+# ----------------------------
+myrsdss/
+venv/
+env/
+__pycache__/
+*.pyc
+
+venv/
+env/
+ENV/
+.venv/
+
+# ----------------------------
+# Python cache files
+# ----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ----------------------------
+# Jupyter Notebook checkpoints
+# ----------------------------
+.ipynb_checkpoints/
+
+# ----------------------------
+# Environment variables
+# ----------------------------
+.env
+
+# ----------------------------
+# Model files (IMPORTANT 🔥)
+# ----------------------------
+models/
+*.joblib
+*.pkl
+
+# ----------------------------
+# VS Code settings
+# ----------------------------
+.vscode/
+
+# ----------------------------
+# OS files
+# ----------------------------
+.DS_Store
+Thumbs.db
+
+# ----------------------------
+# Streamlit cache
+# ----------------------------
+.streamlit/
+

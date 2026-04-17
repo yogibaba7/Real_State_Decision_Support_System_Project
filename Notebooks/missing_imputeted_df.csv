@@ -1,0 +1,1567 @@
+colony,property_type,price_outer,price_per_sqft,Total Floors,Property Age,bedrooms,bathrooms,balconies,built_up_area,study room,servant room,store room,pooja room,others,view floor plan,furnishing_type,luxury_score,Overlooking_Categories
+bhopal,House,105.0,3750,1.0,Old Property,7,5,0,2800.0,0,0,0,0,0,0,1,71,Green View Homes
+kolar road,Flat,85.0,6508,2.0,New Property,3,3,1,1567.1999999999998,0,0,0,1,0,1,1,35,Green View Homes
+katara hills,Flat,25.0,2173,3.0,New Property,2,2,3,957.0,0,0,0,0,0,0,1,15,Green View Homes
+aishbagh,House,65.0,5909,2.0,Old Property,4,5,1,2400.0,0,0,0,1,0,0,0,18,Road Facing Homes
+chuna bhatti,House,650.0,16250,3.0,New Property,6,6,2,4000.0,1,1,1,1,0,0,2,10,Road Facing Homes
+kolar road,House,75.0,4687,1.0,New Property,4,6,2,2400.0,1,0,1,1,0,0,1,37,Road Facing Homes
+bairagarh,House,65.0,3611,3.0,Moderate Property,2,4,0,1800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,House,71.0,9659,2.0,New Property,3,3,2,735.0,0,0,0,0,0,0,1,31,Green View Homes
+kolar road,House,145.0,5370,1.0,New Property,4,4,1,2700.0,0,0,0,0,0,0,1,13,Road Facing Homes
+outside bhopal,House,25.0,2976,2.0,Moderate Property,2,1,3,840.0,0,0,0,0,0,0,1,28,Green View Homes
+outside bhopal,House,80.0,4210,2.0,New Property,3,3,2,3000.0,0,0,0,0,0,0,0,17,Green View Homes
+hoshangabad road,House,36.9,5271,1.0,Moderate Property,3,3,1,1200.0,0,0,0,0,0,0,1,9,Green View Homes
+bypass road,House,37.0,3700,1.0,Moderate Property,3,2,1,1000.0,0,0,0,0,0,0,1,0,Green View Homes
+katara hills,Flat,10.0,2000,3.0,Moderate Property,1,1,1,600.0,0,0,0,0,0,0,1,10,Road Facing Homes
+hoshangabad road,Flat,33.0,2750,4.0,Moderate Property,2,2,2,932.8446053670675,0,0,0,0,0,0,1,69,Amenity Facing Homes
+piplani,House,50.0,6153,3.0,Moderate Property,2,3,3,650.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,69.0,4162,3.0,Moderate Property,3,3,3,1400.8216490595464,0,0,1,0,0,0,0,117,Amenity Facing Homes
+salaiya,Flat,68.0,3885,5.0,New Property,3,3,2,1360.3983828269734,0,0,0,0,0,0,1,67,Amenity Facing Homes
+awadhpuri,Flat,23.0,3622,1.0,Old Property,2,2,2,762.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+bhopal,House,40.0,7619,3.0,New Property,2,1,1,525.0,0,0,0,0,0,0,1,22,Road Facing Homes
+bhopal,House,180.0,18750,2.0,Old Property,4,4,1,960.0,0,0,0,0,0,0,0,3,Road Facing Homes
+chuna bhatti,House,150.0,10000,2.0,Old Property,3,4,2,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,House,260.0,18571,4.0,New Property,4,5,1,1400.0,0,1,0,1,1,0,1,22,Amenity Facing Homes
+bagmuliya,Flat,60.0,3833,1.0,New Property,3,3,3,1878.0,0,0,0,0,0,0,0,28,Green View Homes
+bairagarh,House,40.0,5925,1.0,Moderate Property,3,3,0,675.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,House,200.0,9523,2.0,Moderate Property,6,7,3,2100.0,0,0,1,1,0,0,0,13,Green View Homes
+bagmuliya,House,295.0,10350,2.0,New Property,4,4,1,2850.0,0,0,0,1,0,0,0,31,Amenity Facing Homes
+gandhinagar,Flat,7.0,1272,1.0,Moderate Property,1,1,1,660.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,House,600.0,30769,1.0,Old Property,4,4,1,1950.0,0,0,0,0,0,0,0,9,Green View Homes
+habib ganj,Flat,26.0,4031,2.0,Old Property,1,1,1,774.0,0,0,0,1,0,0,0,22,Road Facing Homes
+hoshangabad road,Flat,22.5,2588,4.0,Moderate Property,2,1,1,660.7649288016728,0,0,0,0,0,0,1,51,Amenity Facing Homes
+gandhinagar,House,85.0,5666,1.0,New Property,3,4,2,1000.0,0,0,0,0,0,0,1,25,Green View Homes
+katara hills,House,100.0,8333,2.0,Moderate Property,3,3,1,1200.0,0,0,0,0,0,0,1,70,Green View Homes
+outside bhopal,House,55.0,6111,2.0,New Property,4,2,2,2160.0,0,0,0,0,1,0,1,3,Green View Homes
+ayodhya bypass,Flat,75.0,3797,7.0,Moderate Property,4,4,3,1535.3067463332986,0,0,0,0,0,0,0,56,Amenity Facing Homes
+katara hills,House,78.0,6500,1.0,New Property,2,2,1,1200.0,0,0,0,1,0,0,1,14,Green View Homes
+bagmuliya,House,231.0,9240,2.0,Old Property,4,3,2,3000.0,1,1,0,0,1,0,1,8,Green View Homes
+katara hills,House,100.0,8733,2.0,Moderate Property,3,3,2,2000.0,0,0,0,1,0,0,1,9,Green View Homes
+shirdipuram,Flat,82.0,4823,2.0,New Property,3,3,2,1321.5298576033456,0,0,0,0,0,0,0,62,Amenity Facing Homes
+gehu kheda,House,100.0,3333,1.0,New Property,6,6,2,3000.0,0,0,0,0,0,0,1,21,Road Facing Homes
+kolar road,House,39.0,520,2.0,Moderate Property,3,2,1,7500.0,0,0,0,0,0,0,1,8,Road Facing Homes
+piplani,House,200.0,8333,2.0,Old Property,5,4,2,2400.0,0,0,0,0,0,0,1,19,Road Facing Homes
+bhopal,Flat,26.0,3933,2.0,Old Property,2,2,0,513.8419034563597,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,35.0,2333,6.0,New Property,2,2,3,1800.0,0,0,0,0,0,1,0,27,Green View Homes
+kolar road,House,45.0,3333,1.0,New Property,3,3,0,1350.0,0,0,0,0,0,0,1,13,Road Facing Homes
+neelbad,House,59.0,3856,1.0,Moderate Property,3,2,0,1530.0,0,0,0,0,0,0,1,9,Road Facing Homes
+hoshangabad road,Flat,58.0,5800,3.0,New Property,3,2,2,1200.0,0,0,0,0,0,0,0,45,Green View Homes
+piplani,Flat,45.0,3750,1.0,Old Property,2,1,2,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,45.0,3409,3.0,New Property,3,2,2,1320.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,House,175.0,3696,1.0,New Property,7,6,3,4600.0,0,0,0,0,0,0,1,7,Green View Homes
+bhopal,House,125.0,10417,2.0,Old Property,4,4,2,1440.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,House,32.0,8000,1.0,Old Property,2,2,1,600.0,0,0,0,0,0,0,1,9,Green View Homes
+shahjahanabad,Flat,25.0,2617,4.0,New Property,4,4,1,1146.0,0,0,0,0,0,0,0,73,Road Facing Homes
+shahjahanabad,Flat,12.0,2962,2.0,Old Property,1,1,1,486.0,0,0,0,0,0,0,1,3,Road Facing Homes
+central bhopal,House,175.0,7000,1.0,Old Property,3,3,2,3000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,210.0,12580,1.0,Old Property,4,3,3,2400.0,1,0,0,1,0,0,0,24,Green View Homes
+ayodhya bypass,Flat,25.0,5000,3.0,Moderate Property,1,1,1,388.68525223627813,0,0,0,0,0,0,1,65,Road Facing Homes
+gandhinagar,House,115.0,7666,2.0,Moderate Property,4,5,3,1500.0,0,0,0,1,0,0,0,7,Green View Homes
+habib ganj,House,150.0,10000,2.0,Old Property,5,4,2,1500.0,0,0,0,0,0,0,1,9,Green View Homes
+gehu kheda,House,31.0,5166,2.0,New Property,2,3,1,600.0,0,0,0,1,0,0,1,6,Road Facing Homes
+misrod,House,170.0,10625,2.0,Old Property,5,5,2,3200.0,1,1,1,1,0,0,1,85,Amenity Facing Homes
+katara hills,Flat,22.0,2355,2.0,Moderate Property,2,2,2,726.0640511773676,0,0,0,0,0,0,1,42,Amenity Facing Homes
+shahjahanabad,Flat,35.0,4545,3.0,Moderate Property,2,2,1,924.0,0,0,0,0,0,0,1,9,Road Facing Homes
+patel nagar,House,34.9,5816,2.0,New Property,2,2,1,800.0,0,0,0,0,0,0,0,24,Road Facing Homes
+bagmuliya,Flat,23.0,3066,1.0,Old Property,2,2,1,900.0,0,0,0,0,0,0,1,35,Green View Homes
+bhopal,House,70.0,5833,1.0,Old Property,3,2,2,1200.0,0,0,0,1,1,0,1,0,Road Facing Homes
+patel nagar,House,56.0,6363,2.0,Old Property,3,2,2,1500.0,0,0,0,0,0,0,1,13,Road Facing Homes
+habib ganj,House,270.0,10588,2.0,Old Property,5,4,3,2550.0,1,1,0,0,0,0,1,22,Road Facing Homes
+ayodhya bypass,House,65.0,4333,1.0,Old Property,3,3,0,1500.0,0,0,1,0,0,0,1,0,Road Facing Homes
+karond,House,70.0,7000,2.0,New Property,4,2,1,1000.0,0,0,0,0,1,0,0,4,Green View Homes
+bhopal,House,69.0,2156,2.0,New Property,2,2,2,3200.0,0,0,0,1,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,42.0,2593,4.0,Under Construction,3,3,0,1620.0,0,0,0,0,0,0,1,8,Amenity Facing Homes
+awadhpuri,Flat,20.0,2191,2.0,New Property,3,2,2,691.8597489805751,0,0,0,0,0,0,1,33,Amenity Facing Homes
+habib ganj,Flat,22.75,3033,2.0,Old Property,2,1,1,900.0,0,0,0,0,0,0,0,0,Road Facing Homes
+ayodhya nagar,House,38.0,4750,2.0,Moderate Property,3,3,0,800.0,0,0,0,0,0,0,1,3,Road Facing Homes
+bagmuliya,Flat,42.0,4666,4.0,New Property,3,2,2,1200.0,0,0,0,0,0,0,0,35,Green View Homes
+kolar road,House,25.0,5555,1.0,New Property,3,3,0,450.0,0,0,0,0,0,0,1,10,Amenity Facing Homes
+karond,House,50.0,6666,3.0,New Property,2,7,3,750.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,100.0,4593,3.0,New Property,4,4,2,1630.0,1,0,0,0,0,0,1,30,Amenity Facing Homes
+arera colony,Flat,15.0,3000,3.0,Old Property,1,1,1,600.0,0,0,0,0,0,0,1,3,Road Facing Homes
+awadhpuri,House,95.0,7600,2.0,New Property,4,5,0,1250.0,0,0,0,0,0,0,1,4,Green View Homes
+bawadia kalan,House,550.0,15000,3.0,Under Construction,5,8,3,3200.0,1,1,1,1,0,0,1,22,Road Facing Homes
+hoshangabad road,House,100.0,9259,2.0,Moderate Property,4,4,2,1400.0,0,0,0,0,0,0,1,21,Green View Homes
+gandhinagar,Flat,30.0,3000,4.0,Moderate Property,2,2,3,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,Flat,14.0,3500,1.0,New Property,1,1,0,310.9482017890225,0,0,0,0,0,0,1,0,Road Facing Homes
+central bhopal,Flat,43.0,10804,1.0,Old Property,1,1,1,477.59999999999997,0,0,0,0,0,0,0,0,Road Facing Homes
+misrod,Flat,87.0,5605,2.0,New Property,4,4,2,1206.4790229414073,0,1,0,0,0,0,1,91,Amenity Facing Homes
+shahpura,House,300.0,16666,2.0,Old Property,3,3,1,3000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,27.0,6750,2.0,New Property,2,2,1,400.0,0,0,0,0,0,0,1,20,Road Facing Homes
+ayodhya bypass,House,315.0,21000,3.0,Moderate Property,2,2,2,1500.0,0,1,0,0,1,0,1,4,Green View Homes
+bhopal,House,250.0,9259,1.0,Old Property,4,3,2,5400.0,1,1,0,0,0,0,0,27,Green View Homes
+bhopal,Flat,50.0,6666,1.0,Old Property,2,2,2,750.0,0,0,0,1,1,0,0,2,Road Facing Homes
+bhopal,Flat,38.0,3830,2.0,Old Property,2,2,2,992.0,0,0,0,0,0,0,0,50,Green View Homes
+navi bagh,House,55.0,3928,1.0,Moderate Property,3,2,0,1400.0,0,0,0,0,0,0,1,3,Premium Scenic Homes
+bagmuliya,House,202.0,8015,1.0,Old Property,3,3,1,2520.0,0,0,0,0,0,0,1,85,Road Facing Homes
+bagmuliya,House,35.0,4861,1.0,Old Property,2,2,0,720.0,0,0,0,0,1,0,1,8,Green View Homes
+ayodhya nagar,House,130.0,7879,2.0,Moderate Property,4,2,0,1650.0,0,0,0,0,0,0,1,3,Road Facing Homes
+katara hills,Flat,30.0,2222,4.0,Moderate Property,3,2,2,1350.0,0,0,0,0,0,0,1,24,Green View Homes
+bagmugaliya,House,110.0,7333,2.0,Old Property,5,4,2,2200.0,1,0,0,1,1,0,1,22,Green View Homes
+ashoka garden,House,105.0,4200,3.0,Old Property,4,5,1,2500.0,0,0,0,0,0,0,1,27,Road Facing Homes
+ayodhya bypass,Flat,5.8,2989,1.0,Moderate Property,1,1,0,246.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,20.0,3120,5.0,New Property,2,1,1,712.0,0,0,0,0,0,1,1,65,Road Facing Homes
+shahpura,House,180.0,8571,2.0,Old Property,5,4,3,2100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,45.0,4245,4.0,New Property,3,2,0,824.0127347409097,0,0,0,0,0,0,1,25,Green View Homes
+piplani,House,125.0,8333,2.0,Moderate Property,3,2,2,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+central bhopal,Flat,225.0,11166,3.0,New Property,3,4,3,2418.0,0,1,0,0,0,0,1,35,Premium Scenic Homes
+bagmugaliya,House,65.0,6632,3.0,Moderate Property,2,3,2,2000.0,0,0,0,0,0,0,2,13,Green View Homes
+navi bagh,House,29.0,3222,1.0,New Property,3,2,0,900.0,0,0,0,0,0,0,1,3,Premium Scenic Homes
+awadhpuri,House,35.0,4666,2.0,New Property,2,2,2,750.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+govindpura,Flat,31.5,3539,2.0,Moderate Property,3,2,2,950.0,0,0,1,0,0,0,0,55,Road Facing Homes
+bhopal,House,150.0,6250,1.0,New Property,4,4,0,2880.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,35.0,3500,2.0,Moderate Property,3,2,2,1200.0,0,0,0,0,0,0,1,45,Road Facing Homes
+ayodhya bypass,Flat,30.5,2839,6.0,Moderate Property,3,3,2,1288.8,1,0,0,0,0,0,0,19,Green View Homes
+salaiya,Flat,90.0,5142,6.0,New Property,3,2,3,1556.0,0,0,0,0,0,0,1,66,Amenity Facing Homes
+gehu kheda,House,48.0,7666,2.0,New Property,3,3,1,1100.0,0,0,0,0,1,0,0,3,Road Facing Homes
+katara hills,Flat,25.0,3846,2.0,Moderate Property,2,2,1,779.0,0,0,0,0,0,0,0,82,Green View Homes
+hoshangabad road,House,42.0,5250,2.0,New Property,3,2,1,1350.0,1,0,0,1,0,0,1,9,Green View Homes
+hoshangabad road,House,125.0,11061,2.0,New Property,4,4,3,2400.0,1,0,0,1,1,0,0,56,Premium Scenic Homes
+katara hills,House,75.0,9615,2.0,New Property,3,3,2,780.0,0,0,0,0,0,0,1,71,Green View Homes
+kolar road,Flat,29.85,2388,4.0,New Property,3,2,2,1500.0,0,0,0,0,0,0,1,43,Amenity Facing Homes
+mahawadiya,Flat,21.0,1953,3.0,Old Property,3,2,1,876.0,0,0,0,0,0,1,1,12,Road Facing Homes
+hoshangabad road,Flat,37.0,2850,1.0,New Property,2,2,2,1009.0269148053779,0,0,0,0,0,0,1,46,Amenity Facing Homes
+bagmugaliya,Flat,38.0,2171,4.0,New Property,3,3,2,1360.3983828269734,0,0,0,0,0,0,0,59,Amenity Facing Homes
+piplani,Flat,25.0,2777,3.0,Old Property,2,2,1,1080.0,0,0,0,0,0,0,1,0,Road Facing Homes
+piplani,Flat,17.0,3090,1.0,Old Property,2,2,1,660.0,0,0,0,0,0,0,1,3,Road Facing Homes
+gandhinagar,Flat,40.0,4255,1.0,New Property,3,2,1,1128.0,0,0,0,0,0,0,1,28,Amenity Facing Homes
+shirdipuram,House,120.0,10454,2.0,New Property,4,4,2,1100.0,0,0,0,0,0,0,1,48,Green View Homes
+bypass road,House,15.0,2727,1.0,Moderate Property,1,1,1,550.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,35.0,5833,1.0,New Property,2,2,1,1200.0,0,0,0,0,0,0,1,3,Road Facing Homes
+awadhpuri,House,85.0,7391,3.0,Moderate Property,4,5,2,1150.0,0,0,0,1,0,0,1,4,Green View Homes
+karond,House,95.0,2111,3.0,New Property,7,6,0,4500.0,0,0,0,0,0,0,1,4,Green View Homes
+kolar road,House,80.0,5333,2.0,New Property,4,4,2,1500.0,0,0,0,0,0,0,1,13,Road Facing Homes
+mandideep,Flat,25.0,3333,1.0,New Property,2,2,1,900.0,0,0,0,0,0,0,1,35,Amenity Facing Homes
+misrod,House,110.0,10628,2.0,New Property,3,4,1,1600.0,0,0,0,1,0,0,0,7,Road Facing Homes
+arera colony,House,135.0,10384,3.0,New Property,3,3,2,1300.0,0,1,0,1,0,0,1,9,Green View Homes
+bhopal,Flat,35.0,3608,5.0,Moderate Property,2,2,1,1164.0,0,0,0,0,0,0,1,22,Amenity Facing Homes
+awadhpuri,House,280.0,11666,3.0,Moderate Property,5,3,0,2400.0,0,0,0,0,0,0,1,4,Road Facing Homes
+karond,House,75.0,7500,2.0,Moderate Property,2,1,0,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,House,150.0,7692,2.0,Moderate Property,4,5,2,1950.0,0,0,0,0,1,0,0,9,Road Facing Homes
+neelbad,House,50.0,3834,1.0,New Property,2,2,1,1564.8,0,0,0,0,0,0,1,42,Road Facing Homes
+bhopal,House,70.0,5154,2.0,Old Property,3,2,0,1358.0,1,0,0,1,0,0,1,0,Green View Homes
+hoshangabad road,House,250.0,22563,2.0,New Property,4,4,0,1108.0,0,0,0,0,0,0,1,22,Amenity Facing Homes
+piplani,House,450.0,16304,2.0,Old Property,8,5,3,2760.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,Flat,13.5,2250,4.0,New Property,2,1,1,600.0,0,0,0,0,1,0,1,44,Green View Homes
+ayodhya bypass,House,209.0,7013,3.0,Old Property,5,4,3,3690.0,1,1,0,1,1,0,0,65,Road Facing Homes
+awadhpuri,Flat,22.0,2444,1.0,Moderate Property,2,2,0,900.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shirdipuram,Flat,85.0,5667,4.0,Moderate Property,4,4,0,1500.0,0,0,0,0,0,0,1,36,Road Facing Homes
+bairagarh,House,42.0,3500,3.0,Moderate Property,3,2,0,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,House,70.0,8641,2.0,New Property,3,3,1,810.0,0,0,0,0,0,0,1,9,Road Facing Homes
+outside bhopal,House,25.0,3125,2.0,New Property,2,2,1,800.0,0,0,0,0,0,0,1,16,Green View Homes
+awadhpuri,Flat,22.0,3554,4.0,New Property,2,2,1,742.8,0,0,0,0,0,0,1,23,Green View Homes
+salaiya,Flat,57.0,3071,7.0,New Property,3,3,2,1375.0,0,0,0,0,0,0,1,59,Green View Homes
+shahjahanabad,House,250.0,10416,2.0,Old Property,6,6,1,5200.0,0,0,0,1,0,0,2,10,Road Facing Homes
+kolar road,Flat,20.0,6666,3.0,Old Property,1,1,2,233.21115134176688,0,0,0,0,0,0,1,0,Road Facing Homes
+central bhopal,Flat,315.0,12475,8.0,New Property,4,5,3,1962.8605237932045,0,1,0,0,0,0,1,69,Amenity Facing Homes
+gehu kheda,Flat,22.0,2242,5.0,New Property,2,2,3,825.0,0,0,0,0,0,0,1,41,Amenity Facing Homes
+kolar road,Flat,17.0,2125,2.0,Moderate Property,2,2,2,743.0,0,0,0,0,1,0,0,8,Road Facing Homes
+hoshangabad road,Flat,50.0,3125,2.0,Moderate Property,3,3,2,1462.0,0,0,0,0,0,0,0,71,Amenity Facing Homes
+ayodhya bypass,House,95.0,9178,2.0,Moderate Property,3,3,1,1035.0,0,0,0,0,0,0,1,4,Road Facing Homes
+bhopal,House,235.0,15666,2.0,Old Property,4,3,1,1500.0,0,0,0,0,0,0,1,8,Road Facing Homes
+hoshangabad road,Flat,35.0,3286,5.0,New Property,2,2,1,827.8995872632723,0,0,0,0,0,0,1,0,Green View Homes
+hoshangabad road,Flat,27.0,3020,4.0,Old Property,2,2,1,767.0,0,0,0,0,0,0,1,45,Green View Homes
+hoshangabad road,Flat,33.0,3666,6.0,Moderate Property,2,2,1,1006.0,0,0,0,0,0,0,0,59,Amenity Facing Homes
+misrod,Flat,35.0,2800,5.0,Moderate Property,3,2,1,971.7131305906953,0,0,0,0,0,0,0,62,Amenity Facing Homes
+lalgathi,Flat,26.0,3466,2.0,New Property,2,2,1,900.0,0,0,0,0,0,0,1,17,Green View Homes
+gandhinagar,Flat,35.0,2788,3.0,New Property,2,2,3,900.0,0,0,0,0,0,0,1,105,Amenity Facing Homes
+aishbagh,Flat,50.0,5000,1.0,Old Property,3,2,0,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,38.0,2000,6.0,Moderate Property,3,4,2,1350.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,House,200.0,14134,2.0,Moderate Property,4,4,2,2000.0,0,0,0,0,0,0,1,16,Amenity Facing Homes
+awadhpuri,Flat,30.0,2661,4.0,Old Property,3,2,2,1127.0,0,0,0,0,0,0,0,48,Road Facing Homes
+govindpura,Flat,170.0,9742,9.0,New Property,4,5,3,2094.0,1,1,0,0,0,0,2,28,Amenity Facing Homes
+chuna bhatti,Flat,17.0,2267,1.0,Old Property,2,2,0,750.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,30.0,3333,1.0,Old Property,2,2,2,900.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,Flat,75.0,4166,5.0,New Property,4,4,2,1399.2669080506012,0,0,0,0,0,0,0,43,Amenity Facing Homes
+shahpura,Flat,31.0,4428,4.0,Old Property,2,2,2,840.0,0,0,0,0,0,0,1,28,Green View Homes
+patel nagar,House,128.0,7111,2.0,Moderate Property,5,6,3,1800.0,0,1,0,0,0,0,1,11,Amenity Facing Homes
+bawadia kalan,Flat,68.0,4689,6.0,New Property,3,3,2,1589.0,0,0,0,0,0,0,0,35,Premium Scenic Homes
+bawadia kalan,House,500.0,13764,3.0,Under Construction,7,8,3,2906.0,0,1,1,1,0,0,1,16,Road Facing Homes
+outside bhopal,House,48.0,5333,2.0,New Property,4,2,2,900.0,0,0,0,0,1,0,1,0,Road Facing Homes
+mandideep,House,82.0,5125,2.0,Moderate Property,5,7,2,1600.0,0,1,0,0,0,0,1,8,Road Facing Homes
+bagmuliya,Flat,45.0,4285,5.0,Moderate Property,3,2,2,1260.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+ayodhya bypass,House,22.0,5597,2.0,Old Property,2,2,1,393.0,0,0,0,0,0,0,1,3,Road Facing Homes
+bhopal,Flat,165.0,6600,5.0,New Property,4,4,2,3000.0,0,0,0,1,1,1,1,26,Road Facing Homes
+arera colony,House,265.0,11736,2.0,Moderate Property,6,6,2,2258.0,1,1,1,1,0,0,2,44,Green View Homes
+hoshangabad road,Flat,60.0,5796,4.0,Moderate Property,3,2,2,1035.0,1,0,1,1,0,0,0,105,Amenity Facing Homes
+bhopal,House,6.25,1388,1.0,Old Property,2,2,1,450.0,0,0,0,0,0,0,1,7,Road Facing Homes
+awadhpuri,House,65.0,8125,2.0,New Property,3,3,1,800.0,0,0,0,0,0,0,1,4,Amenity Facing Homes
+lalgathi,House,62.0,8539,2.0,New Property,3,3,1,1350.0,0,0,0,0,0,0,1,13,Road Facing Homes
+kolar road,Flat,37.0,2960,5.0,Moderate Property,3,2,2,1250.0,0,0,0,0,0,0,0,9,Green View Homes
+bhopal,House,150.0,12396,3.0,New Property,5,6,3,3420.0,0,0,0,0,0,0,0,13,Green View Homes
+gandhinagar,House,370.0,13703,1.0,Old Property,3,2,1,2700.0,0,0,0,0,0,0,1,38,Road Facing Homes
+lalgathi,House,210.0,14000,2.0,Moderate Property,4,3,1,1500.0,0,0,0,0,0,0,1,19,Amenity Facing Homes
+karond,House,35.0,5833,3.0,New Property,3,2,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,Flat,45.0,2844,6.0,New Property,3,3,3,1130.0,0,0,0,0,0,0,1,51,Green View Homes
+habib ganj,House,210.0,8750,2.0,Old Property,4,3,2,2500.0,1,0,0,0,1,0,1,22,Green View Homes
+hoshangabad road,Flat,115.0,6571,10.0,New Property,3,3,2,1370.0,0,0,0,0,1,0,0,35,Premium Scenic Homes
+patel nagar,House,70.0,4666,1.0,Old Property,2,2,0,1500.0,0,0,0,0,0,0,1,13,Road Facing Homes
+kolar road,House,40.0,5000,2.0,New Property,2,2,2,800.0,0,0,0,0,0,0,1,10,Amenity Facing Homes
+chuna bhatti,Flat,25.0,2744,1.0,Old Property,2,2,3,1093.2,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,Flat,300.0,13888,1.0,New Property,13,14,2,3600.0,0,1,0,0,0,0,0,0,Road Facing Homes
+misrod,Flat,28.0,2000,3.0,Moderate Property,3,2,1,1096.0,0,0,0,0,0,0,1,22,Green View Homes
+hoshangabad road,Flat,26.0,3250,4.0,Old Property,2,2,1,960.0,0,0,0,0,0,0,0,51,Green View Homes
+bhopal,House,120.0,8333,2.0,Old Property,4,4,2,1440.0,0,0,0,0,0,0,1,0,Amenity Facing Homes
+shirdipuram,Flat,100.0,4683,6.0,New Property,4,4,1,1525.0,0,0,0,0,0,0,0,36,Road Facing Homes
+kolar road,Flat,16.5,3000,1.0,Moderate Property,1,1,0,550.0,0,0,0,0,0,0,1,0,Road Facing Homes
+khajuri kalan,House,56.0,7375,2.0,New Property,3,5,1,1920.0,1,0,0,1,0,0,1,3,Road Facing Homes
+misrod,Flat,24.5,2606,4.0,New Property,2,2,1,730.7282742042029,0,0,0,0,0,0,1,73,Amenity Facing Homes
+misrod,Flat,32.0,3131,1.0,New Property,3,2,2,1196.0,0,0,0,0,0,0,1,30,Amenity Facing Homes
+bypass road,House,110.0,4527,1.0,Moderate Property,4,3,3,2430.0,0,0,0,0,0,0,1,0,Green View Homes
+gehu kheda,Flat,30.0,3750,1.0,New Property,2,2,2,960.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,House,515.0,17758,4.0,New Property,6,7,3,7000.0,0,0,0,0,0,0,1,23,Road Facing Homes
+arera colony,Flat,44.0,3384,2.0,Old Property,3,2,3,1010.5816558143231,0,0,0,0,0,0,1,0,Road Facing Homes
+piplani,Flat,10.5,2100,2.0,Old Property,1,1,1,600.0,0,0,0,1,0,0,1,3,Road Facing Homes
+bagmugaliya,House,170.0,6800,2.0,Old Property,4,4,3,3000.0,1,0,0,1,1,0,1,19,Green View Homes
+chuna bhatti,House,200.0,9000,2.0,Old Property,4,3,0,2222.0,0,0,0,0,0,0,0,10,Road Facing Homes
+karond,House,95.0,3958,1.0,Old Property,6,5,1,2400.0,0,0,0,0,0,0,1,4,Green View Homes
+gehu kheda,House,45.0,7500,2.0,New Property,3,2,2,600.0,0,0,0,0,0,0,0,46,Green View Homes
+hoshangabad road,House,58.0,6157,3.0,New Property,2,5,2,942.0,0,0,0,0,0,0,1,7,Road Facing Homes
+ayodhya bypass,Flat,70.0,3749,3.0,Moderate Property,3,3,3,1451.3507318502625,0,0,0,0,0,0,0,109,Amenity Facing Homes
+bawadia kalan,Flat,45.0,3208,3.0,Moderate Property,3,2,0,1041.6764759932253,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,15.0,2727,1.0,Moderate Property,2,1,0,660.0,0,0,0,0,0,0,1,13,Road Facing Homes
+bagmugaliya,Flat,51.25,3428,2.0,New Property,4,3,0,1495.0,0,0,0,0,0,0,1,0,Road Facing Homes
+central bhopal,Flat,200.0,9237,5.0,New Property,4,4,3,2100.0,1,1,0,1,1,0,0,22,Premium Scenic Homes
+hoshangabad road,Flat,20.0,4444,5.0,New Property,1,2,2,450.0,0,0,0,1,0,0,1,52,Amenity Facing Homes
+mandideep,House,27.0,4500,3.0,Old Property,1,4,2,600.0,0,0,0,1,1,0,1,23,Amenity Facing Homes
+hoshangabad road,Flat,40.0,2711,5.0,Moderate Property,3,2,2,1474.0,1,0,0,1,0,0,2,51,Amenity Facing Homes
+bagmuliya,House,260.0,10833,2.0,Moderate Property,4,4,2,2400.0,0,0,0,0,0,0,1,8,Road Facing Homes
+neelbad,House,55.0,4583,2.0,New Property,3,2,1,1200.0,0,0,0,0,0,0,1,8,Road Facing Homes
+arera colony,Flat,30.0,3750,2.0,Old Property,2,2,2,621.896403578045,0,0,0,0,0,0,0,34,Green View Homes
+katara hills,Flat,13.5,3000,1.0,Moderate Property,1,1,0,349.8167270126503,0,0,0,0,0,0,1,13,Green View Homes
+hoshangabad road,Flat,55.0,3811,1.0,New Property,3,3,1,1731.6,1,0,0,0,0,0,1,7,Green View Homes
+hoshangabad road,House,140.0,12000,3.0,New Property,4,4,2,2500.0,0,0,0,0,0,0,0,34,Premium Scenic Homes
+ayodhya bypass,Flat,45.0,3214,5.0,New Property,3,3,3,1680.0,0,0,0,1,0,0,1,67,Amenity Facing Homes
+katara hills,House,200.0,16666,2.0,New Property,4,3,2,2640.0,0,0,1,1,0,0,1,71,Green View Homes
+gehu kheda,Flat,25.0,3125,4.0,Moderate Property,2,2,0,621.896403578045,0,0,0,0,0,0,1,8,Road Facing Homes
+ashoka garden,Flat,40.0,7448,3.0,Old Property,2,2,1,560.0,0,0,0,0,0,0,1,21,Road Facing Homes
+awadhpuri,Flat,35.0,4117,3.0,New Property,2,2,2,1020.0,0,0,0,0,0,0,0,22,Road Facing Homes
+hoshangabad road,Flat,55.0,4077,6.0,New Property,3,3,3,1618.8,0,0,0,0,0,0,0,64,Amenity Facing Homes
+kolar road,House,40.0,3968,2.0,New Property,3,3,1,1008.0,0,0,0,0,0,0,1,10,Road Facing Homes
+bhopal,Flat,32.0,2978,2.0,Moderate Property,2,2,1,850.0,0,0,0,0,0,0,1,12,Road Facing Homes
+kolar road,House,65.0,7222,2.0,Moderate Property,3,2,1,900.0,0,0,0,0,0,0,1,13,Road Facing Homes
+gandhinagar,Flat,33.99,3468,5.0,New Property,3,3,2,1200.0,0,0,0,0,0,0,1,79,Amenity Facing Homes
+awadhpuri,House,55.0,6875,2.0,Moderate Property,3,3,1,1400.0,0,0,0,0,0,0,1,4,Amenity Facing Homes
+piplani,House,60.0,10000,2.0,Moderate Property,2,2,1,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+chuna bhatti,House,670.0,16750,2.0,New Property,6,6,3,8700.0,1,1,1,1,0,0,2,80,Amenity Facing Homes
+katara hills,House,215.0,9347,3.0,New Property,5,5,2,3600.0,0,1,0,1,0,0,1,14,Amenity Facing Homes
+hoshangabad road,Flat,30.0,2269,1.0,New Property,3,3,3,1027.6838069127193,0,0,0,0,0,0,1,58,Green View Homes
+shahpura,House,35.0,7777,2.0,Old Property,2,2,1,450.0,0,0,0,1,0,0,1,24,Green View Homes
+chuna bhatti,Flat,20.0,2167,1.0,Old Property,2,2,3,923.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,Flat,17.0,2720,2.0,Moderate Property,2,2,1,485.85656529534765,1,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,48.0,4266,2.0,Moderate Property,3,2,2,1350.0,0,0,0,0,0,0,0,41,Amenity Facing Homes
+kolar road,Flat,35.0,2333,4.0,Moderate Property,3,2,2,1800.0,0,0,0,0,0,0,1,71,Green View Homes
+kolar road,House,38.0,6333,1.0,Under Construction,3,3,1,1200.0,0,0,0,0,0,0,1,43,Green View Homes
+karond,Flat,35.0,3500,1.0,New Property,3,2,1,777.3705044725563,0,0,0,0,0,0,1,0,Road Facing Homes
+habib ganj,House,261.0,17400,3.0,New Property,4,3,3,1500.0,1,0,0,1,0,0,2,12,Road Facing Homes
+bhopal,House,72.0,3428,2.0,Old Property,5,4,1,2100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,House,12.5,2777,1.0,Old Property,1,1,0,450.0,0,0,0,0,0,0,1,44,Green View Homes
+hoshangabad road,Flat,140.0,5833,8.0,New Property,4,4,3,2410.0,1,0,0,1,1,0,1,27,Amenity Facing Homes
+ayodhya bypass,Flat,26.0,3714,3.0,Moderate Property,2,2,1,840.0,0,0,0,0,0,0,0,18,Road Facing Homes
+shahjahanabad,Flat,50.0,5000,1.0,Moderate Property,3,2,3,1200.0,0,0,0,0,0,0,1,28,Green View Homes
+piplani,Flat,14.5,223,3.0,Old Property,1,1,1,7800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,25.0,3333,3.0,Moderate Property,2,1,1,900.0,0,0,0,0,0,0,2,14,Road Facing Homes
+katara hills,House,82.0,6833,2.0,New Property,3,3,1,1900.0,0,0,0,0,0,0,1,47,Green View Homes
+bawadia kalan,Flat,40.0,3076,4.0,Old Property,2,2,1,1010.5816558143231,0,0,0,0,0,0,1,17,Road Facing Homes
+bawadia kalan,Flat,55.0,7133,1.0,Moderate Property,2,2,2,660.0,0,0,0,1,0,0,2,103,Green View Homes
+gandhinagar,House,75.0,7614,2.0,New Property,4,4,2,985.0,0,0,0,0,0,0,1,4,Green View Homes
+gandhinagar,House,135.0,10800,2.0,Old Property,3,2,2,1250.0,0,0,0,0,0,0,1,38,Road Facing Homes
+bagmugaliya,Flat,40.0,4000,2.0,New Property,3,2,1,1200.0,0,0,0,0,0,0,1,28,Green View Homes
+govindpura,Flat,30.0,2857,2.0,Old Property,3,2,2,1260.0,0,0,0,1,0,0,1,0,Premium Scenic Homes
+aishbagh,Flat,23.0,3833,1.0,Old Property,2,2,1,720.0,0,0,0,1,0,0,0,0,Road Facing Homes
+arera colony,Flat,40.0,5479,3.0,Old Property,3,2,2,876.0,0,0,0,0,0,0,1,10,Road Facing Homes
+peer gate area,Flat,27.0,4153,3.0,Moderate Property,2,2,1,650.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,18.0,1000,2.0,Old Property,5,4,2,1800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,295.0,12291,1.0,Old Property,3,3,1,2400.0,0,0,0,0,0,0,1,4,Road Facing Homes
+habib ganj,House,251.0,15000,3.0,New Property,7,6,3,3600.0,0,1,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,38.0,2814,2.0,New Property,3,3,2,1620.0,0,0,0,0,0,0,1,55,Green View Homes
+gandhinagar,House,65.0,6532,2.0,New Property,4,2,1,1750.0,0,0,0,0,0,0,1,3,Green View Homes
+bypass road,House,29.0,3790,1.0,New Property,1,1,1,765.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,35.0,4545,6.0,New Property,2,2,2,770.0,0,0,0,0,0,0,0,13,Green View Homes
+bagmugaliya,House,138.0,11500,2.0,Old Property,3,3,2,1200.0,0,0,0,0,0,0,1,19,Road Facing Homes
+bawadia kalan,House,500.0,23809,3.0,New Property,4,3,0,6000.0,0,0,0,0,0,0,1,37,Road Facing Homes
+ayodhya bypass,House,215.0,10000,3.0,Old Property,5,5,3,2150.0,1,1,0,1,1,0,1,15,Green View Homes
+bhopal,House,40.0,3333,1.0,New Property,3,2,1,1200.0,0,0,0,0,0,0,0,8,Road Facing Homes
+bypass road,House,75.0,6510,3.0,Moderate Property,3,2,2,1152.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,24.99,2687,2.0,Moderate Property,2,2,1,751.0,0,0,0,1,1,0,1,31,Premium Scenic Homes
+central bhopal,Flat,65.0,4814,7.0,Old Property,2,2,3,1049.4501810379509,0,0,0,0,0,1,0,66,Amenity Facing Homes
+piplani,House,150.0,7500,2.0,Old Property,4,4,2,2000.0,0,0,0,1,0,0,1,19,Road Facing Homes
+gandhinagar,House,90.0,10000,2.0,New Property,3,3,1,900.0,0,0,0,0,0,0,1,26,Road Facing Homes
+kolar road,Flat,27.8,2865,1.0,Moderate Property,2,2,2,917.0,0,0,0,0,0,0,0,57,Amenity Facing Homes
+bawadia kalan,House,137.0,8562,2.0,New Property,4,3,2,1600.0,1,0,0,1,0,0,1,11,Green View Homes
+ayodhya bypass,Flat,55.0,2558,8.0,New Property,4,3,3,2580.0,0,0,0,0,0,0,1,38,Amenity Facing Homes
+salaiya,House,110.0,11363,2.0,New Property,3,3,2,2000.0,0,0,0,0,0,0,1,9,Road Facing Homes
+hoshangabad road,House,150.0,10000,2.0,Moderate Property,4,4,2,2400.0,0,0,0,0,0,0,0,79,Green View Homes
+habib ganj,House,48.0,2400,3.0,New Property,6,2,2,2000.0,0,0,0,0,0,0,1,7,Green View Homes
+shahjahanabad,House,560.0,13526,1.0,Old Property,5,5,2,4140.0,0,1,1,1,0,0,1,35,Green View Homes
+ayodhya nagar,House,92.8,5458,2.0,Moderate Property,4,3,1,1800.0,0,0,0,1,0,0,0,3,Green View Homes
+arera colony,House,15.0,2500,1.0,Old Property,2,1,0,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,House,60.0,4285,2.0,New Property,3,3,1,1400.0,0,0,0,0,0,0,1,9,Green View Homes
+salaiya,Flat,35.0,2564,5.0,New Property,2,2,1,1011.0,0,0,0,0,0,0,1,53,Amenity Facing Homes
+shahjahanabad,Flat,75.0,4687,2.0,Moderate Property,3,2,3,1243.79280715609,0,0,0,0,0,0,1,0,Road Facing Homes
+chuna bhatti,Flat,19.5,1498,3.0,New Property,3,2,0,1075.0,0,0,0,0,0,0,1,12,Road Facing Homes
+katara hills,Flat,31.0,2460,1.0,New Property,3,2,2,1100.0,0,0,0,0,0,0,1,45,Amenity Facing Homes
+misrod,House,49.0,6125,2.0,New Property,3,3,1,800.0,0,0,0,0,0,0,1,0,Amenity Facing Homes
+shahjahanabad,House,120.0,8000,2.0,Old Property,5,4,2,1500.0,0,0,0,0,1,0,0,0,Road Facing Homes
+shahpura,Flat,125.0,6578,6.0,New Property,4,4,2,2280.0,0,0,0,0,0,0,1,35,Amenity Facing Homes
+bhopal,House,250.0,10000,3.0,Moderate Property,5,4,3,2500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahjahanabad,House,30.0,6666,2.0,New Property,2,2,2,450.0,0,0,0,0,0,0,1,31,Green View Homes
+patel nagar,Flat,57.0,2850,1.0,Moderate Property,4,4,3,1500.0,0,0,0,0,0,0,1,11,Road Facing Homes
+peer gate area,Flat,15.0,2500,1.0,Old Property,2,1,0,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mahawadiya,Flat,16.75,2133,3.0,New Property,2,2,1,610.2358460109566,0,0,0,0,0,0,1,49,Road Facing Homes
+khajuri kalan,House,78.0,7878,2.0,New Property,3,3,2,990.0,0,0,0,0,0,0,1,3,Road Facing Homes
+bhopal,House,15.0,1785,1.0,New Property,1,1,0,840.0,0,0,0,0,0,0,1,14,Green View Homes
+mahawadiya,Flat,22.0,2820,3.0,New Property,3,2,3,936.0,0,0,0,0,0,0,1,49,Road Facing Homes
+hoshangabad road,House,95.0,5000,2.0,Moderate Property,3,3,1,2000.0,0,0,0,0,0,0,1,22,Road Facing Homes
+shahjahanabad,House,120.0,12000,3.0,Old Property,2,5,2,2800.0,1,0,0,0,0,0,0,22,Green View Homes
+kolar road,House,68.0,8500,2.0,Moderate Property,3,3,3,800.0,1,0,0,1,0,0,1,34,Amenity Facing Homes
+govindpura,House,130.0,8666,2.0,Moderate Property,4,3,3,1500.0,1,0,1,1,0,0,1,0,Road Facing Homes
+misrod,House,300.0,12000,1.0,Old Property,4,3,1,2500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,432.0,18000,2.0,Old Property,4,3,2,3500.0,1,0,0,1,1,0,1,12,Green View Homes
+arera colony,Flat,45.0,4500,1.0,Old Property,3,2,2,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,69.0,3717,3.0,New Property,3,3,2,1561.0,1,1,0,1,1,0,0,173,Premium Scenic Homes
+gandhinagar,House,250.0,7812,2.0,Under Construction,5,5,2,3200.0,1,0,1,1,0,0,1,51,Amenity Facing Homes
+central bhopal,Flat,25.0,5000,1.0,Old Property,2,2,0,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mahawadiya,Flat,23.0,2346,1.0,Old Property,3,2,3,1250.0,0,0,0,0,0,0,1,9,Road Facing Homes
+outside bhopal,House,19.9,2531,1.0,New Property,2,1,1,786.0,0,0,0,0,1,0,1,16,Green View Homes
+bawadia kalan,Flat,70.0,5600,5.0,New Property,2,3,2,1500.0,0,0,0,1,0,0,1,25,Green View Homes
+salaiya,House,86.0,7166,1.0,New Property,3,3,2,1200.0,0,0,0,0,0,0,1,36,Green View Homes
+aishbagh,House,55.0,12222,4.0,Old Property,1,4,1,450.0,0,0,0,0,0,0,1,20,Green View Homes
+hoshangabad road,Flat,40.0,2985,5.0,Moderate Property,3,2,2,1041.6764759932253,1,0,0,0,0,0,0,42,Amenity Facing Homes
+hoshangabad road,House,225.0,7530,2.0,New Property,7,7,3,5125.0,0,0,0,0,0,0,1,55,Amenity Facing Homes
+katara hills,Flat,20.0,2724,6.0,Moderate Property,2,2,1,880.8,0,0,0,0,0,0,0,49,Amenity Facing Homes
+misrod,House,29.0,5664,1.0,New Property,1,1,0,512.0,0,0,0,0,0,0,1,7,Road Facing Homes
+katara hills,Flat,32.0,3200,4.0,Moderate Property,3,2,1,1158.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+hoshangabad road,House,125.0,8333,2.0,New Property,4,4,2,2300.0,1,1,1,1,0,0,1,63,Amenity Facing Homes
+katara hills,House,95.0,9047,2.0,New Property,3,3,1,1750.0,0,0,0,1,0,0,0,70,Green View Homes
+bhopal,Flat,23.0,4181,1.0,Old Property,2,2,1,660.0,0,0,0,0,0,0,1,29,Road Facing Homes
+bhopal,House,65.0,9027,2.0,Old Property,3,2,1,720.0,0,0,0,0,0,0,1,4,Green View Homes
+shahpura,House,140.0,7000,2.0,Old Property,4,4,1,2000.0,0,0,0,0,0,0,1,9,Road Facing Homes
+misrod,House,120.0,10300,2.0,New Property,4,4,2,2000.0,1,0,0,0,1,0,1,16,Green View Homes
+bawadia kalan,Flat,35.0,4375,2.0,New Property,2,2,1,800.0,0,0,0,0,0,0,1,25,Amenity Facing Homes
+karond,House,95.0,9500,2.0,New Property,4,4,2,1000.0,0,0,0,0,0,0,1,20,Road Facing Homes
+gehu kheda,Flat,32.0,5633,1.0,New Property,2,2,2,681.6,0,0,0,1,0,0,1,0,Road Facing Homes
+katara hills,Flat,30.0,2380,6.0,Under Construction,3,2,2,902.0,0,0,0,0,0,1,1,25,Amenity Facing Homes
+neelbad,House,58.0,7435,2.0,New Property,2,2,1,780.0,0,0,0,0,0,0,1,42,Road Facing Homes
+ayodhya bypass,House,150.0,12000,2.0,Moderate Property,4,4,2,1250.0,1,0,0,0,0,0,1,15,Green View Homes
+central bhopal,Flat,141.0,10057,8.0,Old Property,3,3,2,1682.3999999999999,0,0,0,0,0,0,1,48,Green View Homes
+awadhpuri,House,52.0,4828,1.0,Moderate Property,2,2,0,1077.0,0,0,0,0,0,0,1,7,Road Facing Homes
+arera colony,Flat,50.0,3333,2.0,Old Property,3,2,3,1327.0,0,0,0,0,0,0,1,16,Road Facing Homes
+bagmugaliya,House,75.0,7894,2.0,New Property,3,2,1,950.0,0,0,0,0,0,0,1,3,Road Facing Homes
+misrod,House,80.0,8000,2.0,New Property,5,3,2,1000.0,1,1,0,0,0,0,1,9,Road Facing Homes
+ayodhya bypass,Flat,32.0,4000,3.0,Old Property,2,2,1,960.0,0,0,0,0,0,0,1,30,Road Facing Homes
+katara hills,House,80.0,8255,2.0,Moderate Property,3,3,0,969.0,0,0,0,0,0,0,1,13,Green View Homes
+bypass road,House,20.0,1481,1.0,New Property,1,1,1,1350.0,0,0,0,0,0,0,1,0,Green View Homes
+bhopal,House,70.0,5617,2.0,Moderate Property,3,3,2,1246.0,1,0,0,1,0,0,1,7,Road Facing Homes
+misrod,House,140.0,6666,2.0,New Property,5,4,3,4200.0,1,1,0,1,1,0,1,17,Road Facing Homes
+mahawadiya,Flat,22.0,2046,2.0,Moderate Property,3,2,3,1290.0,0,0,0,0,0,0,1,25,Amenity Facing Homes
+mandideep,House,40.0,5000,1.0,Old Property,3,2,0,800.0,0,0,0,0,0,0,1,4,Green View Homes
+gehu kheda,Flat,37.0,2587,5.0,New Property,3,3,2,1430.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,House,36.1,4583,1.0,Moderate Property,3,3,1,788.0,0,0,0,0,0,0,1,10,Green View Homes
+neelbad,House,50.0,3267,2.0,Moderate Property,2,2,1,1530.0,0,0,0,0,0,0,1,42,Road Facing Homes
+habib ganj,House,320.0,13333,2.0,Old Property,6,4,3,3600.0,0,0,0,1,0,0,1,32,Road Facing Homes
+central bhopal,House,170.0,17000,2.0,Old Property,5,4,1,1000.0,0,0,0,0,0,0,2,36,Green View Homes
+lalgathi,House,225.0,15000,2.0,Moderate Property,4,3,1,2500.0,0,0,0,1,0,0,2,19,Amenity Facing Homes
+lalgathi,Flat,25.0,3333,1.0,Moderate Property,2,2,1,900.0,0,0,0,0,0,0,1,13,Road Facing Homes
+central bhopal,Flat,250.0,11627,2.0,New Property,3,4,2,2580.0,0,1,0,0,0,0,0,35,Premium Scenic Homes
+aishbagh,Flat,18.5,2424,1.0,New Property,3,2,1,915.5999999999999,0,0,0,0,0,0,2,0,Road Facing Homes
+ayodhya bypass,House,155.0,6078,3.0,New Property,5,4,1,2550.0,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,35.0,4666,2.0,Moderate Property,2,3,2,750.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gehu kheda,House,40.0,3636,2.0,New Property,3,3,1,1100.0,1,0,0,1,0,0,1,14,Green View Homes
+katara hills,Flat,34.0,2142,6.0,Moderate Property,3,2,3,1088.3187062615787,0,0,0,0,0,0,1,67,Amenity Facing Homes
+kolar road,Flat,22.0,3520,2.0,Moderate Property,2,2,0,485.85656529534765,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,55.0,3089,1.0,New Property,3,3,3,1794.0,1,0,0,1,0,0,1,67,Premium Scenic Homes
+karond,House,55.0,4761,1.0,Moderate Property,2,2,2,1050.0,0,0,0,0,0,0,1,25,Green View Homes
+kolar road,Flat,15.0,3409,3.0,Old Property,2,2,1,528.0,0,0,0,0,0,0,1,42,Road Facing Homes
+kolar road,Flat,17.0,2931,2.0,Old Property,2,2,1,696.0,0,0,0,0,0,0,1,6,Road Facing Homes
+gehu kheda,Flat,32.0,2461,3.0,Moderate Property,3,2,1,1300.0,0,0,0,0,0,0,0,49,Road Facing Homes
+hoshangabad road,House,40.0,5000,2.0,New Property,3,3,2,1100.0,0,0,0,0,0,0,1,3,Premium Scenic Homes
+kolar road,House,225.0,18000,3.0,New Property,4,4,2,1250.0,0,0,0,0,0,0,2,10,Green View Homes
+navi bagh,House,102.0,7005,2.0,New Property,4,3,1,1456.0,0,0,0,1,0,0,1,3,Road Facing Homes
+salaiya,House,90.0,10227,3.0,New Property,4,4,2,2000.0,1,0,0,0,1,0,1,13,Green View Homes
+neelbad,House,16.0,2123,1.0,New Property,2,2,1,730.0,0,0,0,0,0,0,1,8,Road Facing Homes
+bhopal,House,500.0,12500,2.0,Moderate Property,4,4,2,4500.0,1,0,0,1,0,0,0,106,Amenity Facing Homes
+hoshangabad road,Flat,40.0,3530,6.0,New Property,2,2,1,880.7607815674062,0,0,0,0,0,0,0,54,Green View Homes
+shirdipuram,Flat,35.0,2800,2.0,New Property,2,2,1,1067.0,0,0,0,0,0,0,1,57,Green View Homes
+hoshangabad road,House,500.0,13513,3.0,New Property,6,7,3,5500.0,1,1,0,1,1,0,2,116,Green View Homes
+gandhinagar,Flat,25.0,3333,1.0,Old Property,2,2,1,583.0278783544172,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,30.0,3750,1.0,New Property,2,1,0,800.0,0,0,0,0,0,0,1,13,Road Facing Homes
+kolar road,Flat,55.0,6875,1.0,Moderate Property,3,2,1,800.0,0,0,0,0,0,0,1,6,Road Facing Homes
+gandhinagar,House,12.5,2777,2.0,Old Property,2,1,0,450.0,0,0,0,0,0,0,1,44,Green View Homes
+mandideep,Flat,20.0,3333,3.0,New Property,2,2,1,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,Flat,21.0,3000,1.0,Old Property,4,3,0,700.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,32.0,2370,1.0,Moderate Property,3,2,3,1049.4501810379509,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,House,25.0,2500,1.0,New Property,2,2,1,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,House,60.0,7500,2.0,Old Property,3,3,2,800.0,1,0,0,1,0,0,1,13,Green View Homes
+awadhpuri,Flat,29.0,3310,5.0,Moderate Property,3,2,2,850.0,0,0,0,0,1,0,0,59,Green View Homes
+hoshangabad road,House,45.0,5625,2.0,New Property,3,3,1,1560.0,1,0,0,1,0,0,1,4,Green View Homes
+katara hills,Flat,30.0,4285,8.0,Moderate Property,2,2,2,840.0,0,0,0,0,0,0,2,35,Green View Homes
+outside bhopal,House,49.0,4949,2.0,New Property,3,2,2,1000.0,0,0,0,0,0,0,1,28,Green View Homes
+outside bhopal,House,35.0,5384,3.0,New Property,3,4,2,650.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya nagar,House,110.0,8730,2.0,Old Property,3,3,1,1650.0,0,0,0,0,1,0,0,76,Road Facing Homes
+lalgathi,Flat,75.0,5068,5.0,Moderate Property,3,3,0,1480.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,75.0,6818,2.0,New Property,3,3,2,1100.0,0,0,0,0,0,0,1,13,Amenity Facing Homes
+hoshangabad road,Flat,55.0,4074,5.0,New Property,3,2,2,1185.0,0,0,0,0,0,0,0,39,Road Facing Homes
+kolar road,Flat,24.0,3692,1.0,Old Property,2,2,2,780.0,0,0,0,0,1,0,1,9,Green View Homes
+mahawadiya,Flat,22.0,2200,2.0,Moderate Property,3,2,0,777.3705044725563,0,0,0,0,0,0,1,25,Amenity Facing Homes
+karond,Flat,26.0,3527,3.0,New Property,2,2,2,884.4,0,0,0,0,0,0,1,22,Road Facing Homes
+katara hills,Flat,25.0,3703,1.0,Moderate Property,2,2,1,810.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+bypass road,House,50.0,2500,1.0,Moderate Property,4,3,0,2000.0,0,0,0,0,0,0,1,0,Green View Homes
+central bhopal,Flat,200.0,11331,4.0,New Property,3,3,2,1765.0,0,1,0,0,0,0,0,35,Premium Scenic Homes
+bawadia kalan,Flat,22.0,2933,3.0,New Property,2,2,1,583.0278783544172,0,0,0,0,1,0,1,14,Road Facing Homes
+navi bagh,Flat,11.5,2090,2.0,New Property,1,1,1,660.0,0,0,0,0,0,0,1,10,Green View Homes
+kolar road,House,400.0,26666,3.0,New Property,2,1,0,1500.0,0,0,0,0,0,0,0,0,Road Facing Homes
+misrod,Flat,20.0,2985,3.0,Moderate Property,2,1,1,520.8382379966126,0,0,0,0,0,0,1,73,Amenity Facing Homes
+peer gate area,House,125.0,11363,2.0,Old Property,4,5,0,3000.0,0,0,1,1,0,0,0,20,Road Facing Homes
+ayodhya bypass,Flat,23.9,5975,3.0,Moderate Property,1,1,2,550.0,0,0,0,0,0,0,0,35,Road Facing Homes
+kolar road,Flat,49.99,3423,5.0,New Property,3,1,3,1134.960936529932,0,0,0,1,1,0,1,57,Premium Scenic Homes
+bawadia kalan,House,150.0,10000,2.0,New Property,4,4,1,3050.0,1,0,0,1,0,0,1,24,Green View Homes
+bagmugaliya,House,90.0,8333,2.0,Old Property,3,3,1,2000.0,0,0,0,1,0,0,1,25,Green View Homes
+navi bagh,Flat,26.5,2751,2.0,Moderate Property,2,2,2,829.0,0,0,0,0,0,0,2,19,Road Facing Homes
+hoshangabad road,Flat,32.0,2285,1.0,Moderate Property,3,2,2,1680.0,0,0,0,0,0,0,1,55,Amenity Facing Homes
+habib ganj,Flat,28.0,2883,1.0,Old Property,3,2,1,1165.2,0,0,0,0,0,1,1,3,Road Facing Homes
+hoshangabad road,House,215.0,5375,3.0,New Property,5,4,2,4000.0,0,1,0,1,0,0,0,48,Green View Homes
+kolar road,Flat,36.0,3512,2.0,New Property,2,2,2,863.0,0,0,0,0,0,0,0,41,Amenity Facing Homes
+karond,House,24.0,2000,2.0,New Property,4,2,0,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,15.0,3488,5.0,Moderate Property,1,1,1,350.0,0,0,0,0,0,0,1,74,Amenity Facing Homes
+awadhpuri,Flat,24.0,2555,3.0,Moderate Property,2,2,2,1126.8,0,0,0,0,0,0,1,23,Green View Homes
+bhopal,Flat,28.0,3733,3.0,Moderate Property,2,2,0,583.0278783544172,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,25.5,2712,2.0,Moderate Property,2,2,0,730.7282742042029,0,0,0,0,0,0,1,59,Amenity Facing Homes
+katara hills,Flat,29.5,2166,3.0,New Property,2,2,0,1440.0,0,0,0,0,0,0,1,56,Amenity Facing Homes
+gandhinagar,Flat,30.0,4000,2.0,Moderate Property,2,1,3,900.0,0,0,0,0,0,0,1,4,Road Facing Homes
+patel nagar,House,55.0,6875,1.0,Moderate Property,2,2,0,650.0,0,0,0,0,0,0,1,13,Road Facing Homes
+karond,House,60.0,4000,2.0,Old Property,2,2,1,1500.0,0,0,0,0,0,0,1,10,Road Facing Homes
+central bhopal,Flat,47.0,4700,1.0,Old Property,2,1,1,809.0,0,0,0,0,0,0,0,3,Road Facing Homes
+kolar road,House,65.0,8125,2.0,New Property,3,3,2,1600.0,1,0,0,1,1,0,1,34,Premium Scenic Homes
+katara hills,Flat,36.0,3750,2.0,New Property,3,2,2,1152.0,0,0,0,0,0,0,1,62,Green View Homes
+gehu kheda,House,45.0,3947,2.0,Old Property,2,3,1,1140.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,House,860.0,12314,3.0,Moderate Property,7,8,2,5400.0,0,1,0,1,1,0,2,23,Amenity Facing Homes
+shahpura,House,175.0,11666,2.0,Moderate Property,5,3,1,1500.0,0,0,0,0,1,0,1,24,Green View Homes
+gandhinagar,House,42.0,5250,2.0,New Property,3,3,2,800.0,0,0,0,0,0,0,1,9,Road Facing Homes
+bawadia kalan,Flat,55.0,5000,5.0,New Property,3,3,2,1320.0,0,0,0,0,0,0,1,50,Amenity Facing Homes
+bawadia kalan,Flat,300.0,10909,2.0,Moderate Property,5,5,2,2172.0,0,0,0,0,0,0,0,124,Green View Homes
+katara hills,House,125.0,5830,2.0,Moderate Property,4,4,1,2144.0,0,0,0,0,1,0,1,16,Green View Homes
+mandideep,Flat,20.0,2666,1.0,New Property,2,2,1,900.0,0,0,0,0,0,0,1,35,Amenity Facing Homes
+misrod,Flat,41.0,4505,4.0,New Property,3,2,2,707.4071590700262,0,0,0,0,0,0,0,0,Road Facing Homes
+misrod,Flat,10.0,3333,2.0,Moderate Property,1,1,1,360.0,0,0,0,0,0,0,1,46,Road Facing Homes
+bawadia kalan,Flat,56.0,3708,1.0,Moderate Property,3,3,2,1173.8294617535598,0,0,0,0,0,0,1,28,Green View Homes
+shirdipuram,Flat,95.0,4691,4.0,New Property,4,4,1,1574.1752715569264,0,0,0,0,1,0,0,27,Road Facing Homes
+hoshangabad road,Flat,18.0,3000,3.0,Moderate Property,1,1,1,720.0,0,0,0,0,1,0,1,53,Amenity Facing Homes
+katara hills,Flat,20.5,2562,6.0,Moderate Property,2,2,1,841.0,0,0,0,0,0,0,0,42,Amenity Facing Homes
+shirdipuram,Flat,75.0,4411,7.0,Moderate Property,4,3,1,1435.0,0,0,0,0,0,0,0,98,Green View Homes
+shahpura,House,290.0,12083,2.0,Old Property,3,3,3,2400.0,0,0,0,0,0,0,1,38,Road Facing Homes
+kolar road,House,55.0,6875,2.0,New Property,3,3,2,1400.0,0,0,0,0,0,0,1,12,Green View Homes
+kolar road,Flat,23.0,2875,2.0,Old Property,2,2,1,960.0,0,0,0,0,0,0,1,13,Road Facing Homes
+arera colony,House,225.0,16000,3.0,Moderate Property,5,6,3,1406.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,56.0,3771,1.0,New Property,3,2,2,1100.0,0,0,0,0,0,0,1,28,Amenity Facing Homes
+katara hills,Flat,25.0,3125,3.0,Moderate Property,2,2,2,960.0,0,0,0,0,0,0,1,23,Green View Homes
+katara hills,Flat,50.0,3333,2.0,Moderate Property,3,3,2,1500.0,0,0,0,0,0,0,1,34,Amenity Facing Homes
+bhopal,House,45.0,3750,1.0,New Property,2,2,1,1200.0,0,0,0,1,0,0,0,53,Road Facing Homes
+ayodhya nagar,House,135.0,8789,2.0,New Property,4,4,2,1536.0,0,0,0,1,0,0,1,3,Green View Homes
+bhopal,House,20.0,4545,1.0,Moderate Property,1,1,0,450.0,0,0,0,0,0,0,1,10,Road Facing Homes
+misrod,Flat,24.0,2925,2.0,Moderate Property,2,2,0,730.7282742042029,0,0,0,0,0,0,1,59,Amenity Facing Homes
+bhopal,House,25.0,3676,1.0,New Property,1,2,0,816.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,40.0,6666,1.0,Old Property,4,4,1,600.0,0,0,1,0,0,0,1,3,Road Facing Homes
+bawadia kalan,Flat,250.0,10000,6.0,New Property,5,4,3,3000.0,0,0,0,0,0,0,0,18,Green View Homes
+awadhpuri,House,63.0,7500,2.0,Old Property,3,2,2,1600.0,0,0,0,0,1,0,1,22,Road Facing Homes
+bhopal,House,550.0,18272,2.0,Old Property,6,6,3,3000.0,1,0,0,0,1,0,0,26,Road Facing Homes
+kolar road,Flat,18.0,1969,3.0,Old Property,3,2,3,710.5166410879164,0,0,0,0,0,0,1,17,Green View Homes
+bagmuliya,Flat,58.0,3515,3.0,New Property,3,2,1,1980.0,0,0,0,0,0,0,0,46,Amenity Facing Homes
+bawadia kalan,House,61.0,6100,2.0,Old Property,3,2,2,1000.0,1,0,0,1,1,0,1,3,Green View Homes
+bagmuliya,House,800.0,7434,2.0,Under Construction,6,6,2,10760.0,1,1,1,1,0,0,0,85,Amenity Facing Homes
+bawadia kalan,Flat,35.5,4015,6.0,New Property,2,2,1,884.0,0,0,0,0,0,0,1,45,Amenity Facing Homes
+misrod,House,108.0,5966,2.0,Moderate Property,4,4,3,1810.0,0,0,0,0,0,0,1,16,Green View Homes
+bypass road,House,16.0,2909,1.0,Moderate Property,1,1,1,550.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,65.0,6280,2.0,New Property,3,2,1,1035.0,0,0,0,0,0,0,1,0,Green View Homes
+misrod,Flat,55.0,3267,2.0,Moderate Property,3,4,1,1640.0,0,1,0,0,0,0,2,75,Amenity Facing Homes
+kolar road,Flat,16.0,2051,5.0,New Property,2,2,2,936.0,0,0,0,0,0,0,0,43,Road Facing Homes
+hoshangabad road,Flat,48.0,2953,1.0,New Property,3,3,3,1440.0,1,1,0,1,1,0,2,136,Premium Scenic Homes
+bawadia kalan,Flat,55.0,5467,2.0,Old Property,3,2,2,1207.2,0,0,0,0,0,0,0,54,Road Facing Homes
+bhopal,House,250.0,16666,3.0,New Property,4,4,3,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+khajuri kalan,Flat,17.0,2266,5.0,New Property,2,2,3,583.0278783544172,0,0,0,0,0,0,1,22,Amenity Facing Homes
+hoshangabad road,House,63.0,7500,2.0,Moderate Property,3,3,1,1896.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+bagmugaliya,House,140.0,10769,2.0,Old Property,4,4,2,2200.0,0,0,0,0,0,0,1,63,Amenity Facing Homes
+shahpura,House,45.0,4090,1.0,Old Property,4,2,0,1100.0,0,0,0,0,0,0,1,9,Green View Homes
+katara hills,Flat,25.5,2931,3.0,Moderate Property,2,2,2,870.0,0,0,0,0,0,0,0,38,Road Facing Homes
+neelbad,House,30.0,4000,1.0,New Property,2,2,0,750.0,0,0,0,0,0,0,1,13,Road Facing Homes
+mahawadiya,Flat,20.0,2547,3.0,New Property,2,2,2,632.0,0,0,0,0,0,0,1,25,Amenity Facing Homes
+gehu kheda,House,110.0,11956,3.0,Old Property,2,6,2,2000.0,0,0,0,0,0,0,1,21,Green View Homes
+bhopal,House,75.0,8333,2.0,Moderate Property,2,5,3,900.0,0,0,0,0,0,0,1,0,Green View Homes
+ayodhya nagar,House,130.0,8463,2.0,Moderate Property,4,4,2,1536.0,0,0,0,1,0,0,1,3,Green View Homes
+awadhpuri,House,60.0,6000,2.0,New Property,3,3,1,1000.0,0,0,0,0,0,0,1,23,Amenity Facing Homes
+gandhinagar,House,100.0,8583,2.0,Moderate Property,3,3,2,1165.0,0,0,0,0,1,0,2,104,Amenity Facing Homes
+bagmugaliya,Flat,60.0,3428,5.0,New Property,3,3,2,1361.0,0,0,0,0,1,0,0,77,Road Facing Homes
+central bhopal,Flat,55.0,8208,6.0,New Property,2,2,1,804.0,0,0,0,0,0,0,0,0,Road Facing Homes
+ayodhya bypass,House,270.0,6000,2.0,New Property,4,5,2,4500.0,0,1,0,1,0,0,0,31,Amenity Facing Homes
+awadhpuri,House,75.0,4518,1.0,Moderate Property,2,1,0,1000.0,0,0,1,1,0,0,1,13,Road Facing Homes
+katara hills,Flat,36.75,4900,4.0,Moderate Property,2,2,2,858.0,0,0,0,0,0,0,1,56,Amenity Facing Homes
+hoshangabad road,Flat,41.0,3037,5.0,New Property,3,2,2,1620.0,0,0,0,0,0,0,1,46,Amenity Facing Homes
+karond,Flat,22.5,3214,5.0,Moderate Property,2,2,2,840.0,0,0,0,0,0,0,1,48,Green View Homes
+chuna bhatti,Flat,38.0,6724,1.0,Old Property,2,2,2,678.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gehu kheda,Flat,19.0,2235,4.0,Moderate Property,2,2,1,1020.0,0,0,0,0,0,0,1,19,Road Facing Homes
+ayodhya bypass,Flat,21.9,3369,3.0,Moderate Property,1,1,2,550.0,0,0,0,0,0,0,0,35,Road Facing Homes
+katara hills,House,75.0,6521,2.0,New Property,4,3,2,2100.0,0,0,0,0,1,0,1,31,Road Facing Homes
+awadhpuri,House,35.0,7000,2.0,New Property,3,2,2,500.0,0,0,0,0,0,0,1,3,Road Facing Homes
+gehu kheda,Flat,21.5,3071,2.0,Moderate Property,2,2,2,840.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,House,325.0,13541,2.0,New Property,5,5,3,4800.0,1,0,0,1,1,0,2,14,Green View Homes
+bhopal,House,40.0,3999,3.0,Old Property,3,4,2,1800.0,0,1,1,0,0,0,1,10,Road Facing Homes
+bawadia kalan,Flat,32.0,4183,1.0,Old Property,3,2,1,918.0,0,0,0,0,0,0,0,15,Green View Homes
+karond,House,100.0,8000,2.0,Old Property,7,7,0,1250.0,0,0,0,0,0,0,1,11,Road Facing Homes
+salaiya,Flat,45.0,4090,2.0,New Property,3,2,3,1320.0,0,0,0,0,0,0,1,25,Green View Homes
+gehu kheda,Flat,25.0,2500,4.0,Moderate Property,3,2,1,1200.0,0,0,0,0,0,0,1,0,Green View Homes
+kolar road,Flat,14.5,2290,1.0,Moderate Property,2,1,1,759.6,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,13.5,3000,1.0,Moderate Property,1,1,0,540.0,0,0,0,0,0,0,0,13,Green View Homes
+gehu kheda,House,47.0,7833,2.0,Moderate Property,3,2,2,600.0,0,0,0,0,0,0,1,46,Green View Homes
+ayodhya bypass,House,320.0,8000,1.0,Old Property,6,5,0,4000.0,0,0,0,0,0,0,1,13,Green View Homes
+navi bagh,Flat,25.0,2314,2.0,New Property,2,2,3,1296.0,0,0,0,0,0,0,1,39,Green View Homes
+gehu kheda,Flat,8.0,2272,3.0,New Property,1,1,1,422.4,0,0,0,0,0,0,1,22,Road Facing Homes
+hoshangabad road,House,135.0,11474,2.0,Moderate Property,4,3,2,1176.0,0,0,0,0,0,0,1,4,Green View Homes
+gehu kheda,House,125.0,5208,3.0,Old Property,4,12,2,7000.0,1,1,0,1,1,0,1,21,Road Facing Homes
+arera colony,House,190.0,12666,2.0,Old Property,3,2,1,1500.0,0,0,0,0,0,0,1,4,Green View Homes
+misrod,Flat,36.0,2500,6.0,New Property,2,2,2,1440.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,75.0,7500,2.0,Moderate Property,5,3,0,1000.0,0,0,0,0,0,0,1,23,Amenity Facing Homes
+piplani,House,58.0,5800,2.0,Old Property,4,2,2,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,50.0,2941,3.0,New Property,3,2,3,1381.0,0,0,0,0,0,0,1,65,Amenity Facing Homes
+hoshangabad road,House,110.0,9166,2.0,Moderate Property,3,3,2,1200.0,0,0,0,0,0,0,1,4,Green View Homes
+habib ganj,Flat,30.0,3000,2.0,Old Property,2,2,1,1200.0,0,0,0,0,0,0,0,16,Green View Homes
+ayodhya bypass,Flat,32.5,3080,1.0,Old Property,2,2,2,820.1258822185468,0,0,0,0,0,0,1,93,Green View Homes
+shahjahanabad,Flat,15.0,2727,1.0,Moderate Property,2,1,0,660.0,0,0,0,0,0,0,1,7,Road Facing Homes
+central bhopal,Flat,85.0,11333,2.0,Old Property,3,1,0,900.0,0,0,0,0,0,0,0,0,Road Facing Homes
+khajuri kalan,Flat,30.0,3000,3.0,New Property,3,2,2,1200.0,0,0,0,0,0,0,1,41,Green View Homes
+peer gate area,Flat,16.0,2667,1.0,New Property,2,2,0,466.42230268353376,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya nagar,House,60.0,7500,2.0,Moderate Property,3,3,1,800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,45.0,3157,5.0,Old Property,3,2,2,1425.0,0,0,0,0,0,0,0,64,Green View Homes
+shahpura,House,300.0,14285,2.0,Moderate Property,6,5,2,2100.0,0,0,0,1,0,0,2,10,Road Facing Homes
+bawadia kalan,Flat,165.0,12692,11.0,New Property,3,3,2,1515.0,0,0,0,0,0,0,1,38,Amenity Facing Homes
+shahpura,Flat,78.0,6500,1.0,New Property,3,3,0,1200.0,0,0,0,0,0,0,0,30,Road Facing Homes
+arera colony,House,15.5,2583,1.0,Old Property,2,1,0,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya nagar,House,75.0,6818,2.0,Moderate Property,3,3,2,1100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,30.0,3024,3.0,Moderate Property,2,2,1,640.0,0,0,0,0,0,0,1,30,Green View Homes
+bawadia kalan,House,160.0,10666,3.0,New Property,4,4,3,1500.0,1,1,0,1,0,0,1,12,Green View Homes
+peer gate area,Flat,27.0,4909,3.0,Moderate Property,2,2,1,427.5537774599059,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,Flat,65.0,5909,10.0,New Property,3,3,2,1185.0,0,0,0,0,0,0,1,28,Green View Homes
+bagmugaliya,House,135.0,9642,2.0,New Property,3,4,1,2400.0,0,0,0,0,1,0,1,23,Amenity Facing Homes
+ayodhya bypass,Flat,41.0,4270,1.0,New Property,3,2,1,1081.0,0,0,0,0,0,0,1,38,Amenity Facing Homes
+hoshangabad road,Flat,55.0,3543,9.0,New Property,3,3,3,1286.0,0,0,0,0,0,0,1,74,Road Facing Homes
+karond,House,105.0,3088,4.0,New Property,5,10,3,3400.0,0,0,0,0,0,0,1,8,Road Facing Homes
+karond,House,35.0,2916,1.0,Old Property,3,2,0,900.0,0,0,0,0,0,0,1,4,Green View Homes
+peer gate area,Flat,26.0,4000,2.0,New Property,2,2,1,505.29082790716154,0,0,0,0,0,0,1,6,Road Facing Homes
+misrod,Flat,16.0,2461,5.0,New Property,2,1,1,505.29082790716154,0,0,0,0,0,0,1,59,Amenity Facing Homes
+salaiya,Flat,28.0,3500,5.0,Moderate Property,2,2,2,960.0,0,0,0,0,0,0,1,28,Amenity Facing Homes
+karond,House,27.0,4500,1.0,Moderate Property,2,1,0,660.0,0,0,0,0,0,0,0,0,Road Facing Homes
+outside bhopal,House,25.0,2222,1.0,Moderate Property,2,2,0,1125.0,0,0,0,0,1,0,1,4,Green View Homes
+govindpura,Flat,8.0,2000,2.0,Old Property,1,1,1,480.0,0,0,0,0,1,0,1,17,Green View Homes
+kolar road,Flat,45.0,3846,4.0,Moderate Property,3,3,2,1404.0,0,0,0,0,0,0,0,65,Road Facing Homes
+ashoka garden,House,65.0,6500,2.0,Old Property,4,5,1,1000.0,0,0,0,0,1,0,1,3,Road Facing Homes
+neelbad,House,60.0,5000,2.0,New Property,5,5,3,2400.0,0,0,0,0,0,0,1,13,Road Facing Homes
+bawadia kalan,House,226.0,17005,2.0,New Property,4,3,2,1872.0,0,0,0,0,0,0,1,44,Amenity Facing Homes
+bawadia kalan,House,145.0,11153,1.0,Moderate Property,4,5,2,3000.0,0,0,0,0,0,0,1,11,Green View Homes
+piplani,House,140.0,7000,2.0,Old Property,8,4,3,2000.0,1,0,1,0,0,0,1,0,Road Facing Homes
+gehu kheda,House,200.0,11428,2.0,Old Property,4,3,2,3500.0,0,0,0,0,0,0,1,24,Green View Homes
+gandhinagar,House,76.99,7819,2.0,New Property,4,4,1,2400.0,0,0,0,0,0,0,1,32,Green View Homes
+mahawadiya,Flat,20.5,2562,3.0,Moderate Property,3,2,3,960.0,0,0,0,0,0,0,1,24,Green View Homes
+aishbagh,House,150.0,10000,2.0,Old Property,6,5,2,1500.0,1,1,0,0,0,0,1,6,Road Facing Homes
+aishbagh,Flat,26.0,3714,2.0,Moderate Property,2,2,1,750.0,0,0,0,0,0,0,1,13,Road Facing Homes
+bagmugaliya,Flat,95.0,10555,1.0,Old Property,3,3,2,1080.0,0,0,0,0,0,0,2,50,Road Facing Homes
+habib ganj,House,149.0,12416,3.0,New Property,3,8,3,1200.0,0,0,0,0,0,0,1,12,Road Facing Homes
+aishbagh,House,53.0,3533,3.0,Old Property,2,2,1,1500.0,0,0,0,0,0,0,1,0,Green View Homes
+mandideep,House,84.0,5250,2.0,New Property,3,3,1,1800.0,0,0,0,0,0,0,0,99,Green View Homes
+ayodhya bypass,Flat,25.0,2958,4.0,Moderate Property,2,2,1,656.87807627931,0,0,0,0,0,0,1,21,Road Facing Homes
+central bhopal,House,624.0,26000,2.0,Old Property,3,2,2,3000.0,1,0,0,0,1,0,1,12,Green View Homes
+shahjahanabad,Flat,25.0,3328,3.0,New Property,2,2,1,901.1999999999999,0,0,0,0,0,0,1,32,Road Facing Homes
+chuna bhatti,House,325.0,16666,2.0,Old Property,5,5,3,4200.0,1,1,1,0,0,0,0,10,Road Facing Homes
+bhopal,House,30.0,2000,2.0,Old Property,3,3,3,2160.0,0,0,0,0,0,0,1,0,Road Facing Homes
+central bhopal,Flat,51.0,4636,4.0,Old Property,2,2,2,902.0,0,0,0,0,0,0,1,30,Green View Homes
+kolar road,Flat,175.0,5468,4.0,Moderate Property,5,5,3,3840.0,1,1,0,1,0,0,1,35,Green View Homes
+hoshangabad road,Flat,35.0,4117,6.0,New Property,2,2,1,850.0,0,0,0,0,0,0,1,102,Amenity Facing Homes
+central bhopal,House,360.0,24000,1.0,Old Property,3,3,2,1100.0,0,0,0,0,1,0,1,8,Road Facing Homes
+aishbagh,Flat,25.0,5555,3.0,Old Property,2,2,1,540.0,0,0,0,0,0,0,1,5,Road Facing Homes
+bagmugaliya,Flat,53.0,4015,1.0,New Property,3,3,2,1584.0,0,0,0,0,0,1,0,132,Amenity Facing Homes
+shahpura,House,210.0,8750,3.0,Old Property,8,6,2,5000.0,1,0,0,1,1,0,1,9,Green View Homes
+arera colony,Flat,25.9,3453,1.0,Old Property,2,2,1,550.0,0,0,0,0,0,0,0,5,Road Facing Homes
+shirdipuram,Flat,36.0,2880,5.0,Old Property,2,2,2,996.0,0,0,0,0,0,0,1,61,Green View Homes
+patel nagar,Flat,20.0,2500,1.0,Moderate Property,2,2,2,750.0,0,0,0,0,0,0,1,11,Road Facing Homes
+misrod,Flat,43.0,4777,2.0,New Property,3,2,2,1080.0,0,0,0,0,0,0,0,22,Road Facing Homes
+shahjahanabad,House,350.0,8750,3.0,Old Property,6,4,0,4000.0,0,0,0,0,0,0,1,22,Green View Homes
+awadhpuri,House,13.0,3611,1.0,New Property,1,1,2,360.0,0,0,0,0,0,0,1,30,Green View Homes
+ayodhya nagar,House,85.0,6538,1.0,Old Property,3,2,1,1300.0,0,0,0,0,0,0,1,68,Road Facing Homes
+shahjahanabad,Flat,45.0,5000,2.0,New Property,3,2,1,1080.0,0,0,0,0,0,0,0,9,Road Facing Homes
+kolar road,Flat,50.0,2976,2.0,Moderate Property,3,3,2,1373.0,0,0,0,0,0,0,0,32,Premium Scenic Homes
+bhopal,House,90.0,6000,2.0,Moderate Property,4,8,3,3500.0,1,1,0,1,1,0,1,4,Green View Homes
+chuna bhatti,House,150.0,8333,2.0,Old Property,4,4,3,1500.0,0,0,0,0,0,0,1,20,Road Facing Homes
+kolar road,Flat,25.0,2774,3.0,Moderate Property,1,2,1,900.0,0,0,0,0,0,0,1,32,Green View Homes
+govindpura,House,225.0,12500,2.0,Moderate Property,4,4,2,3400.0,0,0,0,0,0,0,0,9,Road Facing Homes
+kolar road,House,39.5,3038,2.0,New Property,3,3,2,1300.0,0,0,0,0,0,0,0,37,Road Facing Homes
+bawadia kalan,House,95.0,8585,2.0,New Property,3,3,2,900.0,0,0,0,0,0,0,1,3,Green View Homes
+shahpura,House,270.0,11250,2.0,Old Property,3,3,2,2400.0,0,0,0,0,1,0,1,34,Green View Homes
+khajuri kalan,House,25.0,4166,1.0,Old Property,2,1,0,600.0,0,0,0,0,0,0,1,3,Road Facing Homes
+awadhpuri,House,75.0,9375,1.0,New Property,3,3,1,1420.0,0,0,0,0,0,0,1,51,Amenity Facing Homes
+bawadia kalan,House,285.0,6224,3.0,New Property,6,7,2,4579.0,0,0,0,0,0,0,1,30,Road Facing Homes
+gehu kheda,Flat,18.0,2769,3.0,Moderate Property,2,2,1,654.0,0,0,0,0,0,0,1,30,Road Facing Homes
+hoshangabad road,House,115.0,6388,17.0,New Property,3,3,1,1800.0,0,0,0,0,1,0,0,13,Premium Scenic Homes
+kolar road,Flat,20.0,3333,5.0,New Property,2,2,3,671.0,0,0,0,0,0,0,1,19,Green View Homes
+gehu kheda,Flat,42.0,3500,2.0,Moderate Property,3,3,3,1440.0,0,0,0,0,0,0,0,0,Road Facing Homes
+central bhopal,House,140.0,7777,2.0,Old Property,9,6,2,3500.0,1,1,0,1,0,0,0,18,Road Facing Homes
+karond,Flat,34.0,3238,6.0,Moderate Property,3,2,1,1260.0,0,0,0,0,0,0,1,0,Green View Homes
+lalgathi,Flat,48.0,3692,5.0,New Property,3,2,2,1560.0,0,0,0,0,0,0,1,12,Road Facing Homes
+misrod,Flat,36.0,3000,2.0,Moderate Property,3,2,1,952.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+hoshangabad road,Flat,45.0,2769,5.0,Moderate Property,3,3,2,1292.0,0,0,0,0,0,1,0,64,Road Facing Homes
+ayodhya bypass,Flat,30.0,6000,2.0,Old Property,2,2,3,768.0,0,0,0,0,0,0,1,49,Green View Homes
+hoshangabad road,Flat,33.0,2682,1.0,Moderate Property,3,2,2,928.0,0,0,0,0,0,0,1,43,Amenity Facing Homes
+ayodhya bypass,Flat,12.9,4300,1.0,New Property,1,1,0,400.0,0,0,0,0,0,0,1,25,Road Facing Homes
+misrod,House,40.0,6666,2.0,Moderate Property,2,3,1,600.0,0,0,0,0,0,0,1,3,Road Facing Homes
+kolar road,House,45.0,5625,2.0,New Property,3,3,1,1400.0,0,0,0,0,1,0,1,34,Premium Scenic Homes
+bawadia kalan,House,60.0,6000,2.0,Old Property,3,2,2,1000.0,0,0,0,0,0,0,1,12,Green View Homes
+kolar road,Flat,30.0,3588,3.0,Moderate Property,2,2,1,1003.1999999999999,1,0,0,0,0,0,2,3,Road Facing Homes
+bawadia kalan,House,130.0,8888,2.0,Moderate Property,4,4,2,1300.0,0,0,0,1,1,0,1,11,Road Facing Homes
+bagmugaliya,Flat,62.0,3757,3.0,New Property,3,3,2,1301.0,0,0,0,0,0,0,0,19,Green View Homes
+piplani,House,350.0,14583,3.0,New Property,5,3,2,2400.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,Flat,55.0,4074,5.0,New Property,3,2,1,1620.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,Flat,30.0,4285,1.0,Old Property,2,2,1,840.0,0,0,0,0,0,0,1,15,Road Facing Homes
+bawadia kalan,Flat,30.0,4109,4.0,Moderate Property,2,1,1,540.0,0,0,0,0,0,0,0,37,Road Facing Homes
+katara hills,House,73.0,7934,2.0,Moderate Property,3,3,1,920.0,0,0,0,0,0,0,1,34,Amenity Facing Homes
+kolar road,Flat,62.0,4189,1.0,Moderate Property,3,3,3,1150.0,0,0,0,0,0,0,0,49,Road Facing Homes
+katara hills,Flat,20.0,2000,5.0,Old Property,2,2,2,1200.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+shirdipuram,Flat,65.0,5225,3.0,Moderate Property,3,3,2,967.04890756386,0,0,0,0,0,0,1,83,Amenity Facing Homes
+bhopal,House,22.0,5500,2.0,Moderate Property,3,2,1,400.0,0,0,0,0,0,0,0,3,Road Facing Homes
+kolar road,Flat,20.0,2928,3.0,New Property,2,2,2,819.5999999999999,0,0,0,0,0,0,1,18,Road Facing Homes
+karond,House,40.0,4634,2.0,New Property,4,2,2,863.0,0,0,0,0,0,0,1,2,Green View Homes
+gehu kheda,House,150.0,8000,2.0,Old Property,4,4,1,1500.0,0,0,0,0,0,0,1,24,Green View Homes
+katara hills,Flat,40.0,6153,4.0,Moderate Property,2,2,0,780.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+misrod,Flat,65.0,5200,5.0,New Property,3,3,2,1471.0,1,1,1,1,0,0,1,96,Amenity Facing Homes
+piplani,House,80.0,8000,2.0,Moderate Property,4,4,1,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,House,795.0,7388,3.0,Old Property,6,6,2,10760.0,1,1,1,1,0,0,1,46,Green View Homes
+bypass road,Flat,55.0,2938,2.0,Moderate Property,4,4,0,1872.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,32.0,2461,6.0,New Property,3,3,3,1225.0,0,0,1,0,0,0,1,88,Green View Homes
+bawadia kalan,Flat,200.0,9090,1.0,New Property,2,2,0,1710.2151098396237,0,0,0,0,0,0,1,0,Road Facing Homes
+lalgathi,House,225.0,9782,3.0,Moderate Property,8,8,3,2760.0,0,0,0,0,0,0,1,0,Road Facing Homes
+chuna bhatti,House,150.0,10000,2.0,Old Property,4,4,2,2300.0,0,0,0,1,0,0,1,20,Road Facing Homes
+ayodhya bypass,House,90.0,9000,3.0,Old Property,2,4,1,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+khajuri kalan,House,60.0,6382,2.0,Old Property,4,2,2,940.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,25.0,3655,1.0,Moderate Property,2,1,1,684.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,33.0,2640,2.0,Moderate Property,3,2,2,1500.0,0,0,0,0,0,0,1,53,Amenity Facing Homes
+aishbagh,Flat,30.0,6315,2.0,Moderate Property,2,2,1,570.0,0,0,0,0,0,0,1,7,Green View Homes
+salaiya,House,80.0,8264,2.0,New Property,4,3,2,968.0,1,1,0,0,0,0,1,9,Green View Homes
+shahpura,House,120.0,12000,2.0,Moderate Property,4,4,2,1000.0,0,0,0,1,0,0,0,8,Road Facing Homes
+ayodhya bypass,Flat,57.0,3762,7.0,New Property,3,3,3,1177.7163142759227,0,0,0,0,0,0,1,33,Road Facing Homes
+awadhpuri,House,28.0,3733,2.0,New Property,2,2,1,750.0,0,0,0,0,0,0,1,15,Amenity Facing Homes
+kolar road,House,95.0,6333,2.0,Moderate Property,3,4,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,House,47.0,6266,2.0,New Property,3,3,1,750.0,0,0,0,0,0,0,1,0,Amenity Facing Homes
+central bhopal,House,85.0,3269,3.0,Old Property,10,6,3,3120.0,0,0,0,0,0,0,0,5,Road Facing Homes
+habib ganj,House,87.0,7909,2.0,Moderate Property,4,3,2,1100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,House,75.0,5281,2.0,Old Property,3,2,1,1420.0,0,0,0,0,0,0,1,30,Road Facing Homes
+gandhinagar,Flat,33.0,3038,5.0,Moderate Property,2,2,1,844.2243678571961,0,0,0,0,0,0,0,110,Amenity Facing Homes
+karond,House,25.0,2777,2.0,New Property,2,2,1,900.0,0,0,0,1,1,0,0,17,Green View Homes
+bypass road,Flat,26.0,4333,1.0,Moderate Property,1,1,0,466.42230268353376,0,0,0,0,0,0,1,21,Amenity Facing Homes
+hoshangabad road,Flat,51.5,6437,4.0,Moderate Property,3,2,3,960.0,0,0,0,0,0,0,0,82,Amenity Facing Homes
+misrod,House,160.0,16326,3.0,New Property,4,4,2,2600.0,0,0,0,1,0,0,1,102,Amenity Facing Homes
+govindpura,House,207.0,8003,2.0,Old Property,5,3,1,2580.0,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,125.0,12413,2.0,Moderate Property,4,3,0,1007.0,0,0,0,0,0,0,1,24,Green View Homes
+patel nagar,House,100.0,6666,1.0,Old Property,3,3,1,1650.0,0,0,0,1,0,0,1,19,Green View Homes
+hoshangabad road,Flat,35.0,2397,4.0,New Property,3,2,0,1460.0,0,0,0,0,0,0,1,55,Amenity Facing Homes
+kolar road,Flat,45.0,3103,1.0,Moderate Property,3,2,2,1740.0,0,0,0,0,0,0,1,71,Green View Homes
+shahpura,House,24.0,2000,2.0,Old Property,2,2,2,1200.0,0,0,0,0,0,0,1,34,Green View Homes
+gehu kheda,House,130.0,5652,2.0,Old Property,5,4,2,2700.0,1,0,0,1,1,0,1,12,Green View Homes
+ashoka garden,House,150.0,6818,2.0,Old Property,10,5,3,2640.0,0,0,0,0,0,0,1,27,Road Facing Homes
+hoshangabad road,Flat,35.0,4268,3.0,Moderate Property,2,1,1,984.0,0,0,0,0,0,0,1,70,Amenity Facing Homes
+karond,House,190.0,11875,2.0,Moderate Property,5,4,0,260.0,0,0,1,1,0,0,1,25,Green View Homes
+arera colony,House,600.0,25000,2.0,Old Property,5,7,3,4000.0,1,0,0,1,1,0,1,11,Road Facing Homes
+hoshangabad road,Flat,45.0,2812,4.0,Moderate Property,3,3,2,1110.0,0,0,0,0,0,1,0,27,Road Facing Homes
+kolar road,Flat,75.0,4132,1.0,New Property,4,3,2,1511.0,0,0,0,0,0,0,0,94,Amenity Facing Homes
+hoshangabad road,House,120.0,9090,2.0,New Property,4,4,2,1320.0,0,0,0,0,0,0,0,7,Green View Homes
+bypass road,Flat,16.0,4000,1.0,Moderate Property,1,1,2,480.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,80.0,6279,2.0,Old Property,5,4,2,2200.0,0,0,0,0,1,0,1,32,Road Facing Homes
+bawadia kalan,Flat,55.0,3703,6.0,Moderate Property,3,2,2,1100.0,0,0,0,0,0,1,0,44,Green View Homes
+khajuri kalan,House,64.06,5125,1.0,New Property,3,2,0,1250.0,0,0,0,0,0,0,1,22,Amenity Facing Homes
+shahpura,House,105.0,9900,3.0,Moderate Property,3,6,0,1000.0,0,0,0,0,0,0,1,5,Road Facing Homes
+chuna bhatti,Flat,45.0,3600,2.0,Old Property,3,2,2,971.7131305906953,0,0,0,0,0,0,0,22,Road Facing Homes
+hoshangabad road,Flat,50.0,3424,4.0,New Property,3,2,2,1134.960936529932,0,0,0,0,0,0,0,70,Amenity Facing Homes
+katara hills,Flat,18.0,2769,4.0,New Property,2,2,1,780.0,0,0,0,0,0,0,1,54,Amenity Facing Homes
+katara hills,Flat,30.0,3000,4.0,Moderate Property,3,2,1,1158.0,0,0,0,0,0,0,0,42,Amenity Facing Homes
+mahawadiya,Flat,25.0,2325,2.0,New Property,3,2,0,1290.0,0,0,0,0,0,0,1,25,Amenity Facing Homes
+shahpura,House,115.0,9829,2.0,Moderate Property,3,3,2,1170.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahjahanabad,House,65.0,4333,1.0,New Property,5,3,1,1500.0,0,0,0,0,1,0,0,13,Road Facing Homes
+arera colony,House,550.0,15714,2.0,Old Property,4,5,2,4000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,210.0,26250,2.0,Old Property,3,2,1,800.0,0,0,0,0,0,0,1,8,Road Facing Homes
+aishbagh,Flat,22.0,4400,3.0,New Property,2,2,1,600.0,0,0,0,0,0,0,1,13,Road Facing Homes
+bhopal,Flat,32.5,3823,3.0,New Property,2,2,1,660.7649288016728,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,Flat,38.0,3454,4.0,Old Property,3,2,2,1320.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+misrod,Flat,31.0,2480,2.0,Moderate Property,3,2,1,1250.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+kolar road,Flat,22.0,2625,3.0,New Property,2,2,2,725.0,0,0,0,0,0,0,1,25,Green View Homes
+awadhpuri,House,130.0,7222,1.0,Old Property,4,4,0,1200.0,0,0,0,0,0,0,1,75,Green View Homes
+peer gate area,Flat,45.0,6428,2.0,New Property,3,2,1,840.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,150.0,11261,2.0,Old Property,3,2,1,1332.0,0,0,0,0,0,0,1,75,Green View Homes
+bagmugaliya,House,160.0,8888,2.0,Moderate Property,4,4,2,1800.0,0,0,0,0,0,0,1,0,Green View Homes
+hoshangabad road,Flat,40.0,3082,1.0,New Property,2,2,2,1298.0,0,0,0,0,0,0,1,46,Road Facing Homes
+misrod,Flat,35.0,2916,2.0,New Property,3,3,2,1440.0,0,0,0,0,0,0,1,28,Road Facing Homes
+bypass road,House,22.0,2328,1.0,New Property,2,2,1,945.0,0,0,0,0,0,0,1,0,Green View Homes
+central bhopal,Flat,42.0,3113,1.0,Moderate Property,2,2,0,1349.0,0,0,0,0,0,0,1,0,Road Facing Homes
+habib ganj,House,160.0,10666,1.0,Old Property,3,3,1,1100.0,1,0,0,0,1,0,1,22,Green View Homes
+piplani,House,290.0,12083,3.0,New Property,5,3,2,2400.0,0,0,0,0,0,0,1,0,Road Facing Homes
+peer gate area,Flat,27.0,3600,3.0,Old Property,2,2,2,900.0,0,0,0,0,0,0,0,18,Road Facing Homes
+kolar road,Flat,40.0,4938,4.0,Moderate Property,2,2,1,972.0,0,0,0,0,0,1,1,31,Green View Homes
+chuna bhatti,Flat,75.0,4285,4.0,Old Property,4,3,3,2100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya nagar,House,82.0,10250,3.0,Moderate Property,2,4,3,2000.0,0,0,0,1,0,0,0,13,Road Facing Homes
+arera colony,House,420.0,21000,1.0,Old Property,4,2,1,2000.0,0,0,0,0,0,0,1,0,Green View Homes
+central bhopal,Flat,185.0,10481,5.0,New Property,3,3,2,1372.0589403940617,0,1,0,0,0,0,0,22,Road Facing Homes
+central bhopal,Flat,55.0,6470,1.0,Moderate Property,3,2,2,1020.0,0,0,0,0,0,0,0,14,Road Facing Homes
+hoshangabad road,Flat,35.0,2916,3.0,New Property,2,2,2,940.0,0,0,0,0,1,0,0,115,Amenity Facing Homes
+ayodhya bypass,House,26.0,5000,2.0,New Property,2,3,0,1000.0,0,0,0,0,0,0,1,13,Green View Homes
+aishbagh,House,125.0,10416,2.0,Moderate Property,4,3,2,2200.0,1,0,0,1,1,0,2,32,Green View Homes
+gehu kheda,Flat,35.0,3500,2.0,Moderate Property,2,2,1,1200.0,0,0,0,0,0,0,1,30,Road Facing Homes
+shahpura,House,850.0,21250,3.0,Old Property,4,4,3,4000.0,0,0,0,0,0,0,1,38,Road Facing Homes
+bawadia kalan,Flat,75.0,4167,1.0,New Property,3,3,2,1800.0,0,0,0,0,0,0,1,30,Road Facing Homes
+bagmugaliya,House,150.0,6250,1.0,Old Property,3,3,2,2400.0,0,0,0,0,0,0,1,14,Road Facing Homes
+bawadia kalan,House,125.0,11061,2.0,Moderate Property,3,3,2,1130.0,0,0,0,0,0,0,0,34,Green View Homes
+hoshangabad road,Flat,34.0,3400,2.0,New Property,3,2,3,1250.0,0,0,0,0,0,0,1,33,Premium Scenic Homes
+karond,Flat,35.0,3043,1.0,New Property,3,2,1,1150.0,0,0,0,0,0,0,1,24,Green View Homes
+hoshangabad road,Flat,48.0,3287,4.0,Moderate Property,3,2,2,1752.0,1,1,0,1,1,0,0,41,Amenity Facing Homes
+kolar road,House,85.0,5666,2.0,Moderate Property,3,4,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+central bhopal,Flat,33.0,3300,1.0,Old Property,3,2,0,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,House,60.0,5000,2.0,Moderate Property,5,4,0,2800.0,0,0,0,0,0,0,1,14,Amenity Facing Homes
+katara hills,Flat,18.5,2275,4.0,Old Property,2,2,2,632.0022201361883,0,0,0,0,0,1,1,33,Amenity Facing Homes
+kolar road,Flat,22.5,3214,1.0,Old Property,2,2,1,840.0,0,0,0,0,0,0,1,7,Road Facing Homes
+shahjahanabad,Flat,46.0,5111,2.0,Moderate Property,3,2,1,1080.0,0,0,0,0,0,0,1,9,Road Facing Homes
+bawadia kalan,House,130.0,10400,3.0,New Property,4,4,2,2500.0,0,0,0,0,0,0,2,12,Green View Homes
+gandhinagar,House,99.0,8497,2.0,New Property,3,3,2,1165.0,0,0,0,0,1,0,2,22,Green View Homes
+ashoka garden,House,110.0,7054,1.0,Moderate Property,3,2,0,1417.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gehu kheda,House,180.0,5625,2.0,Old Property,3,3,3,3000.0,0,0,1,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,40.0,2962,3.0,New Property,3,2,2,1095.0,0,0,0,0,0,1,1,21,Green View Homes
+patel nagar,House,79.5,4542,2.0,Old Property,4,4,1,2100.0,0,0,0,0,0,0,1,12,Road Facing Homes
+lalgathi,Flat,18.0,2643,1.0,New Property,2,2,2,817.1999999999999,0,0,0,0,0,0,1,20,Road Facing Homes
+salaiya,Flat,27.0,4990,3.0,New Property,2,2,2,542.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+bypass road,House,45.0,6250,2.0,Moderate Property,3,3,1,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,Flat,40.0,6201,6.0,New Property,2,2,1,774.0,0,0,0,0,0,0,1,23,Green View Homes
+misrod,Flat,35.0,2500,4.0,Moderate Property,3,2,1,1680.0,0,0,0,0,0,0,1,46,Road Facing Homes
+navi bagh,House,35.0,5833,2.0,New Property,2,3,1,600.0,0,0,0,0,0,0,1,3,Premium Scenic Homes
+salaiya,Flat,51.0,4857,2.0,Moderate Property,3,2,3,1155.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+katara hills,Flat,30.0,3000,2.0,Moderate Property,2,2,1,777.3705044725563,0,0,0,0,0,0,1,59,Amenity Facing Homes
+bawadia kalan,Flat,80.0,3883,5.0,New Property,3,3,2,1821.0,0,0,0,0,0,0,0,48,Amenity Facing Homes
+bhopal,House,22.9,3053,1.0,New Property,3,2,1,900.0,0,0,0,0,1,0,1,0,Road Facing Homes
+awadhpuri,Flat,27.0,3683,2.0,Moderate Property,2,2,1,799.0,0,0,0,0,0,0,1,41,Amenity Facing Homes
+habib ganj,House,300.0,18750,3.0,Old Property,3,6,3,1600.0,0,0,0,0,0,0,1,18,Road Facing Homes
+govindpura,Flat,25.0,3333,1.0,Old Property,2,2,1,583.0278783544172,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,40.0,4608,1.0,Moderate Property,2,2,1,868.0,0,0,0,0,0,0,1,22,Road Facing Homes
+gandhinagar,Flat,33.0,2869,2.0,New Property,3,3,2,1150.0,0,0,0,0,1,0,1,105,Amenity Facing Homes
+hoshangabad road,Flat,40.0,2807,5.0,New Property,3,3,3,1100.0,0,0,0,0,0,0,0,69,Amenity Facing Homes
+arera colony,House,350.0,14510,2.0,Old Property,4,4,3,2412.0,1,1,0,1,0,0,1,11,Road Facing Homes
+patel nagar,House,38.0,4000,2.0,Moderate Property,2,2,0,1140.0,0,0,0,0,0,0,1,41,Green View Homes
+misrod,Flat,67.0,3609,4.0,New Property,3,3,2,1442.7996563010643,0,0,0,0,0,0,0,53,Premium Scenic Homes
+central bhopal,Flat,25.0,7142,2.0,Old Property,2,1,1,420.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,65.0,4333,2.0,Moderate Property,3,3,1,1500.0,0,0,0,1,0,0,0,18,Road Facing Homes
+mandideep,Flat,25.0,5555,1.0,Moderate Property,1,1,1,349.8167270126503,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,House,22.0,4888,1.0,Moderate Property,2,1,2,450.0,0,0,0,0,0,0,0,24,Green View Homes
+gandhinagar,Flat,24.0,5095,2.0,New Property,2,1,1,565.1999999999999,0,0,0,0,0,0,0,11,Green View Homes
+karond,Flat,34.95,2609,6.0,New Property,3,2,1,893.9760801434396,0,0,0,0,0,0,1,0,Green View Homes
+bawadia kalan,Flat,22.0,2588,4.0,New Property,2,2,2,850.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,35.0,5833,2.0,New Property,2,1,2,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mandideep,House,24.5,4083,1.0,Old Property,2,2,1,600.0,0,0,0,0,0,0,1,4,Green View Homes
+govindpura,House,285.0,9500,2.0,Old Property,9,7,2,5200.0,0,0,0,0,0,0,1,8,Road Facing Homes
+misrod,House,226.0,17384,2.0,New Property,4,3,1,1300.0,0,0,0,0,0,0,1,49,Amenity Facing Homes
+bhopal,House,200.0,16000,2.0,Old Property,4,3,2,1800.0,0,0,0,0,0,0,1,13,Road Facing Homes
+bawadia kalan,Flat,70.0,7000,6.0,New Property,3,3,2,1200.0,0,0,0,0,0,0,0,18,Green View Homes
+bagmugaliya,House,750.0,6970,2.0,Old Property,6,6,2,10760.0,1,1,1,1,0,0,2,72,Amenity Facing Homes
+gehu kheda,Flat,19.0,2533,1.0,New Property,2,2,1,583.0278783544172,0,0,0,0,0,0,1,0,Road Facing Homes
+piplani,House,150.0,10000,2.0,New Property,3,2,1,1500.0,0,0,0,0,0,0,1,2,Road Facing Homes
+ayodhya bypass,Flat,40.0,3252,2.0,Moderate Property,3,2,1,956.1657205012442,0,0,0,0,0,0,1,56,Amenity Facing Homes
+piplani,House,350.0,23333,2.0,Moderate Property,3,4,3,2200.0,0,1,0,1,0,0,1,2,Road Facing Homes
+misrod,House,120.0,10000,2.0,New Property,4,4,2,1200.0,0,0,0,0,1,0,0,26,Green View Homes
+shirdipuram,House,40.0,4444,1.0,Moderate Property,2,2,0,900.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,17.0,2428,2.0,Old Property,2,2,1,544.1593531307893,0,0,0,0,0,0,1,7,Road Facing Homes
+gehu kheda,House,29.0,4264,1.0,Old Property,3,2,1,680.0,0,0,0,0,0,0,1,9,Road Facing Homes
+chuna bhatti,House,38.0,3800,2.0,Old Property,3,3,2,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,18.0,4500,3.0,Moderate Property,1,1,1,310.9482017890225,0,0,0,0,0,0,1,41,Amenity Facing Homes
+ayodhya bypass,Flat,30.9,3433,4.0,Moderate Property,3,2,1,1073.0,0,0,0,0,0,0,1,31,Road Facing Homes
+central bhopal,House,90.0,11718,2.0,Old Property,2,2,2,900.0,0,0,0,0,0,0,0,3,Road Facing Homes
+gandhinagar,Flat,30.0,4000,6.0,Moderate Property,2,2,3,862.0,0,0,0,0,0,0,1,44,Green View Homes
+bawadia kalan,Flat,42.0,3706,2.0,New Property,2,2,2,890.0,0,0,0,0,0,0,0,66,Amenity Facing Homes
+gandhinagar,House,100.0,9689,2.0,New Property,4,4,1,1032.0,1,0,0,1,0,0,0,32,Green View Homes
+shahpura,House,210.0,8750,2.0,Old Property,7,6,2,2400.0,0,0,0,0,0,0,1,1,Green View Homes
+navi bagh,House,59.0,5900,2.0,New Property,3,2,2,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,Flat,56.0,3081,6.0,New Property,3,2,2,1236.0191021113644,1,0,0,1,0,0,2,33,Amenity Facing Homes
+bawadia kalan,House,135.0,10869,2.0,Old Property,3,3,2,1200.0,0,0,0,0,0,0,0,24,Green View Homes
+navi bagh,Flat,25.0,2314,2.0,Moderate Property,2,2,0,839.5601448303607,0,0,0,0,0,0,1,39,Green View Homes
+chuna bhatti,House,545.0,5450,4.0,New Property,7,7,3,12000.0,1,1,1,1,0,0,2,137,Green View Homes
+arera colony,Flat,200.0,7659,5.0,Moderate Property,4,3,3,3133.2,0,0,0,0,0,0,2,0,Road Facing Homes
+habib ganj,House,10.0,2083,1.0,Old Property,3,1,0,480.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,42.0,3818,4.0,New Property,3,2,2,1320.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+kolar road,Flat,20.0,2150,2.0,Moderate Property,2,2,1,811.0,0,0,0,0,1,0,1,12,Road Facing Homes
+gandhinagar,Flat,32.0,2909,4.0,New Property,3,2,1,900.0,0,0,0,1,0,0,1,45,Green View Homes
+shahjahanabad,Flat,480.0,13872,5.0,New Property,6,8,3,2689.701945475045,1,1,0,1,1,0,1,63,Premium Scenic Homes
+kolar road,House,60.0,8534,2.0,Moderate Property,3,3,1,703.0,0,0,0,0,0,0,1,14,Amenity Facing Homes
+kolar road,House,180.0,13636,3.0,New Property,5,5,3,1320.0,1,0,0,1,0,0,2,94,Amenity Facing Homes
+awadhpuri,House,56.0,7000,2.0,New Property,3,3,2,800.0,0,0,0,1,1,0,0,16,Green View Homes
+awadhpuri,Flat,30.0,4285,3.0,Moderate Property,2,2,1,840.0,0,0,0,0,0,0,1,6,Road Facing Homes
+bawadia kalan,Flat,69.0,7123,4.0,New Property,3,3,2,1162.8,0,0,0,0,0,0,1,24,Road Facing Homes
+bhopal,Flat,12.0,2000,1.0,New Property,1,1,0,720.0,0,0,0,0,0,0,1,12,Road Facing Homes
+chuna bhatti,Flat,36.0,4235,3.0,Old Property,3,2,2,1300.0,0,0,0,0,1,0,0,9,Road Facing Homes
+central bhopal,Flat,65.0,9285,1.0,Old Property,2,1,1,700.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,Flat,27.25,2270,3.0,New Property,3,2,1,946.0,0,0,0,0,0,0,1,13,Green View Homes
+kolar road,Flat,85.0,5448,2.0,New Property,3,3,1,1872.0,0,0,0,0,0,0,1,35,Amenity Facing Homes
+kolar road,House,230.0,18400,3.0,New Property,4,4,2,4100.0,0,0,1,0,0,0,2,85,Amenity Facing Homes
+gehu kheda,House,85.0,7083,1.0,Old Property,3,2,0,1200.0,0,0,0,0,0,0,1,23,Road Facing Homes
+arera colony,Flat,52.0,5777,1.0,New Property,3,3,2,1080.0,0,0,0,0,0,0,1,18,Green View Homes
+katara hills,Flat,16.5,2997,4.0,New Property,2,1,2,660.0,0,0,0,0,0,0,1,48,Green View Homes
+kolar road,House,50.0,5625,2.0,Moderate Property,3,2,1,800.0,0,0,0,1,0,0,0,3,Road Facing Homes
+bhopal,Flat,20.0,2857,1.0,Moderate Property,2,2,2,840.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,81.0,6881,2.0,New Property,4,2,2,1177.0,0,0,0,1,0,0,1,9,Green View Homes
+hoshangabad road,House,90.0,9000,2.0,Moderate Property,3,3,2,1000.0,0,0,0,0,0,0,0,0,Green View Homes
+katara hills,House,75.0,6000,1.0,New Property,3,2,2,1250.0,0,0,0,0,0,0,1,16,Green View Homes
+katara hills,House,80.0,6666,1.0,New Property,2,2,1,1200.0,0,0,0,0,0,0,1,12,Green View Homes
+katara hills,Flat,36.0,4500,2.0,New Property,2,2,2,900.0,0,0,0,0,0,1,1,45,Amenity Facing Homes
+shahjahanabad,House,700.0,31111,3.0,Old Property,10,5,2,2250.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,54.9,3635,3.0,Old Property,3,3,1,1088.0,0,0,0,0,0,0,1,22,Green View Homes
+gehu kheda,Flat,18.0,2250,3.0,Moderate Property,2,2,1,960.0,0,0,0,0,0,0,1,11,Road Facing Homes
+central bhopal,Flat,30.0,4615,2.0,Moderate Property,2,2,1,780.0,0,0,0,0,0,0,1,24,Road Facing Homes
+awadhpuri,Flat,25.0,3410,5.0,Moderate Property,2,2,1,879.5999999999999,0,0,0,0,0,0,0,41,Amenity Facing Homes
+gehu kheda,House,42.0,3281,2.0,Moderate Property,3,2,1,1280.0,0,0,0,0,0,0,1,8,Road Facing Homes
+mandideep,House,25.0,3472,1.0,Moderate Property,3,2,2,1400.0,0,0,0,0,1,0,1,4,Green View Homes
+bagmuliya,House,66.0,9428,2.0,Moderate Property,2,1,2,700.0,0,0,0,0,0,0,1,8,Road Facing Homes
+habib ganj,House,211.0,8178,1.0,Old Property,3,3,2,2000.0,1,0,0,1,1,0,1,9,Green View Homes
+gandhinagar,Flat,39.0,2888,1.0,New Property,3,3,2,1620.0,0,0,0,0,0,0,1,39,Amenity Facing Homes
+karond,House,25.0,5555,2.0,New Property,3,2,1,450.0,0,0,0,1,1,0,0,8,Road Facing Homes
+misrod,House,45.0,8789,2.0,New Property,3,2,2,512.0,0,0,0,0,0,0,1,7,Road Facing Homes
+misrod,Flat,40.0,2666,1.0,New Property,3,2,3,1484.0,0,0,0,0,0,0,0,41,Road Facing Homes
+bawadia kalan,Flat,62.0,4460,3.0,New Property,3,2,2,1030.0,0,0,0,0,0,0,1,35,Road Facing Homes
+kolar road,House,150.0,10000,2.0,New Property,4,3,2,1500.0,0,0,0,0,0,0,0,11,Green View Homes
+gehu kheda,House,270.0,11250,1.0,New Property,5,3,2,4000.0,0,0,0,0,0,0,1,12,Green View Homes
+misrod,Flat,60.0,5730,3.0,New Property,3,3,2,1047.0,0,0,1,0,0,0,1,63,Amenity Facing Homes
+bawadia kalan,Flat,70.0,5833,5.0,New Property,3,3,1,1232.0,0,0,0,0,0,0,0,42,Amenity Facing Homes
+bagmugaliya,House,125.0,9881,2.0,Moderate Property,4,3,2,1265.0,0,0,0,0,1,0,0,28,Green View Homes
+misrod,Flat,63.0,5748,2.0,New Property,3,3,2,1096.0,1,0,0,0,0,0,1,85,Amenity Facing Homes
+bypass road,Flat,25.0,4166,1.0,New Property,1,1,2,509.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,House,110.0,9606,2.0,New Property,3,3,1,1145.0,1,0,0,1,0,0,1,0,Green View Homes
+central bhopal,Flat,250.0,11532,15.0,New Property,3,3,2,1617.7080198073895,1,1,0,1,1,0,1,85,Premium Scenic Homes
+misrod,House,55.0,4122,1.0,Old Property,2,2,0,1334.0,0,0,0,1,1,0,1,16,Road Facing Homes
+hoshangabad road,House,160.0,10666,2.0,Moderate Property,4,4,3,1500.0,0,0,0,1,0,0,1,48,Green View Homes
+central bhopal,Flat,47.0,4700,1.0,Moderate Property,2,1,1,1200.0,0,0,0,0,0,0,1,3,Road Facing Homes
+govindpura,House,180.0,3830,3.0,Old Property,9,7,0,4700.0,0,0,0,0,0,0,1,9,Road Facing Homes
+gandhinagar,House,26.6,3309,1.0,New Property,2,2,0,710.0,0,0,0,0,0,0,1,14,Amenity Facing Homes
+kolar road,Flat,35.0,3271,7.0,New Property,2,2,2,831.7864397856351,0,0,0,0,0,1,0,60,Road Facing Homes
+lalgathi,Flat,22.5,3103,2.0,Moderate Property,2,2,2,563.5936157426032,0,0,0,0,0,0,1,0,Road Facing Homes
+bypass road,House,52.0,2600,2.0,Moderate Property,3,2,1,2000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,130.0,2888,2.0,Moderate Property,5,3,0,4500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,40.0,3636,7.0,Moderate Property,2,2,2,1093.0,0,0,0,0,0,0,1,45,Road Facing Homes
+chuna bhatti,Flat,45.0,3600,2.0,Moderate Property,2,2,2,1200.0,0,0,0,0,1,0,1,28,Road Facing Homes
+bhopal,House,100.0,9671,2.0,Moderate Property,3,3,1,1034.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,Flat,45.0,2830,4.0,New Property,3,2,1,1590.0,0,0,0,0,1,0,1,30,Amenity Facing Homes
+gehu kheda,Flat,32.0,2723,5.0,Moderate Property,3,2,2,1050.0,0,0,0,0,0,0,2,8,Road Facing Homes
+katara hills,House,85.0,7391,2.0,Moderate Property,4,3,1,1150.0,0,0,0,0,0,0,1,4,Amenity Facing Homes
+bhopal,House,150.0,5000,2.0,Old Property,9,7,1,3000.0,0,0,0,1,0,0,1,39,Road Facing Homes
+gehu kheda,Flat,42.0,2663,4.0,New Property,2,2,2,1892.3999999999999,1,1,0,1,1,0,0,46,Green View Homes
+ayodhya bypass,Flat,25.0,6250,7.0,New Property,2,1,1,430.0,0,0,0,0,0,0,1,51,Amenity Facing Homes
+central bhopal,Flat,60.0,6309,8.0,Moderate Property,2,2,1,1141.2,0,0,0,0,0,0,1,28,Green View Homes
+mahawadiya,Flat,25.0,2325,1.0,Moderate Property,3,2,3,835.6732923079979,0,0,0,0,0,0,1,9,Green View Homes
+bawadia kalan,Flat,55.0,4583,1.0,Old Property,3,2,2,932.8446053670675,0,0,0,0,0,0,2,22,Amenity Facing Homes
+outside bhopal,House,35.0,3333,2.0,New Property,2,2,2,1050.0,0,0,0,0,0,0,1,23,Road Facing Homes
+navi bagh,Flat,16.0,2162,1.0,Moderate Property,2,2,1,888.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,Flat,75.0,6000,1.0,Moderate Property,3,3,2,1500.0,0,0,0,0,0,0,0,30,Road Facing Homes
+aishbagh,House,85.0,7083,2.0,Old Property,3,3,1,1200.0,0,0,0,1,0,0,1,0,Green View Homes
+mandideep,Flat,15.0,1428,1.0,New Property,2,2,1,950.0,0,0,0,0,0,0,1,21,Road Facing Homes
+ayodhya bypass,House,24.0,3692,1.0,New Property,2,1,1,650.0,0,0,0,0,0,0,1,3,Road Facing Homes
+bagmugaliya,House,100.0,10000,2.0,Moderate Property,3,2,2,1000.0,0,0,0,0,0,0,1,14,Road Facing Homes
+central bhopal,Flat,450.0,16363,3.0,New Property,4,5,3,3300.0,0,1,0,0,0,0,2,35,Premium Scenic Homes
+lalgathi,House,61.0,8402,2.0,New Property,3,3,1,1350.0,0,0,0,0,0,0,1,13,Road Facing Homes
+bhopal,House,18.0,2142,2.0,New Property,2,1,0,840.0,0,0,0,0,1,0,1,77,Amenity Facing Homes
+outside bhopal,Flat,25.0,3012,5.0,Moderate Property,2,2,1,996.0,0,0,0,0,0,0,1,67,Green View Homes
+gehu kheda,House,70.0,7000,2.0,New Property,3,3,1,1600.0,0,0,0,0,0,0,1,12,Green View Homes
+habib ganj,House,207.0,8003,2.0,Old Property,5,3,1,2580.0,0,0,0,0,1,0,1,14,Road Facing Homes
+awadhpuri,Flat,36.0,3478,4.0,Moderate Property,3,3,3,804.5784721290958,0,0,0,0,0,0,1,46,Amenity Facing Homes
+shirdipuram,House,115.0,7986,2.0,Moderate Property,3,3,2,1440.0,1,0,0,1,0,0,2,83,Green View Homes
+hoshangabad road,House,25.0,2500,1.0,New Property,2,2,2,1000.0,0,0,0,0,0,0,1,48,Green View Homes
+kolar road,Flat,55.0,5319,4.0,New Property,3,2,1,1240.8,0,0,0,0,0,0,1,25,Amenity Facing Homes
+awadhpuri,House,75.0,7142,2.0,Moderate Property,3,2,1,1050.0,0,0,0,0,1,0,1,13,Green View Homes
+misrod,Flat,22.0,3142,2.0,New Property,2,2,1,544.1593531307893,0,0,0,0,0,0,1,45,Road Facing Homes
+chuna bhatti,Flat,41.0,2523,1.0,Old Property,3,3,3,1625.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,72.0,5760,4.0,New Property,3,3,2,971.7131305906953,0,0,0,0,0,0,2,24,Road Facing Homes
+awadhpuri,House,80.0,6666,1.0,Moderate Property,4,2,2,1200.0,0,0,0,0,0,0,1,9,Green View Homes
+lalgathi,Flat,62.0,4769,2.0,Moderate Property,4,3,3,1560.0,0,0,0,0,1,0,1,31,Road Facing Homes
+karond,House,85.0,8228,2.0,Moderate Property,3,2,1,1800.0,0,0,0,0,0,0,1,9,Road Facing Homes
+misrod,Flat,16.0,2503,1.0,Moderate Property,2,2,2,756.0,0,0,0,0,0,0,1,45,Road Facing Homes
+bhopal,Flat,35.0,3500,1.0,New Property,3,2,1,1200.0,0,0,0,0,0,0,0,3,Road Facing Homes
+arera colony,Flat,15.0,3000,1.0,Old Property,2,2,1,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,30.0,2500,6.0,Moderate Property,2,2,2,1006.0,0,0,0,0,0,0,0,73,Green View Homes
+patel nagar,Flat,25.0,2500,2.0,Moderate Property,2,2,2,777.3705044725563,0,0,0,0,0,0,1,11,Road Facing Homes
+piplani,House,85.0,8500,2.0,Old Property,3,2,2,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,House,1100.0,20560,2.0,Old Property,5,5,3,4000.0,1,1,1,1,0,0,0,38,Road Facing Homes
+bhopal,House,275.0,12222,2.0,Moderate Property,5,5,3,4000.0,0,0,0,0,0,0,1,0,Green View Homes
+karond,Flat,29.5,3881,7.0,New Property,2,2,2,912.0,0,0,0,0,0,0,2,0,Road Facing Homes
+bhopal,Flat,14.0,3500,1.0,Moderate Property,1,1,1,480.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mahawadiya,Flat,25.0,3125,2.0,Moderate Property,3,2,3,960.0,0,0,0,0,0,0,0,15,Green View Homes
+bypass road,Flat,24.0,2696,5.0,New Property,3,2,1,691.8597489805751,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,Flat,65.0,6500,1.0,New Property,3,2,2,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,35.0,3271,7.0,New Property,2,2,1,831.7864397856351,0,0,0,0,0,0,1,45,Road Facing Homes
+central bhopal,Flat,118.0,9291,5.0,Old Property,2,2,2,1524.0,0,0,0,0,0,0,1,35,Premium Scenic Homes
+katara hills,Flat,9.5,2209,3.0,Moderate Property,1,1,1,334.2693169231992,0,0,0,0,0,0,1,48,Green View Homes
+shahpura,Flat,47.0,5875,1.0,New Property,2,2,2,960.0,0,0,0,0,0,1,1,0,Green View Homes
+ashoka garden,House,61.0,12577,3.0,Moderate Property,1,3,2,1500.0,0,1,0,0,0,0,0,3,Road Facing Homes
+kolar road,Flat,19.5,2140,2.0,New Property,2,2,2,708.1845295744987,0,0,0,0,0,0,0,53,Green View Homes
+bagmugaliya,Flat,58.0,4157,4.0,New Property,3,3,2,1674.0,0,0,0,0,0,0,1,30,Green View Homes
+salaiya,Flat,55.0,5045,3.0,New Property,3,3,3,1308.0,0,0,0,0,0,0,1,28,Green View Homes
+salaiya,Flat,62.5,5841,6.0,Moderate Property,3,2,3,1496.0,0,0,0,0,1,0,2,66,Amenity Facing Homes
+karond,House,46.0,3474,3.0,New Property,3,3,3,1324.0,1,1,0,1,0,0,0,3,Road Facing Homes
+bagmugaliya,House,110.0,9540,2.0,New Property,3,3,1,2000.0,1,0,0,1,0,0,1,29,Green View Homes
+katara hills,Flat,42.0,3333,1.0,Moderate Property,3,2,2,902.0,0,0,0,0,0,0,0,32,Amenity Facing Homes
+central bhopal,House,225.0,15000,2.0,Old Property,5,4,2,1500.0,1,0,0,1,1,0,2,0,Road Facing Homes
+katara hills,House,77.0,7700,2.0,Moderate Property,3,3,2,1000.0,0,0,0,0,0,0,0,19,Amenity Facing Homes
+awadhpuri,House,70.0,8750,2.0,New Property,3,3,2,800.0,0,0,0,0,0,0,1,16,Green View Homes
+hoshangabad road,Flat,70.0,3111,3.0,New Property,4,4,2,1671.3465846159959,0,0,0,0,0,1,0,51,Amenity Facing Homes
+hoshangabad road,House,120.0,12000,1.0,New Property,4,4,3,1000.0,0,0,0,0,0,0,1,12,Green View Homes
+bawadia kalan,House,75.0,7500,1.0,New Property,3,3,2,1000.0,0,0,0,0,0,0,1,12,Green View Homes
+ayodhya bypass,Flat,60.0,3896,5.0,New Property,3,3,3,1197.1505768877366,0,0,0,0,0,0,1,54,Green View Homes
+kolar road,Flat,32.0,3555,1.0,Old Property,2,2,1,1080.0,1,0,0,1,0,0,2,4,Road Facing Homes
+awadhpuri,Flat,35.0,3181,5.0,New Property,3,2,1,1100.0,0,0,0,0,0,0,1,29,Road Facing Homes
+bagmugaliya,House,135.0,11250,2.0,Old Property,3,4,1,1200.0,0,0,0,1,0,0,1,0,Road Facing Homes
+navi bagh,Flat,13.0,2015,1.0,Old Property,2,1,0,501.4039753847988,0,0,0,0,0,0,1,13,Road Facing Homes
+misrod,Flat,105.0,4823,6.0,New Property,4,4,2,1686.0,0,1,0,0,0,0,0,59,Premium Scenic Homes
+misrod,House,49.0,4454,1.0,New Property,1,1,0,1320.0,0,0,0,0,0,0,1,4,Green View Homes
+kolar road,Flat,11.0,1718,2.0,Moderate Property,1,2,2,497.517122862436,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,39.0,3250,4.0,New Property,3,2,1,1200.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+katara hills,Flat,58.0,3222,6.0,New Property,4,4,3,1974.0,0,0,0,0,0,1,1,59,Amenity Facing Homes
+bhopal,House,320.0,13333,1.0,Old Property,6,5,3,4000.0,1,1,0,1,1,0,0,0,Road Facing Homes
+central bhopal,House,220.00000000000003,12222,2.0,Old Property,2,2,1,1800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,375.0,15625,1.0,Old Property,6,4,3,3050.0,1,1,1,1,0,0,0,69,Road Facing Homes
+misrod,Flat,35.0,2916,1.0,Moderate Property,3,3,2,1066.0,0,0,0,0,0,0,1,59,Road Facing Homes
+bhopal,Flat,8.0,1066,1.0,Old Property,2,1,2,900.0,0,0,0,0,0,0,1,5,Road Facing Homes
+misrod,Flat,23.0,3194,6.0,New Property,2,2,1,864.0,0,0,0,0,0,0,1,49,Green View Homes
+chuna bhatti,House,325.0,19230,2.0,New Property,3,3,2,1690.0,0,0,0,0,0,0,2,4,Green View Homes
+chuna bhatti,House,35.0,2333,2.0,Old Property,3,2,0,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,59.0,3471,2.0,New Property,3,3,0,1700.0,0,0,0,0,0,0,1,34,Premium Scenic Homes
+awadhpuri,Flat,17.5,2755,5.0,Moderate Property,2,2,2,493.6302703400732,0,0,0,0,0,1,1,33,Premium Scenic Homes
+bagmuliya,House,200.0,7500,2.0,Moderate Property,9,9,3,5000.0,1,1,0,1,1,0,1,6,Road Facing Homes
+bawadia kalan,House,150.0,12083,2.0,New Property,4,4,1,2675.0,1,1,0,1,0,0,0,3,Green View Homes
+hoshangabad road,Flat,43.0,2965,5.0,New Property,3,2,1,1127.1872314852064,0,0,0,0,0,0,1,40,Road Facing Homes
+chuna bhatti,Flat,14.0,2212,3.0,Old Property,2,1,1,633.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahjahanabad,House,350.0,11884,2.0,Old Property,5,5,2,3946.0,1,1,1,1,0,0,1,16,Amenity Facing Homes
+gandhinagar,Flat,35.0,3684,2.0,New Property,2,1,1,1140.0,0,0,0,0,0,1,1,0,Road Facing Homes
+katara hills,Flat,37.0,2892,2.0,New Property,3,2,3,994.2568752203995,0,0,0,0,0,0,1,59,Green View Homes
+bhopal,House,36.0,4800,2.0,Old Property,2,2,1,750.0,0,0,0,0,0,0,1,32,Road Facing Homes
+katara hills,Flat,44.0,1770,6.0,New Property,4,4,3,1558.0,0,0,0,0,0,0,1,25,Amenity Facing Homes
+katara hills,House,92.0,7360,2.0,New Property,3,3,2,1250.0,1,1,0,1,0,0,0,30,Amenity Facing Homes
+neelbad,House,130.0,6500,2.0,Moderate Property,5,2,2,2000.0,0,0,0,0,0,0,1,8,Road Facing Homes
+bhopal,House,80.0,3200,2.0,Old Property,4,4,2,2500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,60.0,5714,4.0,New Property,3,2,1,1260.0,0,0,0,0,0,0,0,35,Premium Scenic Homes
+hoshangabad road,House,110.0,8986,2.0,Old Property,4,3,1,1224.0,0,0,0,0,0,0,1,73,Green View Homes
+mandideep,House,22.5,4017,2.0,New Property,3,2,1,560.0,0,0,0,1,0,0,1,0,Road Facing Homes
+bhopal,House,22.0,3525,1.0,New Property,2,1,0,624.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,74.99,5066,4.0,New Property,3,3,3,1235.0,0,0,0,0,1,0,1,51,Road Facing Homes
+arera colony,Flat,65.0,3466,2.0,New Property,4,3,3,1509.0,0,0,0,0,0,0,1,46,Amenity Facing Homes
+ayodhya bypass,House,92.0,8363,2.0,Old Property,3,3,0,2200.0,0,0,0,0,0,0,1,3,Road Facing Homes
+karond,House,38.0,6333,3.0,Moderate Property,3,3,3,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,750.0,25000,3.0,Old Property,4,4,3,3000.0,0,1,1,0,0,0,1,13,Green View Homes
+shirdipuram,Flat,55.0,4867,5.0,Old Property,4,3,3,878.4286700539885,0,0,0,0,0,0,1,61,Green View Homes
+shahjahanabad,House,120.0,4000,3.0,Old Property,9,6,0,3000.0,0,0,0,0,0,0,1,22,Green View Homes
+central bhopal,Flat,200.0,11331,4.0,New Property,3,3,2,1372.0589403940617,0,1,0,0,0,0,0,35,Amenity Facing Homes
+central bhopal,Flat,245.00000000000003,9800,8.0,Old Property,4,4,3,2000.0,1,1,0,1,1,0,1,49,Premium Scenic Homes
+misrod,Flat,14.5,2116,1.0,New Property,2,1,1,650.0,0,0,0,0,0,0,1,73,Green View Homes
+chuna bhatti,House,85.0,9199,2.0,Old Property,3,3,2,1800.0,0,0,0,0,0,0,2,0,Road Facing Homes
+khajuri kalan,Flat,25.0,3373,6.0,New Property,2,2,1,741.0,0,0,0,0,0,0,1,27,Road Facing Homes
+bhopal,Flat,25.0,3333,1.0,Old Property,2,2,1,900.0,0,0,0,0,0,0,0,0,Road Facing Homes
+arera colony,House,1700.0,40476,2.0,Old Property,4,4,3,4200.0,0,1,1,0,0,0,2,0,Road Facing Homes
+hoshangabad road,House,60.0,8571,2.0,Moderate Property,2,4,1,700.0,0,0,0,0,0,0,1,48,Green View Homes
+awadhpuri,House,115.0,10492,2.0,New Property,4,5,3,2950.0,0,0,0,1,0,0,0,24,Green View Homes
+gandhinagar,Flat,70.0,5833,2.0,New Property,3,2,2,1400.0,0,0,0,0,0,0,2,44,Green View Homes
+peer gate area,House,65.0,7319,2.0,Old Property,4,4,1,888.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,Flat,46.0,5750,2.0,New Property,2,3,2,960.0,0,0,0,0,0,0,0,6,Road Facing Homes
+gandhinagar,Flat,80.0,3200,6.0,New Property,4,3,2,3000.0,0,0,0,0,0,0,1,30,Amenity Facing Homes
+habib ganj,House,375.0,9375,2.0,Old Property,4,4,3,4000.0,0,1,0,0,0,0,1,3,Green View Homes
+piplani,House,230.0,9583,1.0,Old Property,4,2,0,1680.0,0,0,0,0,1,0,0,10,Green View Homes
+chuna bhatti,House,65.0,3421,2.0,Old Property,4,4,0,1900.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,House,95.0,6333,2.0,New Property,4,4,2,2300.0,0,0,0,0,1,0,1,22,Green View Homes
+katara hills,Flat,30.0,2463,4.0,Moderate Property,3,2,3,1218.0,0,0,0,0,0,0,1,56,Amenity Facing Homes
+ayodhya bypass,House,45.0,6428,2.0,New Property,2,2,1,700.0,0,0,0,0,0,0,1,7,Green View Homes
+bhopal,House,70.0,8333,2.0,Old Property,4,3,1,1680.0,0,0,0,0,0,0,0,26,Road Facing Homes
+shahpura,House,155.0,12400,3.0,Moderate Property,6,6,3,3200.0,0,0,1,1,0,0,0,31,Green View Homes
+lalgathi,House,135.0,9000,3.0,Old Property,6,3,2,2200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,80.0,9090,2.0,Moderate Property,3,2,2,880.0,0,0,0,0,0,0,1,4,Road Facing Homes
+mandideep,House,25.0,3378,1.0,New Property,2,2,1,740.0,0,0,0,0,0,0,1,21,Green View Homes
+bawadia kalan,Flat,35.0,5384,2.0,New Property,1,1,1,780.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,Flat,42.0,3230,2.0,Old Property,3,2,3,1030.0,0,0,0,0,0,0,0,43,Green View Homes
+hoshangabad road,House,120.0,12000,2.0,Moderate Property,4,3,2,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,21.5,2362,4.0,Moderate Property,2,2,1,1092.0,0,0,0,0,0,0,0,72,Green View Homes
+habib ganj,House,200.0,13333,2.0,Old Property,6,6,1,1500.0,0,0,0,0,0,0,1,3,Green View Homes
+kolar road,Flat,55.0,3928,6.0,New Property,3,3,0,1680.0,0,0,0,0,0,0,1,71,Green View Homes
+ayodhya bypass,House,96.0,5333,1.0,Old Property,5,3,1,2590.0,0,0,0,1,0,0,0,22,Road Facing Homes
+piplani,Flat,22.0,3666,3.0,Old Property,2,2,1,780.0,0,0,0,0,0,0,1,36,Road Facing Homes
+misrod,Flat,25.0,3571,3.0,Moderate Property,2,2,2,544.1593531307893,0,0,0,0,0,0,1,20,Green View Homes
+peer gate area,Flat,16.53,2543,1.0,Moderate Property,2,2,2,505.29082790716154,0,0,0,0,0,0,1,11,Road Facing Homes
+piplani,House,86.0,7166,1.0,New Property,2,3,0,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,44.0,4631,4.0,Moderate Property,3,2,0,738.5019792489285,0,0,0,0,0,0,1,45,Green View Homes
+shahpura,House,200.0,9523,2.0,Old Property,6,7,3,2100.0,1,1,0,1,0,0,0,5,Road Facing Homes
+bhopal,Flat,25.0,4166,2.0,New Property,2,2,1,720.0,0,0,0,0,0,0,1,30,Green View Homes
+gandhinagar,Flat,57.0,4347,4.0,New Property,3,2,2,1150.0,0,0,0,0,0,0,0,50,Road Facing Homes
+misrod,Flat,93.0,4823,6.0,Moderate Property,4,3,2,1498.7703326230885,0,0,0,0,0,0,2,59,Road Facing Homes
+katara hills,House,95.0,10894,2.0,New Property,3,2,2,872.0,0,0,0,0,0,0,1,34,Green View Homes
+bagmugaliya,Flat,60.0,4395,1.0,Moderate Property,3,3,2,1061.1107386050392,0,0,0,0,0,0,1,21,Green View Homes
+awadhpuri,House,70.0,7070,2.0,New Property,3,3,2,990.0,0,0,0,1,0,0,1,0,Road Facing Homes
+bagmuliya,Flat,25.0,3846,2.0,Old Property,2,2,1,780.0,0,0,0,0,0,0,1,59,Road Facing Homes
+shahjahanabad,Flat,52.0,3851,1.0,Moderate Property,3,2,2,1049.4501810379509,0,0,0,0,0,0,1,28,Green View Homes
+ayodhya bypass,Flat,30.0,2400,2.0,New Property,3,2,1,1500.0,0,0,0,0,0,1,1,28,Green View Homes
+katara hills,House,40.0,6666,2.0,Moderate Property,3,2,1,600.0,0,0,0,0,0,0,1,48,Green View Homes
+bawadia kalan,Flat,90.0,6000,3.0,New Property,3,3,3,1800.0,0,0,0,0,0,0,1,36,Road Facing Homes
+chuna bhatti,House,250.0,11363,2.0,New Property,4,4,2,2200.0,1,1,1,1,0,0,2,56,Amenity Facing Homes
+gandhinagar,Flat,10.5,2333,2.0,Moderate Property,2,1,1,540.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mandideep,House,400.0,15267,2.0,Old Property,3,3,1,2620.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,55.0,4583,5.0,New Property,3,2,1,1440.0,1,0,0,0,0,0,1,60,Amenity Facing Homes
+hoshangabad road,House,50.0,5555,1.0,New Property,3,2,0,900.0,0,0,0,0,0,0,1,74,Road Facing Homes
+kolar road,House,150.0,12500,2.0,Moderate Property,5,4,0,1200.0,0,0,0,0,0,0,1,4,Road Facing Homes
+katara hills,House,80.0,8000,2.0,Moderate Property,3,3,1,1000.0,0,0,0,0,0,0,1,25,Green View Homes
+shahjahanabad,Flat,51.0,5905,3.0,Old Property,3,2,1,914.4,0,0,0,0,0,0,0,14,Road Facing Homes
+kolar road,Flat,35.0,5384,1.0,Old Property,2,2,1,780.0,0,0,0,0,0,0,0,42,Road Facing Homes
+katara hills,Flat,33.0,2750,1.0,Moderate Property,3,2,1,932.8446053670675,0,0,0,0,0,0,0,59,Amenity Facing Homes
+bawadia kalan,House,280.0,19417,3.0,New Property,5,5,2,4200.0,1,1,0,1,1,0,0,34,Premium Scenic Homes
+salaiya,Flat,27.0,2186,3.0,New Property,3,3,2,1482.0,0,0,0,0,1,0,1,33,Green View Homes
+central bhopal,House,100.0,9950,2.0,Moderate Property,3,4,0,1005.0,0,0,0,0,0,0,1,0,Road Facing Homes
+gandhinagar,Flat,7.0,2000,1.0,New Property,1,1,1,370.0,0,0,0,0,0,0,0,0,Road Facing Homes
+shirdipuram,House,90.0,9000,2.0,New Property,3,10,0,1000.0,0,0,0,0,0,0,1,61,Green View Homes
+gandhinagar,Flat,51.0,4636,3.0,New Property,3,2,1,1260.0,0,0,0,0,0,0,1,51,Premium Scenic Homes
+bypass road,House,32.0,7111,1.0,New Property,1,1,0,450.0,0,0,0,0,0,0,1,0,Green View Homes
+arera colony,Flat,60.0,4000,5.0,Moderate Property,4,3,2,1864.0,0,1,0,1,0,0,1,46,Green View Homes
+arera colony,House,515.0,21458,2.0,Old Property,6,5,2,3500.0,0,0,0,0,0,0,1,24,Road Facing Homes
+lalgathi,Flat,65.0,3250,6.0,Moderate Property,4,3,3,2400.0,0,0,0,0,0,0,1,19,Road Facing Homes
+bagmugaliya,House,145.0,12083,2.0,Old Property,4,4,2,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,127.0,12700,1.0,New Property,3,3,2,1000.0,0,0,0,0,0,0,1,12,Green View Homes
+piplani,House,54.9,3050,2.0,Old Property,4,4,1,1800.0,0,0,0,0,0,0,1,5,Road Facing Homes
+bagmugaliya,Flat,35.0,5223,2.0,Moderate Property,2,2,0,520.8382379966126,0,0,0,0,0,0,1,31,Road Facing Homes
+bagmuliya,House,135.0,9642,2.0,New Property,5,5,3,1400.0,0,1,0,0,0,0,1,0,Road Facing Homes
+govindpura,Flat,30.0,2875,3.0,Old Property,2,2,2,621.896403578045,0,0,0,1,1,0,0,55,Road Facing Homes
+bawadia kalan,House,175.0,12367,2.0,Moderate Property,4,3,2,1415.0,1,1,1,1,0,0,2,56,Green View Homes
+habib ganj,Flat,25.0,4545,2.0,Old Property,2,2,1,660.0,0,0,0,0,0,0,0,0,Road Facing Homes
+bagmugaliya,House,92.0,7829,2.0,New Property,3,3,2,1175.0,1,0,0,0,1,0,0,28,Green View Homes
+kolar road,House,55.0,7857,2.0,Old Property,3,3,2,1200.0,0,0,0,1,0,0,1,42,Road Facing Homes
+kolar road,Flat,33.0,2543,1.0,New Property,3,2,3,1093.0,0,0,0,0,0,0,1,41,Green View Homes
+hoshangabad road,Flat,48.0,3168,1.0,Moderate Property,3,2,2,1818.0,0,0,0,0,0,0,0,69,Premium Scenic Homes
+bawadia kalan,Flat,95.0,6054,5.0,Moderate Property,3,3,2,1318.0,0,0,0,0,0,0,1,51,Amenity Facing Homes
+central bhopal,House,225.0,16071,3.0,Moderate Property,4,3,2,2080.0,0,0,0,0,0,0,1,12,Green View Homes
+hoshangabad road,House,50.0,4347,2.0,Old Property,3,3,2,1800.0,0,0,0,0,0,0,0,4,Green View Homes
+awadhpuri,House,125.0,8928,2.0,Moderate Property,4,3,2,2400.0,1,0,0,0,0,0,0,12,Green View Homes
+gehu kheda,Flat,70.0,5185,3.0,New Property,3,2,1,1620.0,0,0,0,0,0,0,2,31,Road Facing Homes
+chuna bhatti,Flat,25.0,2439,5.0,Old Property,3,3,3,1025.0,0,0,0,0,0,0,1,15,Green View Homes
+bawadia kalan,Flat,38.0,5066,2.0,Moderate Property,2,2,1,900.0,0,0,0,0,0,0,2,13,Road Facing Homes
+misrod,House,55.0,9166,3.0,New Property,2,5,3,600.0,0,0,0,0,0,0,1,23,Green View Homes
+piplani,Flat,16.5,3273,3.0,Old Property,2,2,2,604.8,0,0,0,0,0,0,1,21,Road Facing Homes
+kolar road,Flat,42.0,2470,5.0,New Property,3,3,3,1321.5298576033456,0,0,0,0,0,0,1,20,Road Facing Homes
+misrod,House,75.0,7142,2.0,Moderate Property,4,4,2,1800.0,0,0,0,1,0,0,1,16,Amenity Facing Homes
+gehu kheda,Flat,10.0,2000,5.0,New Property,1,1,0,600.0,0,0,0,0,0,0,1,32,Road Facing Homes
+bhopal,Flat,22.5,4113,1.0,Moderate Property,2,2,1,425.22166594648826,0,0,0,0,0,0,1,5,Road Facing Homes
+chuna bhatti,House,65.0,6190,1.0,Old Property,3,2,0,1050.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,100.0,10521,1.0,New Property,2,1,1,1140.0,0,0,0,0,0,0,1,18,Road Facing Homes
+kolar road,Flat,21.0,3853,2.0,Old Property,2,2,1,654.0,0,0,0,0,0,0,1,42,Road Facing Homes
+salaiya,Flat,55.0,3666,1.0,Moderate Property,3,2,2,1561.0,0,0,0,0,0,0,1,41,Green View Homes
+neelbad,Flat,55.0,3928,3.0,New Property,3,2,1,1450.0,0,0,0,0,0,0,1,0,Amenity Facing Homes
+arera colony,Flat,35.0,5384,1.0,Old Property,2,2,1,780.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mandideep,House,175.0,12052,3.0,Old Property,6,5,2,3000.0,1,1,0,0,1,0,1,12,Green View Homes
+central bhopal,House,325.0,13541,3.0,Moderate Property,7,10,3,2400.0,1,1,0,1,0,0,1,19,Green View Homes
+central bhopal,Flat,240.0,10434,9.0,Moderate Property,3,4,3,2110.0,1,1,0,1,1,0,0,32,Premium Scenic Homes
+misrod,Flat,14.5,2230,5.0,New Property,2,1,1,505.29082790716154,0,0,0,0,0,0,1,53,Green View Homes
+katara hills,House,95.0,7600,1.0,New Property,3,2,2,1250.0,0,0,0,0,0,0,1,16,Green View Homes
+gehu kheda,Flat,45.0,2903,4.0,New Property,3,3,2,1204.9242819324622,1,1,0,1,1,1,0,21,Green View Homes
+bhopal,Flat,95.0,5937,33.0,New Property,3,2,1,1243.79280715609,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,22.0,2650,1.0,Old Property,2,2,1,645.2175187122217,0,0,0,0,0,0,1,19,Road Facing Homes
+ayodhya bypass,Flat,31.5,4144,3.0,Moderate Property,2,2,2,876.0,0,0,0,0,0,0,0,43,Green View Homes
+bawadia kalan,Flat,90.0,4687,4.0,Moderate Property,3,4,2,1492.551368587308,0,0,0,0,1,0,1,51,Amenity Facing Homes
+awadhpuri,House,55.0,7857,2.0,Old Property,3,2,1,700.0,0,0,0,0,0,0,0,16,Green View Homes
+hoshangabad road,Flat,55.0,5308,4.0,New Property,3,2,2,1243.2,0,0,0,1,0,0,0,61,Amenity Facing Homes
+ayodhya bypass,House,25.0,4166,1.0,New Property,2,1,1,720.0,1,1,0,1,1,0,1,14,Amenity Facing Homes
+bhopal,House,29.11,3234,2.0,Old Property,3,3,2,900.0,0,0,0,0,0,0,1,30,Road Facing Homes
+bhopal,House,85.0,7727,2.0,Moderate Property,3,3,2,1100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+mandideep,House,175.0,12052,3.0,New Property,4,4,3,1452.0,0,0,0,0,0,0,1,0,Green View Homes
+central bhopal,House,225.0,16071,2.0,Moderate Property,4,3,3,2080.0,0,0,0,0,0,0,1,41,Amenity Facing Homes
+kolar road,Flat,8.5,944,1.0,New Property,1,1,0,699.6334540253006,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,43.0,3028,3.0,New Property,3,2,1,1103.8661163510299,0,0,0,0,1,0,2,35,Premium Scenic Homes
+hoshangabad road,House,90.0,7200,2.0,Moderate Property,4,4,2,1250.0,0,0,0,0,0,0,1,69,Amenity Facing Homes
+bairagarh,House,250.0,16666,1.0,Moderate Property,2,2,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,40.0,3703,6.0,New Property,2,2,2,839.5601448303607,0,0,0,0,0,0,1,80,Green View Homes
+habib ganj,House,250.0,10416,1.0,Old Property,4,3,0,2400.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,200.0,11111,2.0,Moderate Property,4,3,2,1800.0,1,1,1,1,0,0,1,104,Amenity Facing Homes
+misrod,Flat,63.0,5753,1.0,New Property,3,3,2,1095.0,0,0,0,0,0,0,1,51,Amenity Facing Homes
+gandhinagar,Flat,60.0,5000,1.0,New Property,4,3,1,1284.0,1,0,0,1,1,1,1,38,Road Facing Homes
+bhopal,Flat,12.0,2390,3.0,Old Property,2,2,2,602.4,0,0,0,0,0,0,1,8,Road Facing Homes
+bawadia kalan,Flat,55.0,3892,6.0,New Property,3,3,2,1209.0,0,0,0,0,0,0,0,43,Green View Homes
+shahjahanabad,Flat,70.0,5833,1.0,Moderate Property,3,2,2,1342.0,0,0,0,0,0,0,1,10,Road Facing Homes
+hoshangabad road,Flat,21.0,2471,2.0,New Property,2,1,1,850.0,0,0,0,0,0,0,1,69,Amenity Facing Homes
+ayodhya bypass,Flat,27.5,2291,1.0,New Property,2,2,3,946.0,0,0,0,0,0,0,1,25,Road Facing Homes
+aishbagh,House,120.0,6000,2.0,Old Property,6,4,0,2000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+aishbagh,Flat,650.0,19817,1.0,Under Construction,2,2,1,3936.0,0,0,0,0,0,0,1,8,Road Facing Homes
+central bhopal,House,120.0,10434,2.0,Old Property,4,2,2,2400.0,1,0,1,1,0,0,0,39,Road Facing Homes
+bawadia kalan,House,65.0,5652,2.0,New Property,3,5,1,1380.0,0,0,0,0,0,0,1,56,Green View Homes
+katara hills,Flat,26.0,1914,6.0,New Property,3,3,3,1006.0,0,0,0,0,0,0,1,47,Green View Homes
+aishbagh,House,290.0,16192,2.0,Old Property,3,3,1,2160.0,0,0,0,0,0,0,1,0,Road Facing Homes
+govindpura,Flat,29.0,2636,2.0,Old Property,3,2,2,1320.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,65.0,8125,2.0,Old Property,2,2,1,800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,62.0,6888,2.0,Old Property,3,2,1,1650.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,40.0,5000,5.0,New Property,2,2,2,960.0,0,0,0,0,0,0,2,55,Green View Homes
+ayodhya bypass,Flat,14.0,3111,3.0,New Property,1,1,1,540.0,0,0,0,0,1,0,1,28,Green View Homes
+habib ganj,House,400.0,10000,1.0,Old Property,4,4,3,4000.0,0,0,0,0,0,0,1,3,Green View Homes
+bawadia kalan,House,90.0,8866,3.0,Moderate Property,4,2,2,1015.0,0,0,0,0,0,0,1,3,Road Facing Homes
+kolar road,Flat,25.0,2500,1.0,Moderate Property,3,2,1,860.0,0,0,0,0,0,0,1,24,Road Facing Homes
+karond,House,85.0,7391,3.0,New Property,5,4,2,1380.0,0,0,0,0,0,0,1,0,Amenity Facing Homes
+katara hills,Flat,32.0,2666,2.0,Moderate Property,3,2,1,1036.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+katara hills,Flat,36.9,2713,3.0,Moderate Property,3,2,2,1069.0,0,0,0,0,0,0,1,65,Green View Homes
+bawadia kalan,House,110.0,9565,2.0,New Property,2,2,1,1150.0,0,0,0,0,0,0,1,56,Green View Homes
+bairagarh,House,250.0,7142,1.0,New Property,5,5,2,2500.0,0,0,0,0,1,0,1,13,Green View Homes
+patel nagar,House,65.0,6190,2.0,New Property,4,4,1,1050.0,0,0,0,0,0,0,1,3,Amenity Facing Homes
+misrod,House,100.0,9090,2.0,New Property,4,4,2,1800.0,0,1,0,0,0,0,1,23,Green View Homes
+piplani,House,85.0,8500,2.0,New Property,4,4,1,1000.0,0,0,0,1,0,0,0,3,Green View Homes
+bagmugaliya,House,95.0,4318,2.0,Old Property,3,3,2,2500.0,0,0,0,0,0,0,0,67,Road Facing Homes
+navi bagh,House,18.0,3000,1.0,Under Construction,2,2,1,600.0,1,1,0,1,1,0,1,3,Premium Scenic Homes
+katara hills,Flat,43.0,2047,6.0,New Property,3,3,1,2520.0,0,0,0,0,0,0,2,43,Amenity Facing Homes
+arera colony,Flat,75.0,3000,5.0,New Property,5,4,3,3000.0,0,0,0,0,0,0,1,46,Green View Homes
+hoshangabad road,Flat,25.0,2173,5.0,New Property,2,1,1,969.0,0,0,0,0,0,0,1,59,Amenity Facing Homes
+bhopal,House,10.4,2311,2.0,Moderate Property,3,2,1,450.0,0,0,0,0,0,0,1,3,Road Facing Homes
+kolar road,Flat,45.0,6130,1.0,Moderate Property,2,2,2,880.8,1,0,0,1,1,1,1,35,Premium Scenic Homes
+ayodhya bypass,House,92.0,11500,2.0,Moderate Property,2,3,1,800.0,0,0,0,0,0,0,1,25,Road Facing Homes
+ayodhya bypass,House,275.0,12500,2.0,New Property,5,4,2,3600.0,0,0,0,0,0,0,1,26,Amenity Facing Homes
+central bhopal,House,30.0,499,3.0,New Property,6,3,3,2000.0,1,0,0,0,1,0,1,24,Road Facing Homes
+govindpura,House,300.0,15706,1.0,Old Property,4,3,2,2500.0,1,0,0,0,1,0,1,8,Green View Homes
+hoshangabad road,House,300.0,12500,2.0,Under Construction,5,5,3,2400.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,House,110.0,8943,2.0,Moderate Property,4,4,2,2200.0,0,0,0,0,0,0,1,23,Amenity Facing Homes
+katara hills,Flat,16.0,2406,1.0,New Property,2,1,2,798.0,0,0,0,0,0,0,2,28,Green View Homes
+bhopal,House,60.0,4000,2.0,New Property,4,4,2,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya nagar,House,99.0,7857,2.0,Moderate Property,3,3,2,1260.0,0,0,0,0,0,0,1,28,Green View Homes
+bhopal,House,80.0,6666,1.0,Old Property,3,2,0,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahjahanabad,Flat,23.0,2300,2.0,Old Property,5,4,2,1200.0,0,0,0,0,0,0,1,3,Road Facing Homes
+bhopal,House,1200.0,36363,2.0,Old Property,10,4,3,3960.0,0,0,0,0,0,0,1,12,Premium Scenic Homes
+bhopal,House,125.0,7812,2.0,New Property,5,2,1,1600.0,0,0,0,0,0,0,1,14,Road Facing Homes
+salaiya,Flat,30.0,2429,1.0,New Property,3,2,2,1482.0,0,0,0,0,0,0,1,7,Green View Homes
+katara hills,House,27.0,3590,2.0,New Property,2,2,1,752.0,0,0,0,0,0,0,1,8,Green View Homes
+katara hills,House,196.0,8558,2.0,New Property,6,6,2,2290.0,1,0,1,1,0,0,1,72,Green View Homes
+hoshangabad road,Flat,36.0,2400,5.0,New Property,3,3,3,1557.0,0,0,0,0,0,0,1,77,Road Facing Homes
+kolar road,Flat,19.0,1936,5.0,New Property,2,2,2,1177.2,0,0,0,0,0,0,1,41,Green View Homes
+bawadia kalan,Flat,70.0,5319,2.0,Moderate Property,3,3,1,1172.0,0,0,0,0,0,0,0,51,Amenity Facing Homes
+habib ganj,Flat,18.0,3000,2.0,Old Property,2,2,0,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,55.0,5164,1.0,Old Property,3,2,1,1065.0,0,0,0,1,0,0,1,6,Road Facing Homes
+bawadia kalan,House,150.0,15000,2.0,Moderate Property,4,7,0,1000.0,0,0,0,0,0,0,1,37,Road Facing Homes
+hoshangabad road,Flat,30.0,3750,1.0,Moderate Property,2,1,1,621.896403578045,0,0,0,0,0,0,1,77,Road Facing Homes
+habib ganj,House,170.0,11333,2.0,Old Property,4,4,1,1500.0,0,0,0,0,0,0,1,4,Green View Homes
+hoshangabad road,Flat,45.0,3600,2.0,New Property,3,3,2,1500.0,1,1,1,1,0,0,1,104,Amenity Facing Homes
+kolar road,Flat,12.0,1846,4.0,Moderate Property,2,2,0,505.29082790716154,0,0,0,0,0,0,1,42,Road Facing Homes
+kolar road,Flat,35.0,4666,1.0,Moderate Property,2,2,1,583.0278783544172,0,0,0,0,0,0,1,24,Road Facing Homes
+bawadia kalan,House,160.0,10666,2.0,New Property,4,3,3,3500.0,1,0,0,1,1,0,0,38,Green View Homes
+hoshangabad road,House,140.0,7730,2.0,New Property,3,3,3,1811.0,0,0,0,0,0,0,0,86,Green View Homes
+bawadia kalan,Flat,19.0,3454,1.0,New Property,1,1,1,660.0,0,0,0,0,0,0,0,46,Green View Homes
+piplani,House,130.0,6500,2.0,Old Property,8,4,2,2000.0,0,0,0,0,0,0,1,18,Green View Homes
+salaiya,Flat,16.0,2666,1.0,New Property,2,1,1,720.0,0,0,0,0,0,0,1,13,Green View Homes
+bhopal,House,25.0,3623,1.0,Under Construction,2,2,1,690.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,House,125.0,10416,2.0,Moderate Property,4,4,3,3500.0,1,0,0,1,1,0,0,28,Green View Homes
+outside bhopal,House,20.0,500,5.0,New Property,4,3,0,4000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,85.0,8673,2.0,Moderate Property,3,3,1,980.0,0,0,0,0,0,0,1,4,Road Facing Homes
+shahpura,Flat,30.0,5000,1.0,Old Property,2,2,1,720.0,0,0,0,0,0,0,1,26,Road Facing Homes
+hoshangabad road,House,145.0,12831,2.0,New Property,4,4,3,1130.0,1,0,0,1,0,0,2,42,Premium Scenic Homes
+shirdipuram,House,60.0,7500,2.0,Moderate Property,2,4,1,1300.0,0,0,0,0,0,0,1,3,Road Facing Homes
+bawadia kalan,House,180.0,12000,2.0,Old Property,4,3,3,2800.0,0,0,0,0,0,0,0,30,Green View Homes
+chuna bhatti,Flat,70.0,5833,2.0,Old Property,3,2,3,932.8446053670675,0,0,0,0,0,0,0,13,Road Facing Homes
+bagmugaliya,Flat,25.0,3333,2.0,Moderate Property,2,2,1,900.0,0,0,0,0,0,0,1,8,Road Facing Homes
+bhopal,House,30.0,3726,1.0,New Property,1,1,1,805.0,0,0,0,0,0,0,1,4,Green View Homes
+piplani,Flat,30.0,4285,1.0,Old Property,2,2,0,840.0,0,0,0,0,0,0,1,8,Road Facing Homes
+neelbad,House,18.0,1714,1.0,New Property,1,1,1,600.0,0,0,0,0,0,0,1,8,Road Facing Homes
+arera colony,Flat,55.0,5000,1.0,Moderate Property,2,2,2,1320.0,0,0,0,0,0,0,0,0,Road Facing Homes
+central bhopal,Flat,200.0,11331,4.0,New Property,3,3,3,2118.0,0,1,0,0,0,0,0,35,Amenity Facing Homes
+hoshangabad road,Flat,39.0,4362,6.0,New Property,2,2,2,694.9692309984653,0,0,0,0,0,0,1,59,Green View Homes
+shahpura,House,115.0,9829,2.0,Moderate Property,4,3,2,1170.0,1,0,0,0,0,0,1,10,Road Facing Homes
+shahjahanabad,Flat,33.0,4125,2.0,Old Property,3,1,1,960.0,0,0,0,0,0,0,1,21,Road Facing Homes
+shahjahanabad,Flat,25.0,4385,2.0,New Property,2,2,1,684.0,0,0,0,0,0,1,1,0,Road Facing Homes
+bawadia kalan,House,180.0,12000,3.0,New Property,6,5,3,3500.0,1,1,0,1,1,0,1,23,Green View Homes
+bagmugaliya,House,180.0,6000,2.0,Old Property,4,4,3,3600.0,1,0,0,1,1,0,1,19,Green View Homes
+katara hills,Flat,35.0,2966,4.0,Moderate Property,3,2,1,917.2971952776163,0,0,0,0,0,0,1,43,Amenity Facing Homes
+kolar road,Flat,20.0,2666,2.0,Old Property,3,1,0,900.0,0,0,0,0,0,0,1,42,Road Facing Homes
+patel nagar,Flat,28.0,3500,1.0,Moderate Property,2,2,2,731.0,0,0,0,0,0,0,1,8,Road Facing Homes
+shirdipuram,Flat,72.0,4000,1.0,Moderate Property,4,3,1,1399.2669080506012,0,0,0,0,0,0,1,48,Green View Homes
+shahjahanabad,Flat,46.0,4181,3.0,New Property,3,2,0,855.1075549198118,0,0,0,0,0,0,1,9,Road Facing Homes
+bawadia kalan,Flat,30.0,4000,5.0,New Property,2,2,2,750.0,0,0,0,0,0,0,0,25,Green View Homes
+habib ganj,House,240.0,10000,2.0,Old Property,3,3,1,2400.0,0,0,0,0,0,0,1,4,Green View Homes
+mandideep,House,100.0,4166,2.0,New Property,3,3,2,2880.0,0,0,0,0,0,0,1,99,Green View Homes
+bagmugaliya,House,200.0,8626,1.0,Old Property,3,2,0,2319.0,0,0,0,0,0,0,1,28,Green View Homes
+bagmugaliya,House,125.0,11363,2.0,Moderate Property,4,3,2,1100.0,0,0,0,0,0,0,0,16,Amenity Facing Homes
+bhopal,House,68.0,7195,2.0,Old Property,3,3,2,945.0,0,0,0,0,0,0,1,9,Green View Homes
+mahawadiya,Flat,30.0,2553,2.0,New Property,3,2,3,1410.0,0,0,0,0,0,0,1,27,Green View Homes
+shahpura,Flat,30.0,352,1.0,Old Property,2,2,2,10200.0,0,0,0,0,0,0,1,31,Green View Homes
+misrod,Flat,87.0,6165,1.0,New Property,4,4,2,1411.0,0,1,0,0,0,0,1,70,Amenity Facing Homes
+katara hills,Flat,30.0,3333,4.0,New Property,2,2,2,900.0,0,0,0,0,0,0,0,55,Green View Homes
+peer gate area,House,180.0,21176,3.0,Moderate Property,2,3,1,850.0,0,0,0,0,0,0,1,20,Road Facing Homes
+salaiya,Flat,58.0,4187,1.0,New Property,3,3,3,1511.0,0,0,0,0,0,0,1,50,Green View Homes
+ayodhya bypass,House,27.99,2591,2.0,New Property,2,2,2,1296.0,0,0,0,0,0,0,0,18,Road Facing Homes
+aishbagh,House,35.0,7000,3.0,Old Property,2,3,2,500.0,0,0,0,1,0,0,1,0,Road Facing Homes
+gehu kheda,House,150.0,10000,1.0,Moderate Property,7,4,1,1500.0,0,0,0,0,0,0,1,12,Green View Homes
+gehu kheda,House,260.0,12380,2.0,New Property,5,4,2,3600.0,0,0,0,0,0,0,1,18,Road Facing Homes
+bhopal,House,23.0,2738,2.0,New Property,2,2,1,840.0,0,0,0,0,0,0,1,12,Green View Homes
+misrod,House,30.0,5859,1.0,New Property,1,1,1,512.0,0,0,0,0,0,0,1,12,Green View Homes
+bawadia kalan,House,145.0,12083,3.0,New Property,4,5,3,1200.0,0,0,0,1,0,0,1,21,Green View Homes
+peer gate area,House,65.0,10833,3.0,Old Property,3,3,3,1500.0,0,0,0,0,0,0,1,20,Road Facing Homes
+misrod,Flat,42.0,2796,1.0,New Property,3,2,2,1502.0,0,0,0,0,0,0,1,30,Road Facing Homes
+hoshangabad road,House,72.0,4363,2.0,New Property,4,3,2,1650.0,0,0,0,1,0,0,1,10,Road Facing Homes
+katara hills,Flat,23.9,2558,5.0,Moderate Property,2,2,1,783.0,0,0,0,0,0,0,0,42,Road Facing Homes
+kolar road,Flat,50.0,4212,2.0,Moderate Property,3,2,1,1424.3999999999999,0,0,0,0,0,1,0,12,Road Facing Homes
+katara hills,Flat,26.0,2600,2.0,Moderate Property,2,2,1,1000.0,0,0,0,0,0,0,1,53,Amenity Facing Homes
+patel nagar,House,56.9,4064,2.0,Old Property,3,3,1,1400.0,0,0,0,0,0,0,0,34,Green View Homes
+central bhopal,Flat,50.0,6369,4.0,Old Property,2,2,2,942.0,0,0,0,0,0,0,1,18,Amenity Facing Homes
+bagmugaliya,Flat,60.0,4615,3.0,Moderate Property,3,2,1,1560.0,0,0,0,0,0,0,2,102,Green View Homes
+ayodhya bypass,Flat,51.0,3333,1.0,Moderate Property,3,3,0,1189.376871843011,0,0,0,0,0,0,1,0,Road Facing Homes
+lalgathi,House,115.0,8214,2.0,New Property,5,4,2,1400.0,1,0,0,0,0,0,1,12,Green View Homes
+chuna bhatti,House,230.0,12777,2.0,Moderate Property,6,5,3,1800.0,0,1,0,1,1,0,0,4,Green View Homes
+gandhinagar,Flat,55.0,3666,2.0,New Property,3,2,1,1500.0,0,0,0,0,1,0,2,48,Amenity Facing Homes
+aishbagh,Flat,30.0,6000,3.0,Old Property,2,2,1,600.0,0,0,0,0,0,0,1,3,Road Facing Homes
+kolar road,Flat,22.99,2343,1.0,Moderate Property,2,2,3,831.0,0,0,0,1,1,0,1,56,Green View Homes
+katara hills,Flat,37.0,3045,3.0,Moderate Property,3,3,3,1215.0,0,0,0,0,0,0,1,43,Amenity Facing Homes
+hoshangabad road,Flat,35.0,3500,2.0,Moderate Property,3,2,2,777.3705044725563,0,0,0,0,0,0,1,0,Amenity Facing Homes
+ayodhya bypass,Flat,15.0,3260,3.0,New Property,1,1,1,460.0,0,0,0,0,0,0,1,24,Green View Homes
+awadhpuri,House,80.0,6153,2.0,Old Property,3,2,2,1300.0,0,0,0,0,0,0,1,18,Green View Homes
+hoshangabad road,Flat,42.0,4200,4.0,New Property,3,3,3,1110.0,0,0,0,0,0,0,1,37,Road Facing Homes
+ayodhya bypass,Flat,44.0,2802,4.0,Moderate Property,3,3,3,1252.0,0,0,0,1,0,0,1,49,Amenity Facing Homes
+misrod,Flat,37.8,1955,6.0,New Property,3,4,2,1800.0,0,1,1,0,0,0,0,79,Road Facing Homes
+arera colony,House,900.0,17708,2.0,Old Property,1,1,2,4000.0,1,1,1,1,0,0,1,27,Green View Homes
+bhopal,Flat,40.0,6666,3.0,Moderate Property,2,2,2,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,210.0,6000,6.0,Moderate Property,4,4,3,4200.0,0,1,0,1,0,0,1,22,Amenity Facing Homes
+kolar road,House,196.0,8166,2.0,Old Property,6,6,2,2400.0,1,1,0,1,1,0,1,34,Road Facing Homes
+misrod,Flat,25.0,3846,3.0,Moderate Property,2,2,2,780.0,0,0,0,0,0,0,1,59,Green View Homes
+karond,House,72.0,3557,1.0,Moderate Property,3,3,2,2024.0,0,0,0,0,0,0,1,24,Green View Homes
+mahawadiya,House,55.0,5500,1.0,Moderate Property,2,2,1,1000.0,0,0,0,0,0,0,1,27,Green View Homes
+ayodhya bypass,House,45.0,4545,1.0,Old Property,1,1,0,990.0,0,0,0,0,0,0,1,27,Road Facing Homes
+katara hills,Flat,30.0,3750,1.0,Moderate Property,2,2,2,960.0,0,0,0,0,0,0,0,65,Road Facing Homes
+katara hills,Flat,22.0,3142,1.0,New Property,2,2,2,900.0,0,0,0,0,0,0,0,13,Road Facing Homes
+govindpura,Flat,18.0,3614,1.0,Old Property,2,2,2,597.6,0,0,0,0,0,0,1,4,Road Facing Homes
+salaiya,Flat,60.0,3428,1.0,New Property,3,3,3,1360.3983828269734,0,0,0,0,0,1,1,47,Amenity Facing Homes
+arera colony,House,125.0,13888,1.0,Old Property,3,2,2,900.0,0,0,0,0,0,0,0,5,Road Facing Homes
+bairagarh,House,35.0,3500,1.0,Old Property,3,2,1,1200.0,0,0,0,0,0,0,1,13,Green View Homes
+awadhpuri,House,68.0,7555,2.0,New Property,3,3,2,900.0,1,0,0,1,0,0,1,9,Green View Homes
+arera colony,House,600.0,25000,2.0,Old Property,5,4,3,2400.0,0,0,0,0,0,0,1,24,Road Facing Homes
+katara hills,House,130.0,7029,2.0,Moderate Property,4,3,3,1850.0,0,0,0,0,0,0,1,32,Green View Homes
+gehu kheda,Flat,9.5,2695,1.0,New Property,1,1,1,422.4,0,0,0,0,0,0,1,12,Road Facing Homes
+govindpura,Flat,30.0,3333,1.0,Moderate Property,3,3,1,1080.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bypass road,House,143.0,7751,1.0,New Property,4,3,1,1845.0,0,0,0,0,0,0,1,0,Green View Homes
+mandideep,House,20.0,2151,1.0,New Property,4,2,0,930.0,0,0,0,0,0,0,1,8,Road Facing Homes
+habib ganj,House,210.0,8750,2.0,Old Property,5,4,3,2400.0,0,0,0,0,0,0,1,4,Green View Homes
+bagmuliya,House,456.0,12000,3.0,Old Property,3,3,1,3000.0,1,0,0,0,1,0,1,5,Road Facing Homes
+hoshangabad road,Flat,48.0,6153,6.0,New Property,3,2,3,927.0,0,0,0,0,0,0,0,43,Road Facing Homes
+ayodhya bypass,Flat,38.0,5428,1.0,Moderate Property,2,2,1,840.0,0,0,0,0,0,0,0,50,Amenity Facing Homes
+shahjahanabad,House,75.0,7281,2.0,Moderate Property,3,2,1,1700.0,0,0,0,0,1,0,1,4,Road Facing Homes
+bagmuliya,House,135.0,13500,2.0,Moderate Property,4,4,2,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,House,80.0,7272,3.0,New Property,4,5,3,2600.0,1,0,0,1,1,0,1,28,Green View Homes
+kolar road,House,42.0,4421,2.0,New Property,2,4,2,1800.0,0,0,0,0,0,0,1,46,Road Facing Homes
+ayodhya bypass,House,145.0,6590,3.0,Old Property,4,3,2,2200.0,0,1,0,1,0,0,0,49,Road Facing Homes
+central bhopal,Flat,240.0,11532,13.0,New Property,3,4,3,1556.0,0,1,0,0,0,1,1,80,Amenity Facing Homes
+kolar road,House,89.0,9417,3.0,New Property,2,4,2,945.0,1,1,0,1,0,0,1,22,Amenity Facing Homes
+patel nagar,House,120.0,12000,2.0,Old Property,3,2,0,1000.0,0,0,0,0,0,0,1,34,Green View Homes
+misrod,Flat,27.0,2250,1.0,New Property,3,3,2,932.8446053670675,0,0,0,0,0,0,1,63,Road Facing Homes
+habib ganj,House,105.0,10294,2.0,New Property,3,3,2,1020.0,0,0,0,0,0,0,0,16,Amenity Facing Homes
+awadhpuri,House,65.0,6000,2.0,Old Property,4,4,3,1000.0,1,0,0,1,0,0,1,28,Green View Homes
+bhopal,Flat,32.0,2539,4.0,Moderate Property,3,2,1,979.4868356354209,0,0,0,0,0,0,1,28,Amenity Facing Homes
+hoshangabad road,Flat,65.0,4126,5.0,New Property,3,3,2,1224.3585445442761,0,0,0,0,0,0,0,74,Premium Scenic Homes
+ayodhya bypass,Flat,38.0,2921,6.0,New Property,2,2,2,1027.0,0,0,0,0,0,0,1,19,Green View Homes
+ayodhya bypass,Flat,23.0,3230,5.0,New Property,2,1,1,641.0,0,0,0,0,0,0,1,25,Road Facing Homes
+bhopal,House,28.0,3252,1.0,New Property,2,2,0,861.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,70.0,5833,3.0,New Property,6,4,2,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,220.00000000000003,10476,2.0,New Property,8,6,3,5000.0,0,1,0,1,0,0,1,0,Green View Homes
+kolar road,Flat,50.0,4115,3.0,Moderate Property,3,2,2,1458.0,0,0,0,0,0,1,1,35,Green View Homes
+kolar road,House,56.5,8692,1.0,Old Property,2,1,0,650.0,0,0,0,0,0,0,1,42,Road Facing Homes
+bawadia kalan,House,95.0,7037,2.0,Moderate Property,3,3,1,1350.0,1,0,0,1,1,0,0,4,Green View Homes
+piplani,House,152.0,10133,2.0,Old Property,4,3,2,2200.0,1,1,0,0,1,0,1,12,Green View Homes
+arera colony,House,135.0,11739,2.0,Old Property,4,4,1,1150.0,1,1,1,1,0,0,1,48,Amenity Facing Homes
+ayodhya bypass,Flat,44.9,2806,10.0,Moderate Property,2,3,2,1300.0,0,0,0,1,0,0,2,28,Road Facing Homes
+central bhopal,House,200.0,13333,2.0,Moderate Property,4,4,1,1500.0,1,0,0,1,0,0,1,63,Green View Homes
+lalgathi,Flat,50.0,4347,5.0,New Property,3,2,2,1167.0,0,0,0,0,0,0,1,12,Road Facing Homes
+hoshangabad road,Flat,48.0,2727,2.0,Moderate Property,3,2,2,1401.0,0,0,0,0,0,0,0,57,Amenity Facing Homes
+katara hills,Flat,11.5,2300,4.0,Moderate Property,1,1,0,600.0,0,0,0,0,0,0,1,13,Green View Homes
+misrod,House,70.0,5600,2.0,Moderate Property,4,4,2,1650.0,0,0,0,0,0,0,1,19,Green View Homes
+peer gate area,House,300.0,10714,1.0,Old Property,7,7,0,2800.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,40.0,3400,3.0,Moderate Property,3,3,2,913.4103427552536,0,0,1,0,0,1,1,68,Road Facing Homes
+misrod,Flat,28.0,3294,4.0,New Property,2,2,2,1020.0,0,0,0,0,0,0,1,19,Road Facing Homes
+central bhopal,Flat,40.0,4705,1.0,Old Property,3,2,2,850.0,0,0,0,0,0,0,1,29,Road Facing Homes
+hoshangabad road,Flat,23.0,2300,2.0,Moderate Property,2,2,1,777.3705044725563,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,35.0,3043,5.0,New Property,3,2,2,1150.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,72.0,4000,6.0,New Property,3,3,2,2160.0,0,0,0,0,0,0,1,36,Amenity Facing Homes
+katara hills,Flat,45.0,2990,6.0,Moderate Property,3,2,3,1485.0,0,0,0,1,0,0,0,67,Amenity Facing Homes
+hoshangabad road,Flat,125.0,11363,2.0,New Property,4,4,3,1320.0,0,0,0,0,0,0,0,57,Premium Scenic Homes
+gehu kheda,House,33.0,5500,1.0,New Property,1,1,1,600.0,0,0,0,0,0,0,1,2,Road Facing Homes
+katara hills,Flat,20.0,2923,5.0,Moderate Property,2,1,1,531.7214250592284,0,0,0,0,0,0,1,42,Amenity Facing Homes
+kolar road,Flat,9.0,2571,2.0,Old Property,1,1,1,272.07967656539466,0,0,0,0,0,0,1,10,Road Facing Homes
+piplani,House,325.0,13000,1.0,Old Property,4,2,2,3000.0,0,0,0,0,0,0,1,13,Green View Homes
+neelbad,Flat,50.0,3424,2.0,New Property,2,2,1,1287.0,0,0,0,0,1,0,0,0,Amenity Facing Homes
+bypass road,House,62.0,5299,2.0,New Property,2,2,1,1170.0,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,Flat,22.0,1833,4.0,Moderate Property,2,2,1,932.8446053670675,0,0,0,0,0,0,1,15,Road Facing Homes
+bhopal,Flat,23.0,3650,1.0,Moderate Property,2,2,3,489.74341781771045,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,Flat,45.0,4500,2.0,Moderate Property,3,2,2,1000.0,0,0,0,0,0,0,2,0,Road Facing Homes
+karond,House,23.0,1533,1.0,New Property,3,1,0,1500.0,0,0,0,0,0,0,1,4,Green View Homes
+kolar road,Flat,25.0,3125,1.0,New Property,2,2,0,800.0,0,0,0,0,0,0,1,24,Road Facing Homes
+salaiya,Flat,90.0,7200,1.0,New Property,3,2,2,1500.0,0,0,0,0,0,0,1,66,Amenity Facing Homes
+misrod,House,26.0,5078,1.0,New Property,1,1,0,512.0,0,0,0,0,0,0,1,30,Green View Homes
+shahjahanabad,House,130.0,7428,2.0,Old Property,5,4,1,1750.0,0,0,0,0,0,0,1,8,Road Facing Homes
+salaiya,Flat,8.5,1416,1.0,New Property,1,1,0,720.0,0,0,0,0,0,0,1,11,Green View Homes
+govindpura,House,160.0,5333,3.0,Old Property,10,6,3,3000.0,1,0,1,1,0,0,1,20,Road Facing Homes
+bagmuliya,Flat,45.0,4285,3.0,Moderate Property,3,2,1,1260.0,0,0,0,0,0,0,2,15,Road Facing Homes
+ashoka garden,House,120.0,6857,1.0,Old Property,3,3,0,1750.0,0,0,0,0,1,0,0,27,Road Facing Homes
+misrod,Flat,23.9,3292,6.0,New Property,2,2,2,801.0,0,0,0,0,0,0,2,65,Amenity Facing Homes
+bhopal,House,80.0,2962,3.0,Moderate Property,6,5,2,2700.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,20.0,3245,5.0,Old Property,2,2,1,616.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,95.0,4318,2.0,Moderate Property,3,3,3,1755.0,0,0,0,0,0,1,1,30,Green View Homes
+karond,House,55.0,7935,2.0,Old Property,3,2,1,693.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,20.0,2000,2.0,New Property,3,3,1,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+govindpura,Flat,30.0,5454,1.0,Moderate Property,2,2,2,660.0,0,0,0,0,0,0,1,8,Road Facing Homes
+arera colony,Flat,35.0,4375,3.0,Old Property,2,2,2,960.0,0,0,0,0,0,0,1,10,Road Facing Homes
+piplani,House,95.0,10857,2.0,Moderate Property,4,3,1,850.0,0,0,0,1,0,0,1,18,Green View Homes
+kolar road,House,75.0,7894,1.0,Old Property,3,2,2,1140.0,0,0,0,0,0,0,1,13,Road Facing Homes
+salaiya,Flat,40.0,4166,3.0,New Property,3,2,2,1200.0,0,0,0,0,0,0,0,4,Amenity Facing Homes
+bagmugaliya,House,100.0,8000,1.0,Old Property,2,2,1,1250.0,0,0,0,0,0,0,2,28,Green View Homes
+bypass road,House,80.0,4336,1.0,New Property,4,3,1,1845.0,0,0,0,0,0,0,1,0,Green View Homes
+misrod,Flat,19.0,2533,1.0,Old Property,2,2,1,583.0278783544172,0,0,0,0,0,0,1,5,Road Facing Homes
+katara hills,Flat,40.0,2666,2.0,New Property,3,2,2,1333.0,0,0,0,0,0,0,1,50,Amenity Facing Homes
+bawadia kalan,Flat,65.0,5701,4.0,New Property,3,2,3,886.2023750987141,0,0,0,0,0,0,1,33,Amenity Facing Homes
+ayodhya bypass,House,325.0,21666,3.0,Old Property,5,5,3,4500.0,0,1,0,1,1,0,2,31,Green View Homes
+bagmugaliya,House,125.0,15463,2.0,New Property,2,4,3,970.0,0,1,0,0,0,0,1,15,Road Facing Homes
+bawadia kalan,Flat,31.0,2067,5.0,Under Construction,3,3,1,1200.0,0,0,0,0,0,0,1,42,Amenity Facing Homes
+central bhopal,House,300.0,12500,1.0,Old Property,4,4,3,2400.0,0,1,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,35.0,3089,2.0,Moderate Property,2,2,1,880.7607815674062,0,0,0,0,0,0,1,40,Amenity Facing Homes
+piplani,House,155.0,10333,2.0,Moderate Property,4,3,1,1500.0,1,0,0,1,0,0,1,5,Road Facing Homes
+bagmuliya,Flat,55.0,3666,1.0,New Property,3,3,1,1800.0,0,0,0,0,0,0,1,9,Green View Homes
+shirdipuram,Flat,52.0,3795,5.0,Moderate Property,3,2,2,1178.0,0,0,0,0,0,0,0,52,Green View Homes
+ashoka garden,Flat,32.0,5714,3.0,Old Property,2,2,1,672.0,0,0,0,0,0,0,1,0,Road Facing Homes
+chuna bhatti,House,150.0,13043,2.0,Old Property,3,3,1,1750.0,1,0,1,1,0,0,0,18,Amenity Facing Homes
+bawadia kalan,House,135.0,11739,2.0,Old Property,4,4,1,1150.0,1,1,1,1,0,0,1,34,Road Facing Homes
+chuna bhatti,House,200.0,15151,2.0,New Property,4,2,1,1320.0,0,0,0,0,0,0,0,68,Green View Homes
+misrod,Flat,38.0,3838,5.0,New Property,2,2,1,826.0,0,0,0,0,0,0,1,39,Amenity Facing Homes
+habib ganj,House,375.0,23437,1.0,Old Property,3,2,2,2200.0,1,1,0,1,1,0,1,9,Green View Homes
+habib ganj,House,110.0,10476,2.0,Old Property,5,4,1,1050.0,0,0,0,0,0,0,1,18,Road Facing Homes
+bhopal,House,82.0,5466,2.0,Old Property,3,4,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,33.0,5500,2.0,Moderate Property,3,3,1,1100.0,0,0,0,0,0,0,1,12,Road Facing Homes
+lalgathi,Flat,38.0,3166,2.0,Moderate Property,3,2,2,1440.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,House,138.0,3484,2.0,New Property,5,4,3,4250.0,1,1,0,1,1,0,0,65,Green View Homes
+awadhpuri,House,45.0,7500,2.0,Moderate Property,3,3,1,1150.0,0,0,0,0,0,0,1,4,Green View Homes
+awadhpuri,House,40.0,7142,2.0,New Property,2,2,1,560.0,0,0,0,0,0,0,1,17,Green View Homes
+misrod,Flat,60.0,5692,4.0,New Property,3,3,2,1054.0,0,0,0,1,0,0,1,63,Amenity Facing Homes
+bhopal,House,365.0,24333,2.0,Old Property,3,3,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,House,98.0,4454,2.0,Old Property,4,3,2,2640.0,0,0,0,1,0,0,1,8,Green View Homes
+kolar road,House,125.0,8333,2.0,Moderate Property,4,4,2,1500.0,0,0,0,0,0,0,1,11,Green View Homes
+mandideep,House,35.0,3932,2.0,New Property,2,2,1,1382.0,0,0,0,0,0,0,1,8,Road Facing Homes
+ashoka garden,House,100.0,10526,3.0,Old Property,2,4,3,950.0,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,52.0,7222,2.0,New Property,3,2,1,1400.0,0,0,0,0,0,0,1,8,Road Facing Homes
+patel nagar,House,75.0,7142,3.0,New Property,4,3,3,1050.0,0,0,0,0,0,0,1,3,Amenity Facing Homes
+misrod,House,85.0,7727,2.0,New Property,3,3,1,1100.0,0,0,0,0,0,0,1,30,Green View Homes
+kolar road,House,48.0,5925,3.0,New Property,4,5,2,2000.0,1,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,Flat,40.0,5000,1.0,New Property,3,3,2,960.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,150.0,16666,1.0,Old Property,2,1,1,900.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,47.0,6266,2.0,Moderate Property,3,2,2,1138.0,0,0,0,1,0,0,1,8,Road Facing Homes
+katara hills,Flat,35.0,3500,5.0,Moderate Property,3,2,1,1200.0,0,0,0,0,0,0,1,56,Green View Homes
+piplani,Flat,21.0,3818,2.0,Old Property,3,2,1,660.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmuliya,House,295.0,13169,2.0,New Property,4,4,2,2850.0,0,0,0,1,0,0,0,31,Amenity Facing Homes
+katara hills,Flat,35.0,2777,2.0,Moderate Property,2,2,2,900.0,0,0,0,0,0,1,1,25,Road Facing Homes
+bypass road,House,75.0,6818,2.0,Moderate Property,3,3,0,1100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,65.0,4482,4.0,Moderate Property,4,2,1,1740.0,0,0,0,0,0,0,0,108,Green View Homes
+kolar road,Flat,27.0,2700,2.0,Old Property,3,2,1,1200.0,0,0,0,0,0,0,2,3,Road Facing Homes
+hoshangabad road,House,169.0,5314,2.0,Old Property,3,3,3,3500.0,1,0,0,1,1,0,1,24,Green View Homes
+kolar road,House,63.0,8125,2.0,Moderate Property,3,3,3,800.0,0,0,0,0,0,0,1,34,Premium Scenic Homes
+awadhpuri,House,80.0,8888,3.0,New Property,4,5,2,2000.0,0,0,0,1,0,0,1,27,Amenity Facing Homes
+bawadia kalan,Flat,175.0,9259,9.0,New Property,3,3,3,1469.2302534531314,0,0,0,0,0,0,1,44,Amenity Facing Homes
+bhopal,House,125.0,13888,3.0,New Property,2,4,2,900.0,0,0,0,0,0,0,2,4,Road Facing Homes
+navi bagh,House,85.0,6521,2.0,New Property,5,4,2,1150.0,0,0,0,1,1,0,1,0,Amenity Facing Homes
+kolar road,Flat,62.0,4189,2.0,New Property,3,3,3,1217.0,0,0,0,0,0,0,0,51,Road Facing Homes
+karond,House,75.0,6944,2.0,Moderate Property,3,3,2,1008.0,0,0,0,0,0,0,0,9,Green View Homes
+misrod,Flat,35.0,2916,4.0,New Property,2,2,2,932.8446053670675,0,0,0,0,0,0,1,30,Amenity Facing Homes
+lalgathi,Flat,75.0,5067,5.0,Moderate Property,3,3,2,1150.5083466193832,0,0,0,0,0,0,1,71,Amenity Facing Homes
+ayodhya bypass,House,60.0,8333,2.0,Moderate Property,3,3,1,720.0,0,0,0,0,0,0,1,49,Road Facing Homes
+salaiya,Flat,45.0,3333,5.0,Moderate Property,3,2,3,1620.0,0,0,0,0,0,1,0,44,Amenity Facing Homes
+mandideep,House,40.0,7619,3.0,New Property,1,4,2,525.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,44.0,3666,4.0,Old Property,3,2,1,1066.0,0,0,0,0,0,0,1,69,Green View Homes
+misrod,Flat,16.0,2500,5.0,Moderate Property,2,2,1,768.0,0,0,0,0,0,0,1,43,Green View Homes
+kolar road,Flat,45.0,3396,6.0,Moderate Property,3,2,2,1590.0,0,0,1,0,0,0,0,64,Green View Homes
+misrod,Flat,55.0,5670,5.0,New Property,3,2,1,970.0,1,0,0,0,0,0,1,48,Amenity Facing Homes
+peer gate area,Flat,60.0,10000,1.0,Moderate Property,1,1,1,466.42230268353376,0,0,0,0,0,0,1,0,Road Facing Homes
+piplani,House,110.0,7857,2.0,Moderate Property,3,2,2,1400.0,0,0,0,1,0,0,1,25,Green View Homes
+bhopal,House,15.0,2500,1.0,New Property,2,1,0,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahjahanabad,Flat,25.0,4166,2.0,New Property,2,2,1,584.0,0,1,0,0,0,0,1,13,Green View Homes
+khajuri kalan,House,35.0,5833,1.5,New Property,2,2,0,600.0,0,0,0,0,0,0,1,3,Road Facing Homes
+katara hills,Flat,32.0,2539,3.0,New Property,3,2,2,902.0,0,0,0,0,0,0,1,74,Amenity Facing Homes
+habib ganj,House,255.0,10625,2.0,Old Property,4,4,3,2400.0,1,1,0,1,0,0,1,4,Green View Homes
+habib ganj,Flat,40.0,3333,1.0,New Property,2,1,1,1440.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,House,85.0,9000,2.0,Moderate Property,2,2,1,1000.0,1,0,0,0,1,0,1,63,Green View Homes
+arera colony,House,325.0,21666,1.0,Old Property,2,2,0,1500.0,0,0,0,0,0,0,1,0,Green View Homes
+ashoka garden,House,65.0,6879,2.0,New Property,4,3,0,945.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,House,45.0,7166,2.0,New Property,3,2,2,1050.0,0,0,0,0,0,0,1,21,Green View Homes
+ayodhya nagar,House,200.0,10000,2.0,Moderate Property,5,3,1,2000.0,0,0,0,0,0,0,1,28,Green View Homes
+mahawadiya,House,62.0,4880,2.0,Moderate Property,4,3,1,1250.0,0,0,0,0,0,0,1,13,Green View Homes
+kolar road,Flat,95.0,2984,3.0,New Property,4,4,2,2358.0,0,1,0,1,0,0,0,47,Green View Homes
+chuna bhatti,Flat,38.0,2235,3.0,Old Property,4,2,2,2040.0,0,0,0,0,0,0,1,9,Road Facing Homes
+bhopal,Flat,12.0,2000,4.0,Old Property,2,2,0,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,32.0,4000,4.0,New Property,2,2,2,960.0,0,0,0,0,0,0,1,46,Amenity Facing Homes
+kolar road,House,55.0,6875,2.0,New Property,3,3,1,800.0,0,0,0,0,1,0,0,12,Amenity Facing Homes
+hoshangabad road,House,135.0,11688,3.0,Old Property,4,4,1,2070.0,0,0,0,1,0,0,0,19,Green View Homes
+misrod,House,169.0,10562,2.0,Moderate Property,5,5,3,3200.0,1,0,0,1,1,0,0,28,Green View Homes
+awadhpuri,House,75.0,9375,1.0,New Property,3,3,1,1420.0,0,0,0,0,0,0,1,51,Amenity Facing Homes
+neelbad,House,50.0,5000,2.0,Moderate Property,4,5,1,1000.0,0,0,0,1,0,0,1,3,Road Facing Homes
+katara hills,Flat,17.0,2485,5.0,New Property,2,1,1,531.7214250592284,0,0,0,0,0,0,1,0,Road Facing Homes
+lalgathi,House,220.00000000000003,14666,2.0,Moderate Property,4,3,1,1500.0,0,0,0,0,0,0,1,15,Amenity Facing Homes
+hoshangabad road,Flat,50.0,4545,4.0,New Property,3,2,1,1212.0,0,0,0,0,0,0,1,40,Green View Homes
+hoshangabad road,House,120.0,10000,2.0,New Property,4,4,3,2600.0,1,0,0,1,1,0,0,30,Premium Scenic Homes
+khajuri kalan,House,40.0,5000,1.0,Moderate Property,2,1,0,800.0,0,0,0,0,0,0,1,14,Green View Homes
+ashoka garden,Flat,17.0,3238,2.0,New Property,2,2,2,525.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bagmugaliya,Flat,38.0,3800,5.0,New Property,3,2,2,1200.0,0,0,0,0,0,0,1,19,Amenity Facing Homes
+awadhpuri,House,260.0,3250,2.0,New Property,4,4,3,8000.0,1,1,0,1,1,0,1,18,Amenity Facing Homes
+ayodhya bypass,House,50.0,9090,2.0,New Property,3,2,1,550.0,0,0,0,0,0,0,1,4,Green View Homes
+central bhopal,Flat,15.0,3488,1.0,Old Property,1,1,1,430.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,63.0,7875,2.0,Moderate Property,3,3,3,800.0,1,0,0,1,0,0,0,34,Amenity Facing Homes
+bhopal,House,40.0,2666,1.0,Moderate Property,3,2,1,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+patel nagar,Flat,25.0,3571,2.0,Moderate Property,2,2,2,840.0,0,0,0,0,0,0,1,8,Road Facing Homes
+misrod,House,125.0,6250,2.0,Moderate Property,4,3,2,2800.0,0,0,1,1,0,0,0,90,Green View Homes
+chuna bhatti,House,49.0,4336,2.0,Old Property,3,3,0,1130.0,0,0,0,0,0,0,1,10,Road Facing Homes
+kolar road,House,45.0,3750,2.0,Moderate Property,2,3,2,1200.0,0,0,0,0,0,0,1,10,Road Facing Homes
+patel nagar,Flat,50.0,7812,2.0,Old Property,2,1,0,768.0,0,0,0,0,0,0,1,0,Road Facing Homes
+patel nagar,Flat,20.0,2928,3.0,Moderate Property,2,2,2,530.9440545547559,0,0,0,0,0,0,1,8,Road Facing Homes
+hoshangabad road,Flat,110.0,10566,9.0,New Property,3,3,3,1324.0,0,0,0,0,0,0,0,58,Premium Scenic Homes
+misrod,Flat,95.0,7624,6.0,New Property,3,2,3,968.603648572805,0,0,0,0,0,0,0,44,Green View Homes
+lalgathi,House,67.0,8933,2.0,Old Property,2,4,1,750.0,0,0,0,0,0,0,1,27,Amenity Facing Homes
+bagmugaliya,House,100.0,9090,2.0,Moderate Property,4,4,2,1100.0,0,0,0,0,0,0,1,12,Amenity Facing Homes
+bhopal,Flat,35.0,4915,1.0,Moderate Property,3,2,1,854.4,0,0,0,0,0,0,1,0,Road Facing Homes
+misrod,House,135.0,10800,2.0,New Property,4,3,2,2500.0,1,0,1,1,0,0,1,55,Road Facing Homes
+bhopal,Flat,25.0,3834,2.0,New Property,2,1,2,782.4,0,0,0,0,0,0,0,60,Amenity Facing Homes
+gehu kheda,House,42.0,8076,2.0,Old Property,2,3,1,520.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,Flat,35.0,2592,5.0,Moderate Property,3,2,1,1065.0,0,0,0,0,0,0,0,59,Amenity Facing Homes
+gehu kheda,House,300.0,14285,2.0,New Property,5,5,3,2100.0,0,1,1,0,0,0,1,10,Amenity Facing Homes
+karond,Flat,32.0,4475,3.0,New Property,2,2,2,858.0,0,0,0,0,0,0,1,23,Green View Homes
+awadhpuri,House,70.0,5600,2.0,New Property,3,3,2,1250.0,0,0,0,0,0,0,1,18,Amenity Facing Homes
+hoshangabad road,Flat,45.0,2812,2.0,New Property,3,3,3,1110.0,0,0,0,0,0,0,1,27,Green View Homes
+misrod,Flat,26.0,3611,5.0,Moderate Property,2,2,1,898.0,0,0,0,0,0,0,1,49,Green View Homes
+hoshangabad road,Flat,26.0,3058,2.0,Moderate Property,2,2,3,895.0,0,0,0,0,0,0,1,45,Amenity Facing Homes
+bawadia kalan,Flat,50.0,3144,2.0,New Property,3,3,3,1190.0,0,0,0,0,0,0,0,33,Amenity Facing Homes
+central bhopal,Flat,45.0,5769,1.0,Old Property,3,2,2,936.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,16.0,3555,5.0,New Property,1,1,1,540.0,0,0,0,0,0,0,0,106,Green View Homes
+kolar road,House,130.0,8666,2.0,New Property,4,4,2,2400.0,1,1,0,1,1,0,1,9,Green View Homes
+misrod,Flat,65.0,3502,5.0,New Property,3,3,2,1442.7996563010643,0,0,0,0,0,0,0,54,Premium Scenic Homes
+misrod,Flat,40.0,2162,4.0,New Property,3,3,2,2220.0,1,0,0,1,0,0,1,38,Road Facing Homes
+bawadia kalan,Flat,25.0,2705,9.0,Moderate Property,2,2,1,718.290346132642,0,0,0,0,0,0,1,0,Road Facing Homes
+govindpura,House,129.0,5375,2.0,Old Property,7,5,3,6500.0,1,1,0,1,1,0,2,64,Road Facing Homes
+awadhpuri,House,58.0,7250,2.0,Moderate Property,3,3,2,800.0,0,0,0,0,1,0,1,16,Green View Homes
+gehu kheda,Flat,35.0,3333,1.0,Moderate Property,3,2,1,1260.0,0,0,0,0,0,0,0,8,Road Facing Homes
+peer gate area,Flat,25.0,3333,1.0,Moderate Property,2,2,1,750.0,0,0,0,0,0,0,1,6,Road Facing Homes
+bawadia kalan,House,165.0,11000,2.0,New Property,4,3,3,4000.0,1,0,0,1,1,0,0,14,Premium Scenic Homes
+katara hills,Flat,28.0,3544,6.0,New Property,2,2,3,948.0,0,0,0,0,0,0,1,22,Green View Homes
+gehu kheda,Flat,45.0,2851,4.0,New Property,3,3,2,1363.0,0,0,0,1,1,0,0,59,Premium Scenic Homes
+karond,House,18.0,3000,1.0,New Property,2,2,0,600.0,0,0,0,0,0,0,1,4,Green View Homes
+hoshangabad road,Flat,35.0,2696,4.0,New Property,2,2,2,1009.0269148053779,0,0,0,0,0,0,1,71,Premium Scenic Homes
+kolar road,House,32.0,6986,2.0,Moderate Property,2,1,1,458.0,0,0,0,0,0,0,1,10,Road Facing Homes
+katara hills,House,70.0,6666,2.0,Moderate Property,3,2,1,1050.0,0,0,0,0,0,0,1,0,Road Facing Homes
+katara hills,House,86.0,6880,3.0,New Property,5,4,2,2000.0,0,0,0,0,0,0,1,31,Green View Homes
+central bhopal,Flat,250.0,12013,10.0,New Property,3,4,3,1556.0,0,1,0,0,0,0,1,69,Amenity Facing Homes
+kolar road,Flat,85.0,4358,3.0,Moderate Property,4,3,1,1950.0,0,0,0,0,0,0,1,47,Green View Homes
+ayodhya bypass,Flat,50.64,6743,7.0,Moderate Property,2,1,2,583.8052488588897,0,0,0,0,0,0,1,121,Amenity Facing Homes
+awadhpuri,Flat,16.0,2519,6.0,Old Property,2,2,2,565.0,0,0,0,0,0,0,1,33,Green View Homes
+gehu kheda,Flat,45.0,3333,4.0,New Property,3,3,2,1620.0,1,1,0,1,1,0,0,50,Green View Homes
+misrod,Flat,42.0,2228,5.0,New Property,3,3,3,1885.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,55.0,9166,3.0,Moderate Property,3,3,2,600.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,32.0,2424,2.0,New Property,2,2,0,1584.0,0,0,0,0,0,0,1,77,Road Facing Homes
+bhopal,House,76.0,5974,1.0,New Property,2,3,0,1272.0,0,0,0,0,0,0,1,6,Green View Homes
+salaiya,Flat,42.0,2333,5.0,Moderate Property,3,3,2,2160.0,0,0,0,0,0,0,1,44,Amenity Facing Homes
+khajuri kalan,Flat,10.0,2857,1.0,Moderate Property,1,1,1,272.07967656539466,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,House,26.0,3939,1.0,Moderate Property,2,1,0,660.0,0,0,0,0,0,0,1,9,Green View Homes
+misrod,Flat,31.0,2214,1.0,Moderate Property,3,2,1,1680.0,0,0,0,0,0,0,1,75,Green View Homes
+bairagarh,House,225.0,22500,2.0,Moderate Property,4,4,2,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+chuna bhatti,Flat,18.3,1702,2.0,Old Property,3,2,0,1075.0,0,0,0,0,0,0,1,27,Green View Homes
+bhopal,House,55.1,4318,2.0,New Property,6,3,2,1400.0,1,1,0,0,1,0,1,23,Amenity Facing Homes
+ayodhya nagar,House,75.0,9375,1.0,Moderate Property,3,3,2,800.0,0,0,0,0,0,0,1,34,Green View Homes
+hoshangabad road,Flat,42.0,3736,4.0,Moderate Property,3,3,1,1348.8,0,0,0,0,0,1,0,42,Green View Homes
+awadhpuri,House,60.0,6024,2.0,New Property,3,3,3,996.0,0,0,0,0,0,0,2,16,Amenity Facing Homes
+shahjahanabad,Flat,35.0,3888,3.0,New Property,3,2,1,1080.0,0,0,0,0,0,0,1,32,Road Facing Homes
+kolar road,Flat,65.0,4391,2.0,New Property,3,3,3,1150.5083466193832,0,0,0,0,1,0,0,51,Amenity Facing Homes
+outside bhopal,House,22.0,2328,1.0,New Property,3,2,2,945.0,0,0,0,0,0,0,1,13,Green View Homes
+gandhinagar,House,85.0,3542,1.0,New Property,3,2,1,2400.0,0,0,0,0,0,0,1,14,Amenity Facing Homes
+gandhinagar,House,130.0,8666,2.0,Moderate Property,5,8,2,1500.0,0,0,0,1,0,0,1,3,Green View Homes
+central bhopal,House,135.0,13500,2.0,Old Property,3,3,2,1000.0,0,0,0,0,0,0,1,19,Road Facing Homes
+misrod,Flat,120.0,5785,1.0,New Property,5,5,2,2074.0,0,0,0,1,0,0,1,78,Amenity Facing Homes
+habib ganj,Flat,85.0,8095,8.0,Old Property,3,3,2,1260.0,0,0,0,0,0,0,1,33,Amenity Facing Homes
+bawadia kalan,Flat,55.0,4782,5.0,Moderate Property,3,3,2,1380.0,0,0,0,0,0,0,1,32,Amenity Facing Homes
+ayodhya bypass,House,65.0,8125,2.0,Old Property,3,2,2,800.0,0,0,0,0,1,0,1,4,Green View Homes
+bhopal,House,75.0,9375,2.0,Old Property,4,6,2,800.0,0,0,0,0,0,0,0,13,Road Facing Homes
+bhopal,House,120.0,12000,3.0,Old Property,3,5,2,3000.0,0,0,0,0,0,0,1,3,Road Facing Homes
+chuna bhatti,Flat,45.0,3000,3.0,Old Property,3,2,1,1303.0,0,0,0,0,0,0,1,46,Road Facing Homes
+kolar road,House,155.0,7750,1.0,New Property,3,3,0,2000.0,0,0,0,0,0,0,1,9,Green View Homes
+bawadia kalan,Flat,56.0,3733,3.0,Old Property,3,2,1,1561.0,0,0,0,0,1,0,0,17,Road Facing Homes
+salaiya,House,48.0,6400,2.0,New Property,3,4,1,750.0,1,1,1,1,0,0,1,105,Road Facing Homes
+bawadia kalan,Flat,40.0,5970,3.0,New Property,2,2,1,791.0,0,0,0,0,0,0,2,55,Road Facing Homes
+arera colony,House,1550.0,34444,2.0,New Property,10,9,2,4500.0,1,1,1,1,0,0,2,118,Green View Homes
+khajuri kalan,Flat,24.0,2666,1.0,New Property,2,2,1,699.6334540253006,0,0,0,0,0,0,1,3,Road Facing Homes
+shahpura,House,47.0,5641,2.0,Old Property,4,4,2,780.0,0,0,0,0,0,0,0,16,Road Facing Homes
+ayodhya bypass,Flat,6.1,2479,1.0,Moderate Property,1,1,0,246.0,0,0,0,0,0,0,1,0,Road Facing Homes
+ayodhya bypass,Flat,32.0,2368,3.0,New Property,3,2,3,1074.0,0,0,0,0,0,0,1,19,Green View Homes
+kolar road,House,185.0,12333,1.0,New Property,3,3,1,1500.0,0,0,0,0,0,0,1,3,Road Facing Homes
+central bhopal,House,325.0,15476,3.0,Old Property,5,5,1,2100.0,0,0,0,0,0,0,1,16,Green View Homes
+ayodhya bypass,Flat,30.0,2921,6.0,New Property,2,2,2,798.3595080933153,0,0,0,0,0,0,1,19,Green View Homes
+bawadia kalan,Flat,150.0,12500,4.0,New Property,3,3,3,1440.0,0,0,0,0,0,0,1,0,Road Facing Homes
+kolar road,Flat,19.0,3275,1.0,Moderate Property,2,2,0,580.0,0,0,0,0,0,0,1,0,Road Facing Homes
+outside bhopal,House,55.0,6111,2.0,New Property,4,2,2,2160.0,0,0,0,0,0,0,1,0,Road Facing Homes
+salaiya,Flat,58.0,3222,4.0,New Property,3,3,2,2160.0,0,0,0,0,0,0,1,28,Green View Homes
+kolar road,Flat,64.0,5818,3.0,New Property,3,2,1,1100.0,0,0,0,0,0,0,1,41,Green View Homes
+gandhinagar,Flat,45.0,3214,3.0,Moderate Property,3,2,2,1088.3187062615787,0,0,0,0,0,0,1,52,Green View Homes
+salaiya,House,80.0,8888,2.0,New Property,4,3,2,1450.0,0,0,0,0,0,0,1,13,Road Facing Homes
+awadhpuri,House,70.0,7954,2.0,New Property,3,3,1,1500.0,0,0,0,1,0,0,1,31,Green View Homes
+bairagarh,House,48.0,8000,1.0,Moderate Property,2,2,2,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,45.0,4090,2.0,New Property,3,6,2,1100.0,0,0,0,0,0,0,1,0,Road Facing Homes
+hoshangabad road,Flat,50.0,3076,6.0,Moderate Property,3,3,3,1263.227069767904,1,0,0,1,0,0,0,76,Amenity Facing Homes
+lalgathi,Flat,34.0,3777,1.0,New Property,4,3,1,1080.0,0,0,0,0,0,0,1,6,Road Facing Homes
+katara hills,Flat,25.0,3571,1.0,Moderate Property,2,2,1,840.0,0,0,0,0,0,0,1,48,Amenity Facing Homes
+karond,House,200.0,5405,3.0,New Property,10,8,3,3700.0,0,0,0,0,0,0,1,17,Road Facing Homes
+shahjahanabad,House,125.0,12500,2.0,New Property,5,4,1,1000.0,0,0,0,0,0,0,1,16,Amenity Facing Homes
+shahjahanabad,Flat,27.0,3600,2.0,Moderate Property,2,2,2,583.0278783544172,0,0,0,0,0,0,1,8,Road Facing Homes
+bawadia kalan,Flat,150.0,6976,6.0,New Property,4,4,3,1916.0,0,0,0,0,0,0,1,18,Green View Homes
+hoshangabad road,Flat,45.0,4891,1.0,Old Property,3,2,1,1104.0,0,0,0,0,0,0,1,58,Green View Homes
+ayodhya bypass,Flat,40.0,4000,4.0,New Property,3,2,1,1200.0,0,0,0,0,0,0,1,49,Amenity Facing Homes
+lalgathi,House,65.0,7462,3.0,Old Property,4,3,2,871.0,0,0,0,0,0,0,1,27,Amenity Facing Homes
+bhopal,House,73.95,7395,2.0,Moderate Property,4,2,2,1700.0,0,0,0,0,0,0,1,12,Road Facing Homes
+peer gate area,Flat,35.0,4861,4.0,New Property,2,2,1,864.0,0,0,0,0,0,0,2,18,Road Facing Homes
+awadhpuri,House,90.0,7200,3.0,Moderate Property,6,4,3,1250.0,1,0,0,1,0,0,1,12,Amenity Facing Homes
+bhopal,House,110.0,7457,2.0,Old Property,3,3,2,1375.0,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,70.0,5834,2.0,New Property,5,5,3,2400.0,0,0,0,0,1,0,1,0,Road Facing Homes
+katara hills,Flat,55.0,4515,6.0,New Property,3,3,2,2436.0,0,0,0,1,0,0,0,38,Amenity Facing Homes
+awadhpuri,Flat,31.0,2750,3.0,Moderate Property,3,2,2,954.0,0,0,0,0,1,0,1,61,Road Facing Homes
+lalgathi,House,100.0,10000,3.0,Moderate Property,5,5,0,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+shahpura,House,100.0,8333,1.0,Moderate Property,3,3,1,2200.0,0,0,0,0,0,0,1,7,Green View Homes
+central bhopal,House,200.0,8333,2.0,Old Property,8,6,1,2400.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,25.0,3125,1.0,Old Property,2,2,1,800.0,0,0,0,0,0,0,1,5,Road Facing Homes
+bhopal,Flat,21.0,5399,1.0,Old Property,2,1,1,555.6,0,0,0,0,0,0,1,12,Green View Homes
+bawadia kalan,Flat,52.0,4860,6.0,New Property,2,2,2,1070.0,0,0,0,0,0,0,1,25,Green View Homes
+hoshangabad road,House,55.0,4122,1.0,Moderate Property,2,2,0,1334.0,0,0,0,0,0,0,1,16,Road Facing Homes
+ayodhya nagar,Flat,16.5,2640,3.0,Old Property,2,2,1,625.0,0,0,0,0,0,0,1,24,Green View Homes
+katara hills,House,90.0,5625,2.0,New Property,3,3,1,1800.0,0,0,0,0,0,0,0,15,Green View Homes
+hoshangabad road,Flat,42.0,3134,2.0,New Property,3,2,2,1041.6764759932253,0,0,0,0,1,0,1,40,Green View Homes
+kolar road,House,40.0,6666,1.0,New Property,4,3,1,600.0,0,0,0,0,0,0,1,13,Amenity Facing Homes
+bawadia kalan,Flat,93.0,5027,7.0,Under Construction,4,4,3,2220.0,0,0,0,0,0,0,1,97,Premium Scenic Homes
+ayodhya bypass,Flat,36.0,3333,4.0,New Property,2,2,0,1080.0,0,0,0,0,0,0,1,49,Amenity Facing Homes
+salaiya,Flat,30.0,2654,1.0,Moderate Property,2,2,1,1356.0,0,0,0,0,0,0,1,30,Amenity Facing Homes
+bhopal,Flat,50.0,5861,9.0,New Property,3,2,2,1023.5999999999999,0,0,0,0,1,0,1,27,Premium Scenic Homes
+karond,House,25.0,5555,2.0,New Property,2,2,1,1000.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,35.0,4166,1.0,New Property,1,2,1,840.0,1,0,0,1,0,0,1,3,Road Facing Homes
+gandhinagar,Flat,50.88,3200,6.0,New Property,3,2,2,1400.0,0,0,0,1,0,0,2,39,Amenity Facing Homes
+ashoka garden,Flat,25.0,4310,1.0,Moderate Property,2,2,1,696.0,0,0,0,0,0,0,1,0,Road Facing Homes
+arera colony,House,165.0,9166,2.0,Moderate Property,5,4,2,1800.0,1,0,0,1,0,0,1,22,Green View Homes
+kolar road,Flat,26.0,3631,2.0,New Property,2,2,2,859.1999999999999,0,0,0,0,0,0,0,41,Road Facing Homes
+bawadia kalan,Flat,55.0,3666,4.0,Moderate Property,3,3,2,1800.0,0,0,0,0,0,0,0,53,Green View Homes
+kolar road,House,55.0,6250,1.0,Moderate Property,3,3,1,1700.0,1,0,0,1,1,0,2,34,Amenity Facing Homes
+hoshangabad road,Flat,35.0,4117,6.0,Moderate Property,2,2,2,950.0,0,0,0,0,0,1,2,104,Amenity Facing Homes
+katara hills,Flat,21.0,3134,1.0,New Property,2,2,2,750.0,0,0,0,0,0,0,1,43,Amenity Facing Homes
+chuna bhatti,House,150.0,10000,2.0,Old Property,4,4,2,2700.0,1,0,0,1,1,0,1,22,Green View Homes
+salaiya,House,125.0,10416,2.0,New Property,4,3,2,1200.0,0,0,0,0,0,0,1,9,Green View Homes
+bhopal,Flat,28.0,4666,1.0,Old Property,2,1,1,720.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bawadia kalan,Flat,49.9,6472,1.0,New Property,2,2,2,599.3526589483408,0,0,0,0,0,0,2,46,Amenity Facing Homes
+katara hills,Flat,26.0,2539,3.0,New Property,2,2,2,720.0,0,0,0,0,0,0,1,41,Amenity Facing Homes
+ayodhya bypass,Flat,65.0,4333,1.0,New Property,3,3,0,1500.0,0,0,0,0,0,0,1,0,Road Facing Homes
+lalgathi,Flat,25.0,3571,3.0,New Property,2,2,1,840.0,0,0,0,0,0,0,1,0,Road Facing Homes
+bhopal,House,125.0,10416,3.0,Old Property,4,11,2,1200.0,0,0,0,0,0,0,1,0,Road Facing Homes
+awadhpuri,House,55.0,5500,1.0,Old Property,2,2,0,800.0,0,0,0,0,0,0,1,12,Amenity Facing Homes
+katara hills,Flat,38.0,6119,1.0,New Property,2,2,2,621.0,0,0,0,0,0,0,1,25,Road Facing Homes
+bagmugaliya,House,45.0,4285,5.0,Moderate Property,3,2,0,1260.0,0,0,0,0,0,0,1,102,Green View Homes
+misrod,House,175.0,11666,2.0,New Property,4,3,3,1500.0,0,0,1,0,0,0,1,28,Green View Homes
+hoshangabad road,Flat,20.0,2882,6.0,New Property,2,2,1,694.0,0,0,0,0,0,0,1,45,Amenity Facing Homes
+outside bhopal,House,40.0,5063,2.0,Under Construction,3,3,2,790.0,0,0,0,0,0,0,1,17,Green View Homes
+kolar road,House,65.0,6500,2.0,Moderate Property,3,2,1,1000.0,0,0,0,0,0,0,1,19,Road Facing Homes
+habib ganj,House,200.0,13333,2.0,Old Property,3,3,1,1500.0,1,0,0,1,0,0,1,9,Green View Homes
+mandideep,House,75.0,4687,2.0,New Property,3,3,2,1920.0,0,0,0,0,0,0,1,29,Amenity Facing Homes
+khajuri kalan,Flat,10.0,2857,1.0,Moderate Property,1,1,1,272.07967656539466,0,0,0,0,0,0,1,11,Amenity Facing Homes
+kolar road,Flat,20.0,3076,3.0,Moderate Property,1,1,1,505.29082790716154,0,0,0,0,0,0,1,0,Road Facing Homes
+karond,House,62.0,7750,2.0,New Property,2,3,1,800.0,1,0,0,1,0,0,1,4,Green View Homes
+gandhinagar,House,95.0,9047,2.0,Old Property,4,3,1,2000.0,0,0,0,1,0,0,1,14,Green View Homes
+misrod,Flat,28.0,2000,3.0,Moderate Property,3,2,1,1096.0,0,0,0,0,0,0,1,102,Amenity Facing Homes
+salaiya,House,55.0,6547,1.0,Moderate Property,3,3,2,1398.0,1,1,1,1,0,0,2,146,Amenity Facing Homes
+awadhpuri,House,75.0,8522,2.0,New Property,3,4,1,880.0,0,0,0,0,0,0,1,12,Road Facing Homes
+bawadia kalan,House,120.0,7666,3.0,Moderate Property,3,6,3,1500.0,0,0,0,1,0,0,1,4,Green View Homes
+central bhopal,Flat,80.0,8922,1.0,Old Property,2,2,1,1076.3999999999999,0,0,0,0,0,0,1,25,Road Facing Homes
+ashoka garden,House,65.0,8666,1.0,New Property,3,2,1,750.0,0,0,0,0,0,0,1,27,Road Facing Homes
+hoshangabad road,House,155.0,14090,2.0,Moderate Property,4,4,2,1800.0,0,0,0,0,0,0,2,4,Amenity Facing Homes
+misrod,House,100.0,6856,2.0,New Property,5,6,3,3400.0,0,0,0,0,0,0,1,22,Amenity Facing Homes
+bagmugaliya,Flat,35.0,2755,4.0,Moderate Property,3,2,2,1524.0,0,0,0,0,0,0,0,53,Amenity Facing Homes
