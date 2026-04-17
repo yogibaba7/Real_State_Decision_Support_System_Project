@@ -1,238 +1,211 @@
-import pandas as pd 
-import numpy as np 
-import joblib 
-from sklearn.preprocessing import StandardScaler
+import pandas as pd
+import numpy as np
+import joblib
 import streamlit as st
 import statsmodels.api as sm
-from sklearn.model_selection import KFold, cross_val_score
-from sklearn.linear_model import LinearRegression,Ridge
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import mean_absolute_error
-from sklearn.preprocessing import OneHotEncoder, StandardScaler, OrdinalEncoder
 import plotly.express as px
-import shap
 import matplotlib.pyplot as plt
 from st_aggrid import AgGrid, GridOptionsBuilder
-import os 
+import os
 import gdown
 
+# =========================
+
+# PAGE CONFIG
 
 # =========================
-# PAGE CONFIG
-# =========================
+
 st.set_page_config(page_title="Insight Module", page_icon="📊", layout="wide")
 
 st.title("🏠 Smart Real Estate Insight Module")
 st.markdown("### Understand how each feature impacts property price")
 
+# =========================
+
+# LOAD DATA (CACHED)
+
+# =========================
+
 @st.cache_resource
 def load_data1():
     if not os.path.exists("insight_df.joblib"):
-        url = "https://drive.google.com/file/d/1hDGpVEenCaRy31PT_b9BHdg6XeLzUBIs/view?usp=drive_link"
+        url = "https://drive.google.com/uc?id=1hDGpVEenCaRy31PT_b9BHdg6XeLzUBIs"
         gdown.download(url, "insight_df.joblib", quiet=False)
-    
-    return joblib.load("insight_df.joblib")
-
-df = load_data1()
+    df = joblib.load("insight_df.joblib")
+    return df.astype("float32")
 
 @st.cache_resource
 def load_data2():
     if not os.path.exists("top10features.joblib"):
-        url = "https://drive.google.com/file/d/1iQbtYsE_1lWwLXGu6BRoXKabm7ORf9eg/view?usp=drive_link"
+        url = "https://drive.google.com/uc?id=1iQbtYsE_1lWwLXGu6BRoXKabm7ORf9eg"
         gdown.download(url, "top10features.joblib", quiet=False)
-    
     return joblib.load("top10features.joblib")
 
+df = load_data1()
 top20 = load_data2()
 
-# df = joblib.load("models/insight_df.joblib")
-# top20 = joblib.load("models/top10features.joblib")
-inputs = df.drop(columns='price_outer')
-output = df['price_outer']
-output_log = np.log1p(output)
-scaler = StandardScaler()
+# =========================
 
-inputs_scaled = scaler.fit_transform(inputs)
-inputs_df = pd.DataFrame(inputs_scaled,columns=inputs.columns)
+# OLS (CACHED)
 
-# add constant
-X_ols = sm.add_constant(inputs_df)
+# =========================
 
-ols_model = sm.OLS(output_log, X_ols).fit()
-
-summary_df = ols_model.summary2().tables[1]
-summary_df = summary_df.reset_index().rename(columns={'index': 'feature'})
+@st.cache_resource
+def compute_ols(df):
+    inputs = df.drop(columns='price_outer')
+    output = df['price_outer']
+    output_log = np.log1p(output)
 
 
-# sirf valid features (p < 0.05)
-important_features = summary_df[summary_df['P>|t|'] < 0.05]
+    from sklearn.preprocessing import StandardScaler
+    scaler = StandardScaler()
+    inputs_scaled = scaler.fit_transform(inputs)
 
-# constant hata do
-important_features = important_features[important_features['feature'] != 'const']
+    inputs_df = pd.DataFrame(inputs_scaled, columns=inputs.columns)
+    X_ols = sm.add_constant(inputs_df)
+
+    model = sm.OLS(output_log, X_ols).fit()
+    summary_df = model.summary2().tables[1]
+    summary_df = summary_df.reset_index().rename(columns={'index': 'feature'})
+
+    important = summary_df[summary_df['P>|t|'] < 0.05]
+    important = important[important['feature'] != 'const']
+
+    return important, scaler, inputs_df
+
+
+important_features, scaler, inputs_df = compute_ols(df)
 
 valid_feature_list = important_features['feature'].tolist()
 
-# print(valid_feature_list)
+# =========================
+
+# INSIGHT FUNCTION
+
+# =========================
 
 def get_insight(feature_name):
-
     idx = list(inputs_df.columns).index(feature_name)
-    coef = important_features[important_features['feature']==feature_name]['Coef.']
-    
-    # coef = lr.coef_[idx]
+    coef = important_features[important_features['feature'] == feature_name]['Coef.']
     std = scaler.scale_[idx]
 
     real_coef = coef / std
     factor = np.exp(real_coef).values[0]
-   
 
     base_price = df['price_outer'].median()
-
     rupee_change = base_price * (factor - 1)
     rupees = rupee_change * 100000
-
     percent = (factor - 1) * 100
 
     return rupees, percent
 
+
 # =========================
-# SIDEBAR (FEATURE SELECT)
+
+# UI
+
 # =========================
+
 st.markdown("### ⚙️ Select Feature")
 
-selected_feature = st.radio(
-    "Choose Feature",
-    valid_feature_list,
-    horizontal=True
-)
+selected_feature = st.radio("Choose Feature", valid_feature_list, horizontal=True)
 
-
-# =========================
-# MAIN OUTPUT UI
-# =========================
 st.markdown("---")
-
 col1, col2 = st.columns(2)
 
 rupees, percent = get_insight(selected_feature)
 
-# =========================
-# CARD 1 (₹ IMPACT)
-# =========================
 with col1:
     st.markdown("### 💰 Price Impact")
-
     if rupees > 0:
         st.success(f"⬆️ Price increases by approx ₹{int(rupees):,}")
     else:
         st.error(f"⬇️ Price decreases by approx ₹{int(abs(rupees)):,}")
 
-# =========================
-# CARD 2 (% IMPACT)
-# =========================
 with col2:
     st.markdown("### 📊 Percentage Impact")
-
     if percent > 0:
         st.info(f"📈 +{round(percent,2)}% increase")
     else:
         st.warning(f"📉 {round(percent,2)}% decrease")
 
 # =========================
-# FEATURE STRENGTH
+
+# SCATTER
+
 # =========================
-st.markdown("---")
 
-impact_strength = abs(percent)
-
-if impact_strength > 20:
-    strength = "🔥 High Impact"
-elif impact_strength > 5:
-    strength = "⚡ Medium Impact"
-else:
-    strength = "🟢 Low Impact"
-
-st.markdown(f"### Impact Strength: {strength}")
-
-st.dataframe(top20[['feature', 'coef']], use_container_width=True)
-
-
-fig = px.scatter(df, x=selected_feature, y='price_outer',
-                 trendline='ols',
-                 title=f"{selected_feature} vs Price")
-
+fig = px.scatter(df, x=selected_feature, y='price_outer', trendline='ols')
 st.plotly_chart(fig, use_container_width=True)
 
-# ----------------------------------------------------------------------------
+# =========================
 
-
-# ----------------------------------------------------------------------------------
-
-
+# LOAD MODEL (CACHED)
 
 # =========================
-# LOAD DATA + PIPELINE
-# =========================
-df1 = pd.read_csv("data/missing_imputeted_df.csv")
 
 @st.cache_resource
 def load_model():
     if not os.path.exists("model.joblib"):
-        url = "https://drive.google.com/file/d/1wr_2Y1gnnBkuiMqO2f1v-ALfZmnBHJSF/view?usp=drive_link"
+        url = "https://drive.google.com/uc?id=1wr_2Y1gnnBkuiMqO2f1v-ALfZmnBHJSF"
         gdown.download(url, "model.joblib", quiet=False)
-    
     return joblib.load("model.joblib")
 
 pipeline = load_model()
 
+# =========================
+
+# LOAD SECOND DATA
+
+# =========================
+
+df1 = pd.read_csv("data/missing_imputeted_df.csv")
+df1 = df1.astype("float32")
+
 def luxury_category(row):
-    if row>0 and row<=50:
+    if row <= 50:
         return 'Low'
-    elif row>50 and row<=100:
+    elif row <= 100:
         return 'Medium'
     else:
         return 'High'
-    
 
 df1['luxury_category'] = df1['luxury_score'].apply(luxury_category)
-
-df1['furnishing_type'] = df1['furnishing_type'].map({0:"Unfurnished",1:"Semifurnished",2:"furnished"})
-
-df1.drop(columns=['luxury_score','price_per_sqft'],inplace=True)
-
+df1['furnishing_type'] = df1['furnishing_type'].map({0: "Unfurnished", 1: "Semifurnished", 2: "furnished"})
+df1.drop(columns=['luxury_score', 'price_per_sqft'], inplace=True)
 
 # =========================
-# TABLE SELECT UI
+
+# TABLE
+
 # =========================
+
 st.subheader("🏠 Select Property")
 
-display_cols = [
-    'colony', 'bedrooms', 'bathrooms',
-    'built_up_area', 'price_outer'
-]
-
+display_cols = ['colony', 'bedrooms', 'bathrooms', 'built_up_area', 'price_outer']
 grid_df = df1[display_cols]
 
 gb = GridOptionsBuilder.from_dataframe(grid_df)
 gb.configure_selection(selection_mode="single", use_checkbox=True)
-gb.configure_pagination()
 
-grid_response = AgGrid(
-    grid_df,
-    gridOptions=gb.build(),
-    height=400,
-    theme="streamlit"
-)
-
+grid_response = AgGrid(grid_df, gridOptions=gb.build(), height=400)
 selected_rows = grid_response["selected_rows"]
 
 # =========================
-# IF USER SELECTS ROW
+
+# SHAP (LAZY + CACHED)
+
 # =========================
+
+@st.cache_resource
+def get_explainer(model):
+    import shap
+    return shap.TreeExplainer(model)
+
 if selected_rows is not None and len(selected_rows) > 0:
     selected_row = selected_rows.iloc[0]
 
-    # get index
+
     idx = df1[
         (df1['colony'] == selected_row['colony']) &
         (df1['bedrooms'] == selected_row['bedrooms']) &
@@ -241,71 +214,21 @@ if selected_rows is not None and len(selected_rows) > 0:
 
     st.success(f"Selected Property Index: {idx}")
 
-    # # =========================
-    # # PREPARE INPUT
-    # # =========================
-    # df = df.drop(columns=['price_outer'])
-    # input_data = df.iloc[[idx]]
-
-    # # =========================
-    # # PREDICTION
-    # # =========================
-    # pred_log = pipeline.predict(input_data)[0]
-    # pred_price = np.exp(pred_log)
-
-    # st.subheader(f"💰 Predicted Price: ₹{int(pred_price * 100000):,}")
-
     input_data = df1.drop(columns=['price_outer']).iloc[[idx]]
-    # =========================
-    # SHAP EXPLAINER
-    # =========================
+
     model = pipeline.named_steps['model']
     preprocessor = pipeline.named_steps['preprocessor']
     feature_names = preprocessor.get_feature_names_out()
 
     input_transformed = preprocessor.transform(input_data)
 
-    explainer = shap.TreeExplainer(model)
+    explainer = get_explainer(model)
     shap_values = explainer(input_transformed)
-    shap_values.feature_names = feature_names
-    
-    # =========================
-    # WATERFALL
-    # =========================
+
     st.subheader("📊 Feature Contribution")
 
     fig = plt.figure()
+    import shap
     shap.plots.waterfall(shap_values[0], show=False)
     st.pyplot(fig)
 
-    # =========================
-    # CONTRIBUTION TABLE
-    # =========================
-    contrib_df = pd.DataFrame({
-        "Feature": feature_names,
-        "Impact": shap_values.values[0]
-    })
-
-    base_price = df1['price_outer'].median()
-    contrib_df["₹ Impact"] = contrib_df["Impact"] * base_price * 100000
-    contrib_df["abs"] = contrib_df["₹ Impact"].abs()
-
-    top = contrib_df.sort_values(by="abs", ascending=False).head(10)
-
-    st.subheader("📋 Top Factors")
-    st.dataframe(top[['Feature', '₹ Impact']], use_container_width=True)
-
-    # =========================
-    # POSITIVE / NEGATIVE
-    # =========================
-    col1, col2 = st.columns(2)
-
-    with col1:
-        st.markdown("### 🟢 Increasing Price")
-        for _, row in top[top['₹ Impact'] > 0].iterrows():
-            st.success(f"{row['Feature']} → +₹{int(row['₹ Impact']):,}")
-
-    with col2:
-        st.markdown("### 🔴 Decreasing Price")
-        for _, row in top[top['₹ Impact'] < 0].iterrows():
-            st.error(f"{row['Feature']} → ₹{int(row['₹ Impact']):,}")
