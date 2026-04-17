@@ -175,7 +175,15 @@ st.plotly_chart(fig, use_container_width=True)
 # =========================
 df1 = pd.read_csv("data/missing_imputeted_df.csv")
 
-pipeline = joblib.load("models/pipeline.joblib")
+@st.cache_resource
+def load_model():
+    if not os.path.exists("model.pkl"):
+        url = "https://drive.google.com/file/d/1wr_2Y1gnnBkuiMqO2f1v-ALfZmnBHJSF/view?usp=drive_link"
+        gdown.download(url, "model.pkl", quiet=False)
+    
+    return joblib.load("model.pkl")
+
+pipeline = load_model()
 
 def luxury_category(row):
     if row>0 and row<=50:
