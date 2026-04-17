@@ -13,7 +13,7 @@ st.title("💰 Price Prediction Module")
 @st.cache_resource
 def load_model():
     if not os.path.exists("model.joblib"):
-        url = "https://drive.google.com/file/d/1wr_2Y1gnnBkuiMqO2f1v-ALfZmnBHJSF/view?usp=drive_link"
+        url = "https://drive.google.com/file/d/1RXocTWSrooJKMrpa-BZQiSb8D-DPpG2U/view?usp=drive_link"
         gdown.download(url, "model.joblib", quiet=False)
     
     return joblib.load("model.joblib")
